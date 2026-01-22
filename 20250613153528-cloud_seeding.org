@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       1d7fd413-eae2-402d-a003-f5982b639aeb
+:END:
+#+title: Cloud Seeding
+#+date: [2025-06-13 Fri 15:35]
+j
+
+You're right to highlight the IITM's work as distinct from operational projects. Their focus has indeed been on the scientific understanding of cloud physics and the effectiveness of cloud seeding, rather than implementing widespread "rainmaking" programs.
+
+
+Here's more detail on IITM's scientific investigations on cloud seeding in India, specifically mentioning the Tiruvallur experiments and their broader research:
+**IITM's Early Cloud Seeding Experiments (including Tiruvallur, 1970s)**
+
+
+** **Pioneering Efforts:** The Indian Institute of Tropical Meteorology (IITM) has a long history of involvement in cloud seeding research. This began even before the 1970s, with pioneering attempts in India dating back to the 1950s (e.g., by Tata firm over Western Ghats in 1951, and Dr. Banerji in 1952 using balloons).
+*** **Rain and Cloud Physics Research (RCPR) Unit:** In 1953, a Rain and Cloud Physics Research (RCPR) Unit was set up to conduct extensive scientific studies on cloud physics and rainmaking. This unit later became part of IITM.
+* **Tiruvallur Experiments (1973, 1975-1977):** As you mentioned, IITM conducted cloud seeding experiments over Tiruvallur (near Madras/Chennai, Tamil Nadu) during these periods. These experiments, along with others in Mumbai (1973, 1974) and Rihand catchment in Uttar Pradesh (1975), utilized ground-based generators to disperse seeding agents.
+* **Baramati Randomized Experiment (1973-74, 1976, 1979-86):** A particularly significant long-term experiment was conducted over the Baramati region of Maharashtra. This was a *randomized* experiment, meaning some clouds were seeded, and others were not, allowing for a more scientific assessment of the impact. The results from Baramati indicated a **24% increase in rainfall** in seeded areas. This was a crucial finding for understanding the potential of cloud seeding in India.
+* **Seeding Agents:** These early experiments primarily used a mixture of finely-powdered common salt and soapstone for hygroscopic seeding (to encourage droplet growth) and silver iodide for glaciogenic seeding (to encourage ice crystal formation in cold clouds).
+* **Focus on "Understanding the Science":** It's important to reiterate that these were *scientific investigations* to understand the microphysical processes within clouds and the effectiveness of seeding. They were not large-scale operational projects aimed at solving widespread water shortages, but rather to gather data and build a scientific basis for weather modification.
+
+**Modern IITM Research: CAIPEEX (Cloud Aerosol Interaction and Precipitation Enhancement Experiment)**
+
+* **Evolution of Research:** IITM's cloud seeding research has evolved significantly since the 1970s, incorporating advanced technologies and more rigorous experimental designs. The most prominent recent program is the **Cloud Aerosol Interaction and Precipitation Enhancement Experiment (CAIPEEX)**.
+* **CAIPEEX's Objectives:** CAIPEEX is a multi-phase, multi-institutional program aimed at addressing the intricacies of aerosol-cloud-rainfall interactions. Its specific focus includes:
+    * **Understanding Cloud-Aerosol Interaction:** How natural and anthropogenic aerosols influence cloud formation and precipitation.
+    * **Precipitation Enhancement:** Evaluating the efficacy of cloud seeding under various conditions.
+* **Hygroscopic Seeding Focus:** CAIPEEX has largely focused on **hygroscopic seeding** in warm clouds, where an instrumented aircraft dispenses cloud seeding particles (like calcium chloride) at the cloud base. These particles act as cloud condensation nuclei (CCN) to promote droplet growth and coalescence, leading to increased rainfall.
+* **Solapur Experiments (CAIPEEX-IV, 2016-2018):** The latest phase of CAIPEEX (CAIPEEX-IV) involved extensive experiments over the rain-shadow region of Solapur, Maharashtra. These experiments were highly instrumented, using aircraft, radar, rain gauges, and other advanced equipment to collect detailed data.
+* **Positive Results from Solapur:** The CAIPEEX-IV results have been significant. The report, released in July 2023, indicated a **relative enhancement of rainfall by approximately 18%** in a 100 sq. km area downwind of the seeding location in Solapur, under suitable conditions. Some specific locations showed an increase of up to 46%.
+* **"Mission Mausam" and Cloud Chamber:** As part of the broader "Mission Mausam" launched by the Indian government, IITM is also setting up India's first **convective cloud chamber** in Pune. This chamber will allow scientists to simulate and study Indian monsoon conditions in a controlled environment, further advancing their understanding of cloud physics and weather modification. This highlights the continued commitment to fundamental research in this area.
+* **Research vs. Operations:** IITM continues to emphasize that its work is primarily on a "research basis" to understand the physics of artificial rainmaking and assess its success rate. While the findings from CAIPEEX show promising results, they are intended to provide "guiding principles for carrying out operational cloud seeding programmes in a more efficient and economic way" rather than being operational projects themselves. The Ministry of Earth Sciences (under which IITM operates) does not currently have a proposal to undertake artificial rainfall/cloud seeding programs across the country, but rather focuses on research to inform future possibilities.
+
+In essence, IITM's historical and ongoing research, including the Tiruvallur experiments and the more recent CAIPEEX, forms the scientific backbone for understanding cloud seeding in the Indian context. Their findings contribute to the global knowledge base on weather modification, helping to determine its feasibility and effectiveness as a tool for water resource management.

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       8b31571c-3b46-4ee4-b231-d3c26fea6170
+:END:
+#+title: EU History
+#+date: [2025-08-05 Tue 07:15]
+
+Here’s a comparative timeline for the rise and fall of the Roman Empire, Holy Roman Empire (HRE), Byzantine Empire, and Ottoman Empire. This table highlights the founding, heights, and falls of each entity.
+
+| Empire            | Rise (Foundation/Peak)                               | Fall (End Event/Date)                                              |
+|-------------------+------------------------------------------------------+--------------------------------------------------------------------|
+| Roman Empire      | 27BC (Augustus establishes Empire)[1][2][3]          | 476AD (Deposition of Romulus Augustulus, fall of West)[1][2][4]    |
+| Holy Roman Empire | 962AD (Otto I crowned Emperor)[5][6][7]              | 1806AD (Abolished by Francis II after defeat by Napoleon)[5][8][7] |
+| Byzantine Empire  | 330AD (Constantine founds Constantinople)[9][10][11] | 1453AD (Fall of Constantinople to Ottomans)[9][10][11]             |
+| Ottoman Empire    | 1299AD (Osman I’s rule begins)[12][13][14]           | 1922AD (Abolition of Sultanate; 1923AD Republic proclaimed)[14]    |
+
+**Details on Each:**
+
+- **Roman Empire:**
+  - Began as the Roman Kingdom (753–509BC), transitioned to Republic (509–27BC), then Empire (27BC–476AD).
+  - Peaked during 1st–2nd century AD.
+  - The Western Roman Empire fell in 476AD, while the Eastern Roman/Byzantine Empire continued[1][2][15].
+
+- **Holy Roman Empire:**
+  - Often dated from Otto I’s imperial coronation in 962AD.
+  - Central European multi-ethnic complex state, claiming legacy of Rome.
+  - Dissolved in 1806 after Napoleon’s victories[5][6][8][7].
+
+- **Byzantine Empire:**
+  - Eastern continuation of Roman Empire, capital at Constantinople from 330AD.
+  - Survived fall of the West (476AD), enduring many ups and downs.
+  - Fell to the Ottomans in 1453AD[9][10][11].
+
+- **Ottoman Empire:**
+  - Emerged circa 1299AD in Anatolia under Osman I.
+  - Captured Constantinople in 1453, marking the end of Byzantium.
+  - Lasted until abolishment of the Sultanate in 1922, with Republic of Turkey declared in 1923[12][14].
+
+This table provides a clear comparison of the timelines for rise and fall across these major historical empires.

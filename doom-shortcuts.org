@@ -1,0 +1,11 @@
+#+title: Doom Shortcuts
+
+Action	Keybinding	Effect
+Move subtree up	M-S-↑	Moves heading + body + children up
+Move subtree down	M-S-↓	Moves heading + body + children down
+Promote subtree	M-LEFT	Promotes heading and all subheadings
+Demote subtree	M-RIGHT	Demotes heading and all subheadings
+Mark subtree	C-c @	Marks entire subtree
+Cut subtree	C-c C-x C-w	Cuts entire subtree
+Paste subtree	C-c C-x C-y	Pastes subtree at point
+Refile subtree	C-c C-w	Moves subtree to another heading

@@ -1,0 +1,69 @@
+#+title: Opex
+* Opex plan
+For a *20,000 sq. ft. co-working space* with *30 private cabins* and *250 total seats, you'll need a well-balanced team for **administration, front desk, housekeeping, technical support, and general maintenance.* Here's a practical breakdown based on industry standards and similar operations:
+
+---
+
+### 👩‍💼 *Administrative & Front Desk Staff*
+
+| Role                      | Count | Notes                                                      |
+| ------------------------- | ----- | ---------------------------------------------------------- |
+| Community Manager         | 1     | Overall in-charge, handles operations and member relations |
+| Front Desk Executive      | 1–2   | Reception, visitor handling, calls, booking assistance     |
+| Admin Assistant / Support | 1     | Helps with vendor coordination, billing, supplies etc.     |
+
+> *Total Admin Staff: 3–4*
+
+---
+
+### 🧹 *Housekeeping / Cleaning Staff*
+
+| Role         | Count | Notes                                       |
+| ------------ | ----- | ------------------------------------------- |
+| Housekeepers | 3–4   | Rotate shifts – morning, afternoon, evening |
+| Pantry Staff | 1–2   | If pantry/cafeteria exists                  |
+
+> *Total Housekeeping: 4–6*
+> Rule of thumb: 1 housekeeper per 4,000–5,000 sq ft, adjusted for usage intensity
+
+---
+
+### 🧰 *Maintenance & Technical Staff*
+
+| Role                 | Count | Notes                                                  |
+| -------------------- | ----- | ------------------------------------------------------ |
+| Facility Maintenance | 1     | General handyman for minor plumbing/electrical repairs |
+| IT/Tech Support      | 1     | For internet, printers, network issues                 |
+| Security Personnel   | 2     | 1 per shift (day/night or more depending on hours)     |
+
+> *Total Maintenance + Security: 3–4*
+
+---
+
+### 📊 *Overall Summary*
+
+| Department         | Staff Count |
+| ------------------ | ----------- |
+| Admin & Front Desk | 3–4         |
+| Housekeeping       | 4–6         |
+| Maintenance/Tech   | 3–4         |
+| *Total*          | *10–14*   |
+
+---
+
+### 🔄 Shifts and Flexibility
+
+If your co-working space operates *12–16 hours daily, some staff will work in **shifts*:
+
+* *Security*: Usually 2 shifts
+* *Housekeeping*: Light vs Deep Cleaning across shifts
+* *Admin*: Mostly single shift (9 to 6)
+
+---
+
+### Final Recommendation:
+
+* *Bare Minimum Staff*: \~10
+* *Optimal Operational Staff: **12–14*
+
+Let me know if you want a layout or daily duties per staff category.

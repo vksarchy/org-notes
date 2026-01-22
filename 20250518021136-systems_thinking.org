@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2cd55cc0-2594-4f7e-ab1d-0dda792e5c08
+:END:
+#+title: Systems Thinking
+#+date: [2025-05-18 Sun 02:11]
+Mind blown by many concepts
+
+stock flow
+flows can be independent
+
+  == Examples set by myself ==
+
+| 10 minutes       | 20 minutes           | 45 minutes                     | 90 minutes                |
+|------------------+----------------------+--------------------------------+---------------------------|
+| Meditation       | Book reading         | Book reading and kananku check | Mechanical work (calling) |
+| Typing practice  | Walking / exercising |                                | Work on the website       |
+| Journaling       |                      |                                |                           |
+| Getting to roots |                      |                                |                           |
+
+* Some of the best budget friendly destinations in 2024
+#+DOWNLOADED: screenshot @ 2025-08-01 03:42:19
+[[file:90_minutes/2025-08-01_03-42-19_screenshot.png]]

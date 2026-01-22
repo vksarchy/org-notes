@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       19c3b95c-8a6b-4e70-b138-fc6d40206980
+:END:
+#+title: Rian Dorris Productivity Roadmap
+#+date: [2025-08-19 Tue 18:28]
+
+* Rian Dorris
+**Summary:**
+The video “A Simple Rule That Unlocks Productivity Superpowers” (by Rian Doris) reveals that working more hours does not make you more productive—in fact, science shows it can make you less productive. The real “superpower” is *work compression*: drastically compressing your work hours forces you to prioritize, eliminate unnecessary tasks, and access deeper focus (or “Flow State”), which can multiply your output while reducing stress and exhaustion.
+
+**Key Takeaways:**
+- More hours often equal *less* output due to stress, poor decisions, and exhaustion.
+- *Work expands to fill the time you give it* (Parkinson's Law), but compressing time forces you to focus on what *matters most*.
+- Ultra-successful people are not simply working more—they have mastered leverage, clarity, and focus, rather than time.
+- Actual productivity comes from:
+  - **Perceived Importance:** When time is limited, you clearly see what’s most important and focus on that.
+  - **Challenge-Skills Balance:** Slightly increasing your challenge while compressed improves your skill and focus—the “sweet spot” for flow.
+  - **Recovery:** Consistent, real breaks are essential; true “off-hours” are just as important as work hours for long-term productivity.
+- Consistency (working fewer, focused hours every day) beats intensity (occasional long hours with burnout).
+
+**Roadmap – Implementing Work Compression for Productivity Superpowers:**
+1. **Determine Your Current Work Hours:** Write out a typical week’s schedule.
+2. **Pick a New, *Much Shorter* Hour Limit:** Start with half your normal hours per day (e.g., from 10 to 5 hours).
+3. **Schedule Work Windows:** Block these hours firmly on your calendar; make the rest “off-limits” for work, no matter what.
+4. **Enforce the Rule:** Use digital hygiene (focus mode, turn off notifications, block social) and do not let work leak past your cut-off.
+5. **Prioritize Ruthlessly:** Within your compressed window, quickly identify the highest-leverage tasks. Remove or delegate everything else.
+6. **Stop on Time:** No exceptions, even if it feels wrong. The discomfort is a sign you’re compressing effectively.
+7. **Honor True Recovery:** Treat guilt-free “off” time as essential for deep recovery and flow.
+8. **Tune and Repeat:** Expect the first week or two to feel rough. Results improve as your brain adapts and you become ruthless about priorities.
+
+**Mantra to Remember:**
+“When you want to multiply output, *subtract hours*.”
+
+This method rewires your brain for peak productivity and unlocks more free time—without guilt or exhaustion.[1]
+
+[1] https://www.youtube.com/watch?v=eash3X5Zi8A
+
+* 2 minute productivity
+**Summary & Key Takeaways:**
+The video by Rian Doris explains that many high-achieving people are developing a self-induced, reversible form of ADHD called ADT (Attention Deficit Trait), caused not by genetics but by chronic stress and constant distractions in modern life. This stands in contrast to genetic ADHD, which is persistent from youth. ADT is reversible through simple neurological resets—by restoring clarity and focus in the moment.
+
+**Core Framework—The 2-Minute “Certainty Window” Rule:**
+1. **Assess (2 Minutes)**:
+   - Take 120 seconds to list all tasks vying for your attention or causing stress. Don’t try to solve anything yet; just externalize everything.
+2. **Decide**:
+   - Choose the *one* task whose completion will relieve you most from stress or overwhelm.
+3. **Commit**:
+   - Set a tangible time window (start with just 10 minutes) to focus on just that task. The more chaotic your environment, the shorter your focus window should be.
+   - Do this with full conviction—don’t second-guess if it’s the optimal task.
+4. **Protect Your Certainty Window**:
+   - Block out distractions—eliminate other tabs, silence notifications, and put your phone away (out of sight altogether).
+   - Use technological (like website blockers), environmental (physical removal of distractors), and social (communicate to others not to disturb you) barriers.
+5. **Sustain**:
+   - Make the window short enough to guarantee you’ll keep your commitment (even 15–30 minutes is valuable).
+   - When your attention slips or doubts creep in, recognize it's normal—use a breathing technique: inhale through your nose for 3 seconds, hold for 2, and exhale gently for 10 seconds—repeat three times.
+   - Change your physical position periodically (stand, stretch, walk) to reset your mind.
+6. **Repeat**:
+   - After each window, check in on your list—pick your next task and new window.
+
+**Roadmap for Applying the Certainty Window Protocol:**
+- **Step 1:** Each morning (or whenever you feel distracted/overwhelmed), take 2 minutes to jot down all pending tasks.
+- **Step 2:** Pick the most pressing one (ask: “If I finished X, would my stress reduce?”).
+- **Step 3:** Commit to working on that task for a short, defined period. Shut out all possible distractions physically and digitally.
+- **Step 4:** When doubt/distraction arises, use the deep breathing reset. Remain in the window until the time is up, even if it feels wrong.
+- **Step 5:** Once the window closes, check your master list again. Repeat the cycle with a new task and window.
+
+**Key Mindset:**
+*Don't chase perfect productivity—just create recurring, protected moments of deep certainty. Over time, this re-trains your brain away from stress-driven distraction to strong, resilient focus.*
+
+**Extra Tip:**
+You can download a free PDF guide from the video's author for a practical breakdown of the process.
+
+**Keywords for Success:** *Certainty window, minimum viable certainty, micro-missions, flow state, sustained attention, protect attention, repeatable cycle*.
+
+This simple but powerful routine is backed by neuroscience and used by elite performers (including Navy SEALs). As you practice, your brain not only regains focus but actively rewires against the chaos of modern distraction, unlocking supercharged productivity.[1]
+
+[1] https://www.youtube.com/watch?v=ajueJ36ufh8&t=13s

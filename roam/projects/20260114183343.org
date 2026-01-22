@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       68192d32-38ad-4b99-8a1d-0e3b3b4815ef
+:END:
+#+title: inlingua
+#+date: [2026-01-14 Wed 18:33]
+#+filetags: :project:
+* Goals
+
+* Notes
+
+* Tasks

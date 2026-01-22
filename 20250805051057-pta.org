@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       a6f63b89-a09d-470d-b998-48e23186a85d
+:END:
+#+title: PTA
+#+date: [2025-08-05 Tue 05:10]
+=== Preferential Trade Agreement ===
+
+A Preferential Trade Agreement (PTA) is a trade pact between countries that reduces tariffs on certain products, making trade easier and more beneficial for the involved nations. It provides preferential access, meaning some products get lower import duties than others from non-member countries.
+
+India has signed the following major PTAs:
+* SAARC Preferential Trading Agreement (SAPTA): Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka.
+
+* Asia-Pacific Trade Agreement (APTA): Bangladesh, China, India, South Korea, Laos, Sri Lanka, and Mongolia.
+
+* India-MERCOSUR PTA: Brazil, Argentina, Uruguay, Paraguay.
+
+* India-Afghanistan PTA: Bilateral between India and Afghanistan.
+
+* India-Chile PTA: Between India and Chile.
+
+India also has multiple Free Trade Agreements (FTAs) but the above are its primary PTAs as of 2025. PTAs focus on specific products/categories, whereas FTAs generally involve almost all traded goods and sometimes services.
+
+Products benefiting from India's Preferential Trade Agreements (PTAs) with various countries and economic blocs include a wide array of goods depending on the specific agreement. Here are the highlights for major PTAs:
+
+**India-Afghanistan PTA**
+- Afghan products benefiting: dry fruits (raisins, walnuts, almonds, figs, pine nuts, pistachios, dried apricots), fresh fruits (pomegranates, apples, apricots, cherries, melons, watermelons), medicinal herbs (asafoetida, saffron).
+- Indian products benefiting: tea, sugar, cement, pharmaceuticals[1][2][3].
+
+**SAARC Preferential Trading Arrangement (SAPTA)**
+- Covers agricultural goods, processed food, textiles, leather, chemicals, machinery, vehicles, minerals, metals, pharmaceuticals, and more[4][5].
+
+**Asia-Pacific Trade Agreement (APTA)**
+- Products benefiting: medicine, textiles, agricultural products, machinery, and items with locally significant value addition[6][7].
+
+**India-MERCOSUR PTA (Brazil, Argentina, Paraguay, Uruguay)**
+- India’s major exports with reduced tariffs: meat and meat products, chemicals, dyes, leather articles, wool, cotton yarn, glassware, articles of iron and steel, machinery, electrical machinery, optical and photographic apparatus.
+- India’s imports with reduced tariffs: food preparations, organic chemicals, pharmaceuticals, essential oils, plastics, rubber products, tools, implements, machinery, and electrical goods[8][9][10].
+
+**India-Chile PTA**
+- Indian exports benefiting: transport equipment, pharmaceuticals, yarn, tyres and tubes, metals, apparel, chemicals, agro-chemicals, textiles, plastic goods, leather, engineering goods, imitation jewelry, handicrafts.
+- Imports from Chile: copper ores, iodine, fruits, nuts, fertilizers, and more[11][12].
+
+In all these PTAs, the lists of products benefiting from preferential tariffs
+are determined and negotiated by both parties. Most lists are available through
+trade portals and ministry documents and commonly involve goods significant for
+the local economies and mutually advantageous trade[13][14][3][6].
+
+[[id:878042c7-f013-42d9-a8c5-ff6ee8b61e72][FTA]]

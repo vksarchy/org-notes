@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       64067ea0-6d0c-4da8-9b0e-323899f4c443
+:END:
+#+title: testiing
+#+date: [2026-01-14 Wed 15:56]
+#+filetags: :zettel:
+* Idea
+
+So testing is correct, but do we really have theat power !!  
+
+* Links
+[[id:88f1778d-8f0b-4d99-bac8-93c6fa92afd0][Superpowers]]
+[[id:999c51bc-49bd-4d20-86a9-214983c85430][what is this?]]

@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       3ebd958b-c8bc-4e0c-a4f6-4eff24aa4d61
+:END:
+#+title: Tactical AAR
+#+date: [2025-11-03 Mon 14:28]
+#+Author: Bravo 1
+
+* ⚔️ DAILY AAR // PERSONAL OPERATIONS LOG
+:PROPERTIES:
+:TYPE: AAR
+:END:
+
+** DATE
+<yyyy-mm-dd>
+
+** AO (Area of Operation)
+_Enter location / context (e.g., In-law AO, Home Base, Market Patrol)_
+
+** STATUS
+- [ ] ACTIVE
+- [ ] STANDBY
+- [ ] RECOVERY
+
+** 1. GOAL
+Mission intent.
+_What needed to be achieved today?_
+Example: Maintain morale, support HVT, execute PT, secure domestic AO.
+
+** 2. HAPPENED
+Facts. No fluff.
+Example: Baby ops, kitchen assist, in-law diplomacy, comm blackout.
+
+** 3. LOST
+What slipped through the cracks — time, energy, focus.
+Example: 1 hr phone scroll, missed PT, morale dip.
+
+** 4. WON
+Victories secured.
+Example: HVT morale boost, baby calm, tasks cleared, self-discipline intact.
+
+** 5. FIX
+Course correction or next-action refinement.
+Example: Gear prep at night, cut screen time, improve comms tone.
+
+** 6. MORALE / CONDITION
+- [ ] HIGH
+- [ ] HOLDING
+- [ ] LOW
+Mindset brief: _Short phrase (e.g., Holding the line, Need recalibration, Calm and ready)._
+
+** 7. FINAL NOTE
+Short reflection, battle wisdom, or reminder to self.
+Example: *Stillness isn’t failure — just camouflage.*

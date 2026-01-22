@@ -1,0 +1,31 @@
+#+title: Rust
+
+  ‣ 1. Variables
+    mutable, shadowing (using that same variable)
+    2. User input
+
+* Variables
+
+** Mutable
+** Shadowing
+* User Input 
+
+- use statements
+- imports from crates
+- type String::new()
+- References
+- Methods
+- Error handling
+- Standard input
+
+#+begin_src rust
+
+fn main() {
+ println! ("Hello World");
+}
+
+#+end_src
+
+#+begin_src python
+
+#+end_src

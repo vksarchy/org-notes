@@ -1,0 +1,84 @@
+#+title: Hypr
+
+Have started using *OMARCHY*
+
+* Common hyprctl commands
+hyprctl monitors            # Show connected displays and scaling
+hyprctl clients             # List all open windows (clients)
+hyprctl activewindow        # Details about currently focused window
+hyprctl workspaces          # Show all workspaces and their contents
+hyprctl reload              # Reload hyprland config without restarting
+hyprctl dispatch <cmd>      # Send live commands (e.g., focus, move)
+Eg - hyprctl dispatch focusmonitor HDMI-A-1
+
+* Similar tools in Wayland
+| Tool                            | Purpose                                         |
+| ------------------------------- | ----------------------------------------------- |
+| `hyprctl`                       | Control & query Hyprland                        |
+| `wev`                           | Show input events (good for debugging keybinds) |
+| `waybar`                        | Status bar compatible with Hyprland             |
+| `wofi` or `rofi-wayland`        | Application launcher (dmenu replacement)        |
+| `swaylock-effects` / `hyprlock` | Screen lockers for Wayland                      |
+| `wl-clipboard`                  | Clipboard manager for Wayland                   |
+| `grim` + `slurp`                | Screenshots in Wayland (like `scrot`)           |
+| `brightnessctl`                 | Adjust screen backlight                         |
+| `wpctl`                         | Audio control for PipeWire                      |
+
+* Cheatsheet
+| Command                         | Description                                 |
+| ------------------------------- | ------------------------------------------- |
+| `hyprctl monitors`              | Show monitor info (name, scale, resolution) |
+| `hyprctl clients`               | List open windows (clients)                 |
+| `hyprctl activewindow`          | Info about focused window                   |
+| `hyprctl workspaces`            | Show active workspaces                      |
+| `hyprctl dispatch <command>`    | Run runtime actions (move, kill, etc.)      |
+| `hyprctl reload`                | Reload the config without restarting        |
+| `hyprctl keyword <key> <value>` | Dynamically change a config value           |
+
+Eg - hyprctl dispatch exit                     # Quit Hyprland
+hyprctl dispatch focusmonitor eDP-1       # Focus monitor
+hyprctl dispatch workspace 3              # Switch to workspace 3
+
+| Command              | What it Does                      |
+| -------------------- | --------------------------------- |
+| `killactive`         | Close focused window              |
+| `movewindow l/r/u/d` | Move window left/right/up/down    |
+| `workspace +1 / -1`  | Switch to next/prev workspace     |
+| `togglefloating`     | Toggle floating mode for a window |
+
+
+| Command                                        | Description                 |
+| ---------------------------------------------- | --------------------------- |
+| `wpctl status`                                 | Show audio devices & volume |
+| `wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+`    | Volume up 5%                |
+| `wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-`    | Volume down 5%              |
+| `wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle`   | Toggle mute speakers        |
+| `wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle` | Toggle mute microphone      |
+
+| Command                  | Description                |
+| ------------------------ | -------------------------- |
+| `brightnessctl`          | Show current brightness    |
+| `brightnessctl set 10%+` | Increase brightness by 10% |
+| `brightnessctl set 10%-` | Decrease brightness by 10% |
+
+| Tool     | Use                                    |
+| -------- | -------------------------------------- |
+| `wev`    | Shows input events (key presses, etc.) |
+| `evtest` | CLI tool to debug input devices        |
+
+
+| Tool     | Description                         |
+| -------- | ----------------------------------- |
+| `grim`   | Take screenshot                     |
+| `slurp`  | Select area (used with `grim`)      |
+| Example: | `grim -g "$(slurp)" screenshot.png` |
+
+| Tool               | Description                 |
+| ------------------ | --------------------------- |
+| `hyprlock`         | Native Hyprland lock screen |
+| `swaylock-effects` | Fancy lock screen with blur |
+
+| Tool       | Description                 |
+| ---------- | --------------------------- |
+| `wl-copy`  | Copy to clipboard (Wayland) |
+| `wl-paste` | Paste from clipboard        |

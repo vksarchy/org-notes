@@ -1,0 +1,349 @@
+:PROPERTIES:
+:ID:       794021cb-b705-4fab-bbf0-2f5fcb792190
+:END:
+#+title: Civ 6
+#+date: [2025-11-01 Sat 18:42]
+* Table of Contents :toc:
+- [[#masternig-the-first-50-turns][Masternig the first 50 turns]]
+  - [[#main-strategy-goals][Main Strategy Goals**]]
+  - [[#early-turn-execution-details][Early Turn Execution Details**]]
+  - [[#mid-game-transition-preparation][Mid-Game Transition Preparation**]]
+  - [[#final-turn-50-milestones][Final Turn 50 Milestones**]]
+  - [[#key-takeaways][Key Takeaways**]]
+- [[#the-best-tech-tree-start][The best Tech Tree start:]]
+- [[#unlocks-chopping-mines-production-boost][Unlocks: chopping, mines, production boost.]]
+- [[#boosts-bronze-working-later][Boosts Bronze Working later.]]
+- [[#you-can-find-iron--massive-for-early-wars][You can find Iron — massive for early wars.]]
+- [[#follow-up-bronze-working--iron-working--swordsmen-dominance][Follow-up: **Bronze Working → Iron Working → Swordsmen dominance.**]]
+- [[#cunning-play-you-can-delay-bronze-workings-completion-until-you-kill-3-barbarians-for-the-eureka][**Cunning Play:** You can delay Bronze Working’s completion until you kill 3 barbarians (for the eureka).]]
+- [[#reveals-horses-critical-if-you-plan-an-early-cavalry-or-scout-rush][Reveals horses (critical if you plan an early cavalry or scout rush).]]
+- [[#leads-to-archery-which-gives-you-ranged-dominance-fast][Leads to **Archery** (which gives you ranged dominance fast).]]
+- [[#cunning-play-build-a-scout--slinger--builder-the-slingers-first-kill-gives-you-the-archery-boost-cutting-research-time-in-half][**Cunning Play:** Build a scout → slinger → builder. The slinger’s first kill gives you the **Archery boost**, cutting research time in half.]]
+- [[#leads-to-writing-allowing-campuses-for-science-acceleration][Leads to **Writing**, allowing Campuses for science acceleration.]]
+- [[#works-best-for-tall-peaceful-openings-or-science-civs-like-korea-babylon-etc][Works best for tall, peaceful openings or science civs (like Korea, Babylon, etc.).]]
+- [[#cunning-play-dont-complete-writing-until-youve-found-a-natural-wonder-or-met-2-civs-for-eurekas][**Cunning Play:** Don’t complete Writing until you’ve found a natural wonder or met 2 civs for eurekas.]]
+- [[#unlocks-holy-sites-leading-to-early-faith-economy-or-religion-rush][Unlocks Holy Sites, leading to early faith economy or religion rush.]]
+- [[#cunning-play-only-worth-it-if-you-have-a-wonder-nearby-or-are-aiming-for-early-faith-synergy][**Cunning Play:** Only worth it if you have a wonder nearby or are aiming for early faith synergy.]]
+- [[#delay-completion-of-techs-until-their-eureka-triggers-are-close--thats-a-4050-science-savings][**Delay completion** of techs until their Eureka triggers are close — that’s a 40–50% science savings.]]
+- [[#build-12-scouts-early--information-is-the-true-currency-of-war-and-growth][Build 1–2 **scouts early** — information is the true currency of war and growth.]]
+- [[#dont-be-tempted-by-masonry-early-unless-you-have-stone-resources-and-plan-to-build-walls-or-pyramids][Don’t be tempted by Masonry early unless you have stone resources *and* plan to build walls or Pyramids.]]
+- [[#your-civ-eg-japan-rome-etc][Your **Civ (e.g. Japan, Rome, etc.)**]]
+- [[#what-terrainresources-you-spawned-near][What terrain/resources you spawned near]]
+- [[#whether-youre-aiming-for-war-science-or-religion][Whether you’re aiming for **war, science, or religion**]]
+- [[#for-japan][For Japan]]
+  - [[#overview][Overview]]
+  - [[#-japans-core-strengths][🇯🇵 Japan’s Core Strengths]]
+  - [[#️-20-turn-tech-build-order-water-start][⚙️ 20-Turn Tech Build Order (Water Start)]]
+  - [[#-build-order-parallel][🧱 Build Order (Parallel)]]
+  - [[#-toranaga-style-synergy-trick][💡 Toranaga-Style Synergy Trick]]
+  - [[#️-cunning-expansion-plan][⚔️ Cunning Expansion Plan]]
+  - [[#-power-principle][🧠 Power Principle]]
+- [[#-japan-coastal-district-blueprint][🇯🇵 Japan Coastal District Blueprint]]
+  - [[#objective][Objective]]
+  - [[#️-1-core-diamond-formation-earlymid-game][🗺️ 1. Core Diamond Formation (Early–Mid Game)]]
+  - [[#-2-position-relative-to-coast][🧭 2. Position Relative to Coast]]
+  - [[#️-3-expansion-layout-industrial--commercial][⚙️ 3. Expansion Layout (Industrial + Commercial)]]
+  - [[#-4-builder--chop-sequence-t-2060][🪓 4. Builder & Chop Sequence (T 20–60)]]
+  - [[#-toranagas-cunning-insight][🧠 Toranaga’s Cunning Insight]]
+  - [[#optional-next-step][Optional Next Step]]
+
+* Masternig the first 50 turns
+** Main Strategy Goals**
+- **Settle 3–5 Cities:** By turn 50, prioritize expanding quickly for a strong empire foundation.
+- **Produce 3–5 Units:** Early units are essential for defense against barbarians and nearby civilizations.
+- **Make 1 Friend (Ally):** Secure a trading partner and potential military support.
+- **Identify 10 Potential City Sites:** Strategically place your cities to block out rivals and plan for expansion.
+- **Establish Perimeter:** Choose settlement spots to extend borders and defend viable city locations.
+- **Build 2 Strong Cities:** Your capital and at least one other should be productive, well-placed, and able to support core infrastructure.
+
+** Early Turn Execution Details**
+- **Settling the Capital:**
+  - Move your settler for optimal placement (2 food/2 production, 3 food tiles are ideal).
+  - Spending the first turn moving for a better spot is fine.
+- **Starting Build Order:**
+  - Double slinger → monument → settler (recommended).
+  - Avoid early scouts/builders; slingers give defense and can be upgraded to archers.
+  - Monument boosts culture, settler increases expansion.
+- **Early Tech/Civic Choices:**
+  - Tech: Choose based on nearby resources, e.g., mining → writing → irrigation.
+  - Civic: Code of Laws → Foreign Trade → Early Empire → Political Philosophy (aim for the government change at turn 50).
+- **District Planning:**
+  - Use mods like Better Map Tax for optimal adjacency.
+  - Prioritize campus, commercial hub, industrial zone, theater square, aqueduct.
+  - Build wonders only when feasible (Petra, Coliseum, Artemis are generally doable).
+- **Exploration:**
+  - Meet city-states for envoy boosts and explore for good city spots, especially near rivers/freshwater.
+  - Watch for barbarians — they’re more dangerous than rival AI in early turns.
+  - Find tribal villages/goody huts for bonuses.
+
+** Mid-Game Transition Preparation**
+- **Governor Choices:**
+  - Go for Magnus (for settler production, no population loss) and Pingala (science/culture boost) as early priorities.
+- **Pantheon Selection:**
+  - Pick based on map and goals: Religious Settlements for free settler, Fertility Rites for growth/builder, God of the Forge for unit production.
+- **Policy Cards:**
+  - Use Discipline and God King early on, then shift to Urban Colonization and Charismatic Leader as you unlock governments.
+- **Dealing with Civs and Barbarians:**
+  - Try to befriend close civs (e.g., Genghis Khan) and avoid antagonizing strong early military leaders.
+  - Kill units with slingers for Archery boost, defeat barbarians for Bronze Working.
+
+** Final Turn 50 Milestones**
+- **Political Philosophy Government Choice:**
+  - Classical Republic for most playthroughs (housing, amenities, great person points).
+  - Autocracy for wonders, Oligarchy for military campaigns.
+- **City/Unit Count:**
+  - Should have 3–5 cities, 3–5 units, mapped future expansion sites, two strong cities developing infrastructure.
+- **Immediate Next Steps:**
+  - Secure new cities, defend borders, keep expanding, and prepare for mid-game strategy shifts.
+
+** Key Takeaways**
+- **Optimize city placement, build order, and tech/civic progress for a dominant early game.**
+- **Defend against barbarians, make early alliances, and always plan expansion.**
+- **Flexible district and wonder placement using map tools/mods for adjacency.**
+- **Transition to mid-game with ideal government and governor setup by turn 50.**
+
+The guide is hands-on, play-along style, following a Deity China start but with strategies universally applicable to most Civ 6 games. The creator invites viewers to request guides for further turns.
+
+[1](https://www.youtube.com/watch?v=PeIJY8gUijk)
+* The best Tech Tree start:
+Excellent — you’re looking at the early **Technology Tree** in *Civilization VI*, and this is *the* crucial phase that defines your tempo for the next 100 turns. Let’s break this down with a cunning Toranaga-style eye for leverage, not just progress.
+
+
+### 🎯 What You’re Seeing
+
+You’ve unlocked or can unlock:
+
+ * **Pottery**
+ * **Animal Husbandry**
+ * **Mining**
+  And are viewing possible next paths: Archery, Writing, Astrology, Masonry, etc.
+
+## 🧭 Step 1: Scout the Map, then Decide the Tech Line
+
+Your **best start** depends on what your surroundings give you. But since I can see the coastline and a few plains/hills — I’ll give you the optimal openers based on archetypes:
+
+
+### 🪓 If You’re Surrounded by Forests / Hills → **Mining First**
+
+* Unlocks: chopping, mines, production boost.
+* Boosts Bronze Working later.
+* You can find Iron — massive for early wars.
+* Follow-up: **Bronze Working → Iron Working → Swordsmen dominance.**
+* **Cunning Play:** You can delay Bronze Working’s completion until you kill 3 barbarians (for the eureka).
+
+
+### 🐄 If You Have Cattle / Horses Nearby → **Animal Husbandry First**
+
+* Reveals horses (critical if you plan an early cavalry or scout rush).
+* Leads to **Archery** (which gives you ranged dominance fast).
+* **Cunning Play:** Build a scout → slinger → builder. The slinger’s first kill gives you the **Archery boost**, cutting research time in half.
+
+
+### 🏺 If You Have a Strong River / Food Start → **Pottery → Writing**
+
+* Leads to **Writing**, allowing Campuses for science acceleration.
+* Works best for tall, peaceful openings or science civs (like Korea, Babylon, etc.).
+* **Cunning Play:** Don’t complete Writing until you’ve found a natural wonder or met 2 civs for eurekas.
+
+
+### 🌞 If You See a Natural Wonder / Religious Civ → **Astrology**
+
+* Unlocks Holy Sites, leading to early faith economy or religion rush.
+* **Cunning Play:** Only worth it if you have a wonder nearby or are aiming for early faith synergy.
+
+
+## 🔧 Toranaga’s Tactical Tech Order Templates
+
+| Objective          | Ideal Tech Order                            | Reasoning                            |
+| ------------------ | ------------------------------------------- | ------------------------------------ |
+| 🛡️ Early Defense  | Mining → Bronze Working → Archery           | Reveal Iron + ranged defense         |
+| ⚔️ Early Rush     | Animal Husbandry → Archery → Bronze Working | Archers + find Iron for next wave    |
+| 📚 Science Start  | Pottery → Writing → Mining                  | Early Campus + resource access       |
+| 🕊️ Religion Start | Pottery → Astrology → Mining                | Holy Site + chop production          |
+| 🏗️ Balanced       | Animal Husbandry → Mining → Writing         | Vision, production, and science base |
+
+
+## 💡 Bonus Cunning Tips
+
+* **Delay completion** of techs until their Eureka triggers are close — that’s a 40–50% science savings.
+* Build 1–2 **scouts early** — information is the true currency of war and growth.
+* Don’t be tempted by Masonry early unless you have stone resources *and* plan to build walls or Pyramids.
+
+---
+
+If you tell me:
+
+* Your **Civ (e.g. Japan, Rome, etc.)**
+* What terrain/resources you spawned near
+* Whether you’re aiming for **war, science, or religion**
+
+I can give you a *precise 20-turn tech build order* to dominate your start.
+
+So, Bravo 1 — what’s your Civ and what do you see around your capital?
+
+
+* For Japan
+** Overview
+Excellent, Bravo 1 — Japan near water. That’s a *dream start* for a cunning player.
+Japan’s entire design is about **compact efficiency and adjacency bonuses** — and coastal positioning turns you into a tactical powerhouse if played right.
+
+Let’s break it down like a Toranaga campaign plan.
+
+
+** 🇯🇵 Japan’s Core Strengths
+Leader :: *Hojo Tokimune*
+
+- 🏯 **Meiji Restoration** → Districts get +1 adjacency from *each other.*
+  - Cluster tightly for high yields.
+- ⚔️ **Divine Wind** → +5 Combat Strength for land units on coasts and naval units in shallow water.
+- ⛩️ **Unique Assets**
+  - *Electronics Factory* → empire-wide production later.
+  - *Samurai* → mid-game unit that keeps full strength when damaged.
+
+Japan thrives on **tight coastal cities**, **balanced development**, and **early district synergy** (especially Holy Sites + Campuses).
+
+---
+
+** ⚙️ 20-Turn Tech Build Order (Water Start)
+| Turn Range | Tech                            | Reason |
+|-------------+---------------------------------+--------|
+| **1–9**    | **Mining**                      | Chop forests, unlock mines — base production line. |
+| **10–18**  | **Pottery → Writing**           | First **Campus**; Japan easily gets +3 adjacency near mountain or Holy Site. |
+| **19–24**  | **Sailing**                     | Coastal bonus; unlocks Fishing Boats and Harbours. |
+| **25–35**  | **Animal Husbandry**            | Reveals Horses, boosts early military prep. |
+| **36–45**  | **Archery** (via Slinger kills) | Early defense and barbarian control. |
+| **46–60**  | **Astrology**                   | Holy Site + Campus synergy near water. |
+
+---
+
+** 🧱 Build Order (Parallel)
+- **T 1–5:** Scout → find Natural Wonder / City-State for eurekas.
+- **T 5–10:** Slinger → Builder.
+- **T 10–20:** Settler
+  - Chop forests strategically into Settler.
+  - Found 2nd city near coast / river.
+
+*Builder Actions*
+1. Mine a hill.
+2. Improve a luxury or resource.
+3. Chop a forest to boost Settler or Campus.
+
+---
+
+** 💡 Toranaga-Style Synergy Trick
+Cluster districts like this:
+
+#+begin_src text
+     Holy Site
+  Campus   Government Plaza
+     Harbour
+#+end_src
+
+Each district gives +1 adjacency to all others (Japan trait).
+This creates a **+7 total adjacency web** from only four tiles — absurd efficiency.
+
+---
+
+** ⚔️ Cunning Expansion Plan
+_By Turn 40_
+- Two cities, each on or near coast.
+- Capital → Campus started.
+- Second city → Holy Site or Harbour.
+- Archers + Builders online.
+
+_By Turn 60_
+- Unlock **Bronze Working → Iron**.
+- If Iron → plan Samurai timing attack (T 80–100).
+- Else → pivot to Naval dominance fast(Harbours + Galleys).
+
+---
+
+** 🧠 Power Principle
+#+begin_quote
+“A wise daimyo builds not where it is rich, but where it will become strong.”
+#+end_quote
+
+- Build on **coastlines** for adjacency + naval production.
+- Delay religion; balance **Science + Faith** until Great Prophet secured.
+- Use **chops** tactically to speed Campuses and Settlers.
+
+---
+
+* 🇯🇵 Japan Coastal District Blueprint
+** Objective
+Maximize adjacency and early returns on Science, Faith, and Gold while preparing production zones later.
+
+---
+
+** 🗺️ 1. Core Diamond Formation (Early–Mid Game)
+#+begin_src text
+      ⛩️ Holy Site
+ ⚓ Harbour   🏛️ Government Plaza
+      🎓 Campus
+#+end_src
+
+- Each district +1 adjacency to others.
+- Harbour +2 from coast +1 from Plaza = +3.
+- Campus +1 from Holy Site +1 from Plaza = +2 (min +3 with mountain).
+- Holy Site +1 each from Harbour + Campus = +2.
+
+→ **+7 adjacency web** from 4 tiles.
+
+---
+
+** 🧭 2. Position Relative to Coast
+#+begin_src md
+🌊 🌊 ⚓ 🌊
+   🏙️ 🎓 ⛩️
+     🏛️
+#+end_src
+
+- 🏙️ City Center = 1 tile from coast
+- ⚓ Harbour = on coast
+- 🎓 Campus = inland / near mountain
+- ⛩️ Holy Site = next to Campus
+- 🏛️ Gov Plaza = touches Campus + Holy Site
+
+Result → +3 Harbour / +3 Campus / +3 Holy Site (before T 60).
+
+---
+
+** ⚙️ 3. Expansion Layout (Industrial + Commercial)
+Later, build this *second cluster* in your high-production city:
+
+#+begin_src text
+⛏️ Industrial Zone
+🏭 Factory (later)
+🏛️ Gov Plaza (overlaps if close)
+💰 Commercial Hub
+#+end_src
+
+- Industrial next to Plaza + Hub = +3 adjacency baseline.
+- Commercial Hub next to Harbour = +2 adjacency baseline.
+
+→ **Harbour + Hub** = economic engine.
+→ **Industrial + Plaza** = military factory.
+
+---
+
+** 🪓 4. Builder & Chop Sequence (T 20–60)
+1. Mine two hills → base production.
+2. Chop forest → speed Campus / Settler.
+3. *Lay district pins early* to lock costs and adjacencies.
+
+---
+
+** 🧠 Toranaga’s Cunning Insight
+#+begin_quote
+“A fortress is not walls and spears. It is the discipline of arrangement.”
+#+end_quote
+
+Avoid early wonders.
+Build **districts that empower each other.**
+Japan’s cities become interlocking gears — Science feeds Faith, Faith feeds Production.
+
+---
+
+** Optional Next Step
+If you share your capital’s exact terrain (coast direction, mountains, forests, hills),
+TOX can draft a **tile-by-tile tactical map** for perfect

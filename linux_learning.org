@@ -1,0 +1,25 @@
+#+title: Linux Learning
+
+Random learning in linux
+
+16th Jan 2026
+- journalctl
+- systemctl 
+- fd
+  examples:
+  systemctl list-unit-files --state=enabled --type=service --no-pager
+  fd -e service . ~/.config/
+  
+- log
+  
+#+begin_src text
+ps aux                     # All processes
+ps -ef                     # All processes (different format)
+ps -eo pid,user,cmd        # Custom output
+top                        # Real-time process viewer
+htop                       # Better interactive process viewer
+
+#+end_src
+
+* Rsync
+rsync -avP folder/ user@host:/path/

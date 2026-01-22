@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       59522c0a-dd2d-4e74-b91c-fbc3749c5289
+:END:
+#+title: stesting
+#+date: [2026-01-14 Wed 15:57]
+#+filetags: :project:
+* Goals
+
+* Notes
+
+
+* Tasks
+[][]

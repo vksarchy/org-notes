@@ -1,0 +1,719 @@
+#+TITLE: Red Team Tools Installation Guide for Arch Linux
+#+AUTHOR: Red Team Operator
+#+DATE: 2026-01-17
+#+PROPERTY: header-args :results output :exports both
+#+STARTUP: overview
+
+* Table of Contents :TOC:
+- [[#introduction][Introduction]]
+  - [[#usage-instructions][Usage Instructions]]
+- [[#system-preparation][System Preparation]]
+  - [[#update-system][Update System]]
+  - [[#install-base-development-tools][Install Base Development Tools]]
+  - [[#install-aur-helper-yay][Install AUR Helper (yay)]]
+- [[#information-gathering--reconnaissance][Information Gathering & Reconnaissance]]
+  - [[#network-scanners][Network Scanners]]
+  - [[#dns--domain-tools][DNS & Domain Tools]]
+  - [[#osint-tools][OSINT Tools]]
+  - [[#web-reconnaissance][Web Reconnaissance]]
+- [[#vulnerability-analysis][Vulnerability Analysis]]
+  - [[#vulnerability-scanners][Vulnerability Scanners]]
+  - [[#exploit-databases][Exploit Databases]]
+- [[#web-application-security][Web Application Security]]
+  - [[#web-proxies--testing-tools][Web Proxies & Testing Tools]]
+  - [[#web-shells--upload-tools][Web Shells & Upload Tools]]
+  - [[#cms-scanners][CMS Scanners]]
+- [[#database-assessment][Database Assessment]]
+  - [[#database-tools][Database Tools]]
+- [[#password-attacks][Password Attacks]]
+  - [[#password-cracking][Password Cracking]]
+  - [[#wordlists][Wordlists]]
+  - [[#hash-identification][Hash Identification]]
+- [[#wireless-attacks][Wireless Attacks]]
+  - [[#wireless-tools][Wireless Tools]]
+  - [[#bluetooth-tools][Bluetooth Tools]]
+- [[#exploitation-frameworks][Exploitation Frameworks]]
+  - [[#metasploit-framework][Metasploit Framework]]
+  - [[#other-frameworks][Other Frameworks]]
+- [[#post-exploitation][Post Exploitation]]
+  - [[#command--control-c2][Command & Control (C2)]]
+  - [[#credential-dumping][Credential Dumping]]
+  - [[#lateral-movement][Lateral Movement]]
+- [[#privilege-escalation][Privilege Escalation]]
+  - [[#linux-privilege-escalation][Linux Privilege Escalation]]
+  - [[#windows-privilege-escalation][Windows Privilege Escalation]]
+- [[#network-attacks][Network Attacks]]
+  - [[#man-in-the-middle-mitm][Man-in-the-Middle (MITM)]]
+  - [[#network-stress-testing][Network Stress Testing]]
+  - [[#vpn--tunneling][VPN & Tunneling]]
+- [[#sniffing--spoofing][Sniffing & Spoofing]]
+  - [[#packet-analysis][Packet Analysis]]
+  - [[#spoofing-tools][Spoofing Tools]]
+- [[#reverse-engineering][Reverse Engineering]]
+  - [[#disassemblers--decompilers][Disassemblers & Decompilers]]
+  - [[#binary-analysis][Binary Analysis]]
+  - [[#dynamic-analysis][Dynamic Analysis]]
+- [[#forensics][Forensics]]
+  - [[#forensic-tools][Forensic Tools]]
+  - [[#memory-analysis][Memory Analysis]]
+- [[#social-engineering][Social Engineering]]
+  - [[#phishing-frameworks][Phishing Frameworks]]
+  - [[#email-tools][Email Tools]]
+- [[#reporting-tools][Reporting Tools]]
+  - [[#documentation--reporting][Documentation & Reporting]]
+  - [[#screenshot--recording][Screenshot & Recording]]
+- [[#utilities--miscellaneous][Utilities & Miscellaneous]]
+  - [[#terminal--shell-tools][Terminal & Shell Tools]]
+  - [[#container--virtualization][Container & Virtualization]]
+  - [[#encoding--encryption][Encoding & Encryption]]
+  - [[#steganography][Steganography]]
+  - [[#cloud-security-tools][Cloud Security Tools]]
+  - [[#api-testing][API Testing]]
+  - [[#mobile-security][Mobile Security]]
+  - [[#additional-python-tools][Additional Python Tools]]
+- [[#complete-installation-script][Complete Installation Script]]
+  - [[#finalization][Finalization]]
+  - [[#version-information][Version Information]]
+- [[#notes][Notes]]
+  - [[#installation-time][Installation Time]]
+  - [[#disk-space-requirements][Disk Space Requirements]]
+  - [[#legal-disclaimer][Legal Disclaimer]]
+  - [[#customization][Customization]]
+  - [[#updates][Updates]]
+- [[#appendix][Appendix]]
+  - [[#tool-categories-summary][Tool Categories Summary]]
+  - [[#useful-commands-reference][Useful Commands Reference]]
+
+* Introduction
+
+This Org-mode document contains a comprehensive list of red team and penetration testing tools for Arch Linux. Each section contains executable bash code blocks that can be run individually or combined into a complete installation script.
+
+** Usage Instructions
+
+1. To execute a single code block: =C-c C-c= with cursor in the block
+2. To execute all blocks: =C-c C-v b= (org-babel-execute-buffer)
+3. To tangle all blocks to a script: =C-c C-v t= (org-babel-tangle)
+
+* System Preparation
+
+** Update System
+#+begin_src bash :tangle redteam-install.sh
+#!/bin/bash
+# Red Team Tools Installation Script for Arch Linux
+# Generated from redteam-tools.org
+
+set -e  # Exit on error
+
+echo "[*] Updating system..."
+sudo pacman -Syu --noconfirm
+#+end_src
+
+** Install Base Development Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing base development tools..."
+sudo pacman -S --noconfirm base-devel git curl wget python python-pip python-pipx \
+    go rust ruby ruby-bundler nodejs npm cmake make gcc clang
+#+end_src
+
+** Install AUR Helper (yay)
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing yay AUR helper..."
+if ! command -v yay &> /dev/null; then
+    cd /tmp
+    git clone https://aur.archlinux.org/yay.git
+    cd yay
+    makepkg -si --noconfirm
+    cd ..
+    rm -rf yay
+fi
+#+end_src
+
+* Information Gathering & Reconnaissance
+
+** Network Scanners
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing network scanners..."
+sudo pacman -S --noconfirm nmap masscan rustscan zmap
+yay -S --noconfirm angry-ip-scanner-bin
+#+end_src
+
+** DNS & Domain Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing DNS and domain enumeration tools..."
+sudo pacman -S --noconfirm bind dnsutils whois dnsenum dnsrecon fierce \
+    sublist3r amass subfinder
+
+# Install additional DNS tools
+pipx install dnsgen
+pipx install dnspython
+yay -S --noconfirm massdns-git knockpy-git
+#+end_src
+
+** OSINT Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing OSINT tools..."
+sudo pacman -S --noconfirm theharvester recon-ng maltego sherlock
+pipx install holehe
+pipx install h8mail
+pipx install maigret
+
+# Install additional OSINT tools from GitHub
+if [ ! -d ~/tools/osint ]; then
+    mkdir -p ~/tools/osint
+    cd ~/tools/osint
+    git clone https://github.com/lanmaster53/recon-ng.git
+    git clone https://github.com/laramies/theHarvester.git
+    git clone https://github.com/smicallef/spiderfoot.git
+fi
+#+end_src
+
+** Web Reconnaissance
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing web reconnaissance tools..."
+sudo pacman -S --noconfirm dirb dirbuster gobuster ffuf feroxbuster wfuzz \
+    whatweb wafw00f nikto
+
+yay -S --noconfirm httpx-git nuclei-git
+pipx install arjun
+pipx install waybackpy
+#+end_src
+
+* Vulnerability Analysis
+
+** Vulnerability Scanners
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing vulnerability scanners..."
+sudo pacman -S --noconfirm openvas nmap-scripts
+yay -S --noconfirm nikto trivy-bin
+
+# Install Nessus (manual installation required)
+echo "[!] Note: Nessus requires manual download from tenable.com"
+#+end_src
+
+** Exploit Databases
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing exploit database tools..."
+sudo pacman -S --noconfirm exploitdb searchsploit
+pipx install pwntools
+#+end_src
+
+* Web Application Security
+
+** Web Proxies & Testing Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing web application testing tools..."
+sudo pacman -S --noconfirm burpsuite zaproxy mitmproxy sqlmap \
+    commix wpscan joomscan
+
+yay -S --noconfirm caido-bin
+pipx install xsstrike
+pipx install corscanner
+#+end_src
+
+** Web Shells & Upload Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing web shell tools..."
+if [ ! -d ~/tools/webshells ]; then
+    mkdir -p ~/tools/webshells
+    cd ~/tools/webshells
+    git clone https://github.com/tennc/webshell.git
+    git clone https://github.com/WhiteWinterWolf/wwwolf-php-webshell.git
+fi
+#+end_src
+
+** CMS Scanners
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing CMS-specific scanners..."
+sudo pacman -S --noconfirm wpscan
+yay -S --noconfirm droopescan
+pipx install drupwn
+#+end_src
+
+* Database Assessment
+
+** Database Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing database assessment tools..."
+sudo pacman -S --noconfirm sqlmap mysql postgresql mongodb-tools \
+    redis mongodb-compass
+
+yay -S --noconfirm nosqlmap-git
+pipx install sqlparse
+#+end_src
+
+* Password Attacks
+
+** Password Cracking
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing password cracking tools..."
+sudo pacman -S --noconfirm hashcat john hydra medusa ncrack \
+    ophcrack hashcat-utils crunch
+
+yay -S --noconfirm hashcat-nvidia hashcat-opencl
+#+end_src
+
+** Wordlists
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing wordlists..."
+sudo pacman -S --noconfirm wordlists seclists
+
+# Download additional wordlists
+if [ ! -d /usr/share/wordlists/custom ]; then
+    sudo mkdir -p /usr/share/wordlists/custom
+    cd /usr/share/wordlists/custom
+    sudo wget https://github.com/danielmiessler/SecLists/archive/master.zip -O seclists.zip
+    sudo unzip -q seclists.zip
+    sudo rm seclists.zip
+fi
+#+end_src
+
+** Hash Identification
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing hash identification tools..."
+yay -S --noconfirm hashid hash-identifier
+pipx install hashid
+#+end_src
+
+* Wireless Attacks
+
+** Wireless Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing wireless attack tools..."
+sudo pacman -S --noconfirm aircrack-ng wifite reaver bully pixiewps \
+    hostapd dnsmasq
+
+yay -S --noconfirm wifiphisher hcxtools hcxdumptool
+#+end_src
+
+** Bluetooth Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing bluetooth tools..."
+sudo pacman -S --noconfirm bluez bluez-utils blueman
+yay -S --noconfirm bluesnarfer ubertooth
+#+end_src
+
+* Exploitation Frameworks
+
+** Metasploit Framework
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing Metasploit Framework..."
+yay -S --noconfirm metasploit
+
+# Initialize Metasploit database
+sudo systemctl enable --now postgresql
+sudo -u postgres createuser msf -P
+sudo -u postgres createdb -O msf msf
+#+end_src
+
+** Other Frameworks
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing exploitation frameworks..."
+yay -S --noconfirm beef-xss routersploit-git
+
+# Install Covenant C2
+if [ ! -d ~/tools/covenant ]; then
+    mkdir -p ~/tools/covenant
+    cd ~/tools/covenant
+    git clone --recurse-submodules https://github.com/cobbr/Covenant.git
+fi
+
+# Install Empire
+pipx install powershell-empire
+#+end_src
+
+* Post Exploitation
+
+** Command & Control (C2)
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing C2 frameworks..."
+# Install Sliver
+if [ ! -f /usr/local/bin/sliver-server ]; then
+    curl https://sliver.sh/install | sudo bash
+fi
+
+# Install Havoc (requires manual compilation)
+if [ ! -d ~/tools/havoc ]; then
+    mkdir -p ~/tools/havoc
+    cd ~/tools/havoc
+    git clone https://github.com/HavocFramework/Havoc.git
+fi
+#+end_src
+
+** Credential Dumping
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing credential dumping tools..."
+sudo pacman -S --noconfirm mimikatz
+yay -S --noconfirm pypykatz
+
+# Install additional tools
+if [ ! -d ~/tools/credentials ]; then
+    mkdir -p ~/tools/credentials
+    cd ~/tools/credentials
+    git clone https://github.com/lgandx/Responder.git
+    git clone https://github.com/SecureAuthCorp/impacket.git
+    cd impacket && pip install .
+fi
+#+end_src
+
+** Lateral Movement
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing lateral movement tools..."
+sudo pacman -S --noconfirm smbclient cifs-utils evil-winrm
+pipx install crackmapexec
+pipx install bloodhound
+
+# Install Impacket suite
+pip install impacket
+#+end_src
+
+* Privilege Escalation
+
+** Linux Privilege Escalation
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing Linux privilege escalation tools..."
+if [ ! -d ~/tools/privesc-linux ]; then
+    mkdir -p ~/tools/privesc-linux
+    cd ~/tools/privesc-linux
+    
+    # LinPEAS
+    wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
+    
+    # Linux Smart Enumeration
+    git clone https://github.com/diego-treitos/linux-smart-enumeration.git
+    
+    # Linux Exploit Suggester
+    git clone https://github.com/mzet-/linux-exploit-suggester.git
+fi
+#+end_src
+
+** Windows Privilege Escalation
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing Windows privilege escalation tools..."
+if [ ! -d ~/tools/privesc-windows ]; then
+    mkdir -p ~/tools/privesc-windows
+    cd ~/tools/privesc-windows
+    
+    # WinPEAS
+    wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/winPEASx64.exe
+    wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/winPEASx86.exe
+    
+    # PowerUp
+    git clone https://github.com/PowerShellMafia/PowerSploit.git
+    
+    # Seatbelt
+    git clone https://github.com/GhostPack/Seatbelt.git
+fi
+#+end_src
+
+* Network Attacks
+
+** Man-in-the-Middle (MITM)
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing MITM tools..."
+sudo pacman -S --noconfirm ettercap-gtk bettercap mitmproxy arpspoof
+yay -S --noconfirm mitmf-git
+#+end_src
+
+** Network Stress Testing
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing network stress testing tools..."
+sudo pacman -S --noconfirm hping
+yay -S --noconfirm slowloris goldeneye-git
+#+end_src
+
+** VPN & Tunneling
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing VPN and tunneling tools..."
+sudo pacman -S --noconfirm openvpn wireguard-tools proxychains-ng \
+    chisel ligolo-ng
+
+yay -S --noconfirm sshuttle
+#+end_src
+
+* Sniffing & Spoofing
+
+** Packet Analysis
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing packet analysis tools..."
+sudo pacman -S --noconfirm wireshark-qt tcpdump tshark ngrep \
+    termshark
+
+# Add user to wireshark group
+sudo usermod -aG wireshark $USER
+#+end_src
+
+** Spoofing Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing spoofing tools..."
+sudo pacman -S --noconfirm dsniff macchanger
+yay -S --noconfirm evilginx2-git
+#+end_src
+
+* Reverse Engineering
+
+** Disassemblers & Decompilers
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing reverse engineering tools..."
+sudo pacman -S --noconfirm radare2 ghidra cutter rizin iaito \
+    gdb pwndbg
+
+yay -S --noconfirm binary-ninja ida-free
+#+end_src
+
+** Binary Analysis
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing binary analysis tools..."
+sudo pacman -S --noconfirm binwalk foremost strace ltrace \
+    objdump strings file
+
+pipx install ropper
+pipx install pwntools
+yay -S --noconfirm angr-git
+#+end_src
+
+** Dynamic Analysis
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing dynamic analysis tools..."
+sudo pacman -S --noconfirm valgrind gdb ltrace strace
+yay -S --noconfirm frida-tools
+pip install frida-tools
+#+end_src
+
+* Forensics
+
+** Forensic Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing forensic tools..."
+sudo pacman -S --noconfirm autopsy sleuthkit testdisk photorec \
+    foremost scalpel exiftool binwalk volatility3
+
+yay -S --noconfirm bulk-extractor
+#+end_src
+
+** Memory Analysis
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing memory analysis tools..."
+pip install volatility3
+yay -S --noconfirm rekall-git
+#+end_src
+
+* Social Engineering
+
+** Phishing Frameworks
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing social engineering tools..."
+yay -S --noconfirm social-engineer-toolkit gophish-bin
+
+# Install additional tools
+if [ ! -d ~/tools/social-engineering ]; then
+    mkdir -p ~/tools/social-engineering
+    cd ~/tools/social-engineering
+    git clone https://github.com/trustedsec/social-engineer-toolkit.git
+    git clone https://github.com/UndeadSec/EvilURL.git
+fi
+#+end_src
+
+** Email Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing email testing tools..."
+pip install email-validator
+yay -S --noconfirm swaks
+#+end_src
+
+* Reporting Tools
+
+** Documentation & Reporting
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing reporting tools..."
+sudo pacman -S --noconfirm pandoc texlive-most cherrytree
+yay -S --noconfirm dradis-ce ghostwriter-git
+
+# Install reporting templates
+if [ ! -d ~/tools/reporting ]; then
+    mkdir -p ~/tools/reporting
+    cd ~/tools/reporting
+    git clone https://github.com/kbandla/pentest-report-templates.git
+fi
+#+end_src
+
+** Screenshot & Recording
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing screenshot and recording tools..."
+sudo pacman -S --noconfirm flameshot scrot maim simplescreenrecorder \
+    obs-studio asciinema
+#+end_src
+
+* Utilities & Miscellaneous
+
+** Terminal & Shell Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing terminal utilities..."
+sudo pacman -S --noconfirm tmux screen zsh fish bat exa fd ripgrep \
+    fzf neovim vim nano
+
+# Install oh-my-zsh (optional)
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+#+end_src
+
+** Container & Virtualization
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing virtualization tools..."
+sudo pacman -S --noconfirm docker docker-compose podman qemu-full \
+    virt-manager libvirt
+
+sudo systemctl enable --now docker
+sudo usermod -aG docker $USER
+#+end_src
+
+** Encoding & Encryption
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing encoding and encryption tools..."
+sudo pacman -S --noconfirm gnupg openssl base64 xxd
+pipx install cryptography
+yay -S --noconfirm cyberchef
+#+end_src
+
+** Steganography
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing steganography tools..."
+sudo pacman -S --noconfirm steghide stegosuite
+yay -S --noconfirm stegseek-bin
+pipx install stegcracker
+#+end_src
+
+** Cloud Security Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing cloud security tools..."
+pipx install awscli
+pipx install azure-cli
+pip install google-cloud-cli
+
+# Cloud enumeration tools
+pipx install pacu
+pipx install ScoutSuite
+#+end_src
+
+** API Testing
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing API testing tools..."
+sudo pacman -S --noconfirm postman-bin insomnia
+yay -S --noconfirm httpie curlie
+
+pip install mitmproxy
+#+end_src
+
+** Mobile Security
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing mobile security tools..."
+yay -S --noconfirm apktool jadx-bin androguard
+
+# Install additional mobile tools
+if [ ! -d ~/tools/mobile ]; then
+    mkdir -p ~/tools/mobile
+    cd ~/tools/mobile
+    git clone https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
+fi
+#+end_src
+
+** Additional Python Tools
+#+begin_src bash :tangle redteam-install.sh
+echo "[*] Installing additional Python tools..."
+pip install requests beautifulsoup4 scapy pycryptodome paramiko \
+    colorama termcolor python-nmap netaddr netifaces pyshark \
+    selenium playwright dnspython
+#+end_src
+
+* Complete Installation Script
+
+** Finalization
+#+begin_src bash :tangle redteam-install.sh
+echo ""
+echo "=========================================="
+echo "[+] Installation Complete!"
+echo "=========================================="
+echo ""
+echo "Important Notes:"
+echo "- Reboot or re-login to apply group changes (docker, wireshark)"
+echo "- Initialize Metasploit: msfdb init && msfconsole"
+echo "- Some tools require manual configuration"
+echo "- Tools installed in ~/tools/ directory"
+echo "- Wordlists available in /usr/share/wordlists/"
+echo ""
+echo "Post-Installation Steps:"
+echo "1. Configure proxychains: sudo nano /etc/proxychains.conf"
+echo "2. Update databases: searchsploit -u, nmap --script-updatedb"
+echo "3. Configure VPN: openvpn your-config.ovpn"
+echo ""
+echo "Happy Hacking! (Legally and Ethically)"
+echo "=========================================="
+#+end_src
+
+** Version Information
+#+begin_src bash :tangle redteam-install.sh
+# Script metadata
+# Generated: 2026-01-17
+# Platform: Arch Linux
+# Purpose: Red Team Operations Toolkit Installation
+#+end_src
+
+* Notes
+
+** Installation Time
+This complete installation may take 1-3 hours depending on your internet connection and system specifications.
+
+** Disk Space Requirements
+- Minimum: 30 GB free space
+- Recommended: 50+ GB for wordlists and additional tools
+
+** Legal Disclaimer
+These tools are for authorized security testing and educational purposes only. Unauthorized access to computer systems is illegal. Always obtain proper authorization before conducting security assessments.
+
+** Customization
+Feel free to comment out sections you don't need by adding =#= at the beginning of lines in the code blocks, or by removing entire sections.
+
+** Updates
+To update all tools regularly:
+#+begin_src bash
+sudo pacman -Syu --noconfirm
+yay -Syu --noconfirm
+pipx upgrade-all
+#+end_src
+
+* Appendix
+
+** Tool Categories Summary
+| Category                | Tool Count | Key Tools                           |
+|-------------------------+------------+-------------------------------------|
+| Recon                   | 15+        | nmap, amass, theHarvester           |
+| Web Testing             | 20+        | burpsuite, sqlmap, nuclei           |
+| Exploitation            | 10+        | metasploit, beef, empire            |
+| Password Attacks        | 10+        | hashcat, john, hydra                |
+| Wireless                | 8+         | aircrack-ng, wifite, reaver         |
+| Post-Exploitation       | 15+        | mimikatz, bloodhound, crackmapexec  |
+| Forensics               | 10+        | autopsy, volatility, binwalk        |
+| Reverse Engineering     | 12+        | ghidra, radare2, gdb                |
+
+** Useful Commands Reference
+#+begin_example
+# Update exploit database
+searchsploit -u
+
+# Update nmap scripts
+sudo nmap --script-updatedb
+
+# Start Metasploit
+msfconsole
+
+# Start Burp Suite
+burpsuite
+
+# Run full nmap scan
+nmap -sC -sV -p- -oA output target.com
+
+# Start simple HTTP server
+python -m http.server 8000
+#+end_example
+
+#+begin_example
+# End of Red Team Tools Installation Guide
+#+end_example

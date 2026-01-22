@@ -1,0 +1,45 @@
+#+title: Compound Checkin
+
+* Daily Compounding Check-in
+SCHEDULED: <%(org-insert-time-stamp (current-time) nil nil)>
+:PROPERTIES:
+:CREATED:  %U
+:END:
+
+** 🧾 Money
+- [ ] Did I invest something today, or did I only spend?
+- [ ] Am I automating my savings or relying on willpower?
+- [ ] Is this purchase a seed or a weed?
+- [ ] Can I make this money earn while I sleep?
+
+** 📚 Skills
+- [ ] Did I learn 1% more today?
+- [ ] Am I practising deliberately, or just dabbling?
+- [ ] What system am I building to revisit and reinforce learning?
+- [ ] If I did this every day for a year, who would I become?
+
+** 🤝 Relationships
+- [ ] Did I compound trust or withdraw from it?
+- [ ] What small gesture today could deepen this relationship?
+- [ ] Am I investing in people who invest back?
+- [ ] Who would benefit if I simply showed up consistently?
+
+** 💪 Health
+- [ ] Did I do something today my future self will thank me for?
+- [ ] Is this decision a deposit or a debt on my body?
+- [ ] Am I compounding strength, stamina, or stress?
+- [ ] Would this be sustainable for 10 years?
+
+** ⏳ Time & Habits
+- [ ] Is what I’m doing now building momentum or burning it?
+- [ ] What system did I improve today?
+- [ ] Am I reacting to life, or am I designing it?
+- [ ] What 20-minute habit, done daily, would be life-changing in 5 years?
+- [ ] Have i precticed any sessions today? 45 min session - 12 sessions a day?
+
+
+** 🔍 Reflection
+Type a short sentence for each:
+- What was the best compound action I took today?
+- What should I stop doing that’s quietly eroding my gains?
+- What’s one thing I’ll improve tomorrow?

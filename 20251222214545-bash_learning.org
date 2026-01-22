@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6e571566-0177-4235-af40-3dbfee3d2fe7
+:END:
+#+title: Bash Learning
+#+date: [2025-12-22 Mon 21:45]
+

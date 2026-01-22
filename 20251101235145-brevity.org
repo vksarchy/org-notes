@@ -1,0 +1,198 @@
+:PROPERTIES:
+:ID:       73fdd278-5b5d-45e1-afbc-729c9cb78072
+:Call-sign: Bravo 1
+:END:
+#+title: Brevity
+#+date: [2025-11-01 Sat 23:51]
+
+== Brevity format with examples ==
+#+TITLE: Household ROE — Bravo 1 (Emacs Org)
+
+* Purpose
+  Turn home chores and comms into tight, repeatable A–I–C brevity procedures. Ready for Emacs org workflows and quick capture.
+
+* Quick Rules (one-line)
+
+- Keep each transmission <= 6 words (verb–object–location).
+- Use call-signs for non-visual targets.
+- Sender remains until reply = {Complete|Negative}.
+- URGENT prefixed for life/health.
+
+* Templates
+#+begin_src text
+*A–I–C template (single line)*
+- Action – Item – Context. Out.
+- Example: "Resupply – H2O – Hall. Out."
+#+end_src
+
+** Radio exchange template
+
+* Sender -> Receiver: <A–I–C>. Over.
+* Receiver: <Response code>. Complete.
+* Example:
+
+  * Bravo 1 -> TOX: "Spin up – Washer – Laundry. Over."
+  * TOX: "Wilco. Spin up begun. Complete."
+
+- Standard Commands (brevity list)
+
+* Resupply – H₂O – <loc>
+* Deploy – Rations – <loc>
+* Spin up – Washer – <loc>
+* Kill – Lights – <loc>
+* Seal – Door – <loc>
+* Secure – Small unit – <loc>
+* Waste detail – Execute – <loc>
+
+- Response codes (short)
+
+* Affirm — Acknowledged
+* Negative — Cannot
+* Wilco — Will comply
+* Stand by — Hold
+* Copy — Received
+* Complete — Done
+
+- Abbreviation glossary (for org capture)
+  | Abbrev  | Expansion               |
+  |---------+-------------------------|
+  | H2O     | Water/resupply          |
+  | AO      | Area of operations      |
+  | Rations | Food                    |
+  | SU      | Small unit (baby/child) |
+  | Spin    | Start machine/cycle     |
+
+- Examples — real exchanges (copy/paste)
+
+* Bravo 1 -> Logistics: "Resupply – H2O – Kitchen. Out."
+
+* Logistics: "Affirm. H2O enroute. Complete."
+
+* Bravo 1 -> Watcher: "Secure – SU – Nursery. Out."
+
+* Watcher: "Stand by. Assessing. Complete."
+
+* Bravo 1 -> TOX: "Kill – Lights – Lounge. Over."
+
+* TOX: "Wilco. Lights off. Complete."
+
+- Silent / Ghost Protocols (sleep ops)
+
+* Visual only: glance down = Acknowledge.
+* Breath check = Assess.
+* Finger flick = Recommit / Next.
+* If multi-person: pre-agree 1-finger = pickup, 2-finger = urgent.
+
+- Micro-AAR (org quick-capture)
+  Use this org capture template to log micro-AARs fast.
+
+** Capture template: *MICRO-AAR* %U
+
+* Mission: %^{Mission name}
+* Time: %U
+* Outcome: %^{Affirm/Negative}
+* Discipline: %^{1..5}
+* Friction: %^{What slowed you?}
+* Next: %^{Next op}
+
+- Daily Command Net (org agenda)
+  Schedule these entries in your org-agenda for automation.
+
+** 07:00 -- Morning brief
+
+* Task: Priorities set by Bravo 1.
+* Template: "BRAVO1 -> ALL: <A–I–C list>. Out."
+
+** 12:30 -- Midday logistics check
+
+* Logistics reports status in a single line.
+
+** 21:00 -- Night secure
+
+* Watcher confirms "Secure – SU – Quarters. Complete."
+
+- 60s Circuit Checklist (repeatable)
+
+* [ ] Trash status
+* [ ] Laundry tick
+* [ ] Rations prepped
+* [ ] Entry points sealed
+* [ ] Lights adjusted
+
+- Training drills (5-min runs)
+
+1. 90-second spin-up: one person runs through 5 templates aloud.
+2. Silent relay: use Ghost Protocol for three consecutive ops.
+3. Rapid A–I–C: create 10 valid commands in 2 minutes.
+
+* Conversion snippets (use in Emacs snippets / yasnippet)
+
+- #+BEGIN_SRC snippet : key resupply
+  Resupply – H2O – $1. Out.
+- #+END_SRC
+
+* Export targets
+
+- To export as .org file: save buffer as household-roe.org.
+- To export to PDF: C-c C-e l p (Org LaTeX export) or C-c C-e o p (HTML -> print).
+
+* Notes on brevity discipline
+
+- Aim for rhythm: strong verb first.
+- Avoid adjectives. Kill extraneous words.
+- If you must clarify, do it with one follow-up line only.
+
+* Closing
+  This org file is your living ROE. Tweak call-signs and roles to match household. Keep it under 1 screen for speed.
+
+#+END
+
+Solid shots. Tighten for sharper brevity. Corrections below—minimal words, max clarity.
+
+---
+
+**1. “I’m running late, traffic is heavy.”**
+Your version: *ETA slipping, traffic detected, pushing max speed.*
+**Tightened:** **ETA slipping, heavy traffic, pushing through.**
+
+**2. “Reached office, starting work now.”**
+Your version: *At command centre, commencing ops.*
+**Tightened:** **On-station, ops commencing.**
+
+**3. “Phone battery low, can’t talk much.”**
+Your version: *Radio health dying, comms degrading.*
+**Tightened:** **Radio low, comms limited.**
+
+**4. “I’ll be home in 20 minutes.”**
+Your version: *RTB in 20 mikes.*
+**Tightened:** **RTB in 20 mikes.**
+(Perfect. No change.)
+
+**5. “Can we discuss this later? I’m busy now.”**
+Your version: *Pushing discussion later.*
+**Tightened:** **Stand by—engaged in tasking.**
+
+**6. “Send me your location.”**
+Your version: *Requesting pos*
+**Tightened:** **Send POS.**
+
+**7. “I finished the task you gave me.”**
+Your version: *Task completed, AAR submitted.*
+**Tightened:** **Task complete.**
+
+**8. “Stepping out for coffee.”**
+Your version: *Out for caffeine intake*
+**Tightened:** **Stepping out—coffee run.**
+
+**9. “I need backup with this work.”**
+Your version: *Requesting backup on current op*
+**Tightened:** **Requesting support on current op.**
+
+**10. “All good, situation under control.”**
+Your version: *AO secure, situation under control*
+**Tightened:** **AO secure.**
+(Shorter, cleaner.)
+
+---
+
+Ready for **Round 2**?

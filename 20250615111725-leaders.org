@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       b0b285e9-10f6-4a16-99d5-0f7e4d58f707
+:END:
+#+title: Leaders
+#+date: [2025-06-15 Sun 11:17]
+
+* Table of Contents :toc:
+- [[#hannibal][Hannibal]]
+- [[#napolean-bonaparte][Napolean Bonaparte]]
+
+* Hannibal
+the complete timeline
+## Detailed Timeline of Hannibal**Concise Overview:**
+Hannibal Barca (247–c.183 BCE) was a Carthaginian general best known for leading his army, including war elephants, over the Alps to attack Rome during the Second Punic War. His life was marked by military brilliance, dramatic victories, and eventual exile and suicide to avoid Roman capture.
+
+---
+
+### Early Life and Rise to Power- **247 BCE:** Hannibal is born in Carthage, North Africa, son of Hamilcar Barca, a leading Carthaginian general[1][5][6][8][9].
+- **c. 237–229 BCE:** Accompanies his father to Spain, where Hamilcar expands Carthaginian territory[1][4][7].
+- **229/228 BCE:** Hamilcar dies; Hasdrubal the Fair (Hannibal’s brother-in-law) takes command[1][7].
+- **221 BCE:** Hasdrubal is assassinated; Hannibal, age 26, is elected commander-in-chief by the army and confirmed by Carthage[1][2][3][5][7].
+
+---
+
+### Campaigns in Spain and Outbreak of the Second Punic War- **221–220 BCE:** Consolidates Carthaginian control in Spain, marries Spanish princess Imilce, and defeats local tribes such as the Olcades, Vaccaei, and Carpetani[1][5][7].
+- **219 BCE:** Attacks and captures Saguntum, a Roman ally, after an eight-month siege—Rome demands his surrender, sparking the Second Punic War[1][2][5][7].
+
+---
+
+### The Second Punic War (218–201 BCE)| Year         | Event                                                                                   |
+|--------------|----------------------------------------------------------------------------------------|
+| **218 BCE**  | Hannibal crosses the Ebro River, then the Pyrenees and Alps into Italy with his army and elephants[2][4][5][7]. Rome declares war after Saguntum falls[2]. |
+| Nov 218 BCE  | Wins the Battle of Ticinus against Roman forces[2][5].                                 |
+| Dec 218 BCE  | Wins the Battle of Trebia[2][5].                                                       |
+| Jun 217 BCE  | Wins the Battle of Lake Trasimene, ambushing Roman army[2][5].                         |
+| 216 BCE      | Wins the Battle of Cannae, inflicting Rome’s worst defeat[2][4][5].                    |
+| 216–207 BCE  | Controls much of southern Italy, but unable to capture Rome due to lack of reinforcements[2][5]. |
+| 207 BCE      | Roman counterattacks reduce Hannibal’s control to Bruttium in southern Italy[2].        |
+| 203 BCE      | Recalled to Africa as Rome invades Carthaginian homeland[2][5][6].                     |
+| 202 BCE      | Defeated by Scipio Africanus at the Battle of Zama, ending the Second Punic War[2][4][5][6]. |
+| 201 BCE      | Carthage sues for peace; Hannibal becomes chief magistrate and reforms Carthaginian government[5][6]. |---
+
+### Later Years and Exile- **196 BCE:** Elected head of Carthaginian government; initiates reforms to reduce corruption and oligarchic power[3][5].
+- **c. 195 BCE:** Flees Carthage to avoid Roman extradition, first to Crete, then to the Seleucid court of Antiochus III in Syria[2][3][5][6].
+- **191–190 BCE:** Romans defeat Antiochus; Hannibal flees to Bithynia[3].
+- **c. 183 BCE:** Romans demand his surrender; Hannibal commits suicide in Libyssa, Bithynia, to avoid capture[2][3][5][6][9].
+
+---
+
+### Key Battles and Achievements| Battle/Action          | Date         | Outcome/Significance                                        |
+|------------------------|--------------|-------------------------------------------------------------|
+| Battle of Ticinus      | Nov 218 BCE  | First major victory in Italy[2][5].                         |
+| Battle of Trebia       | Dec 218 BCE  | Major Roman defeat[2][5].                                   |
+| Battle of Lake Trasimene| Jun 217 BCE | Roman army ambushed and destroyed[2][5].                    |
+| Battle of Cannae       | Aug 216 BCE  | Rome’s greatest defeat; classic double-envelopment tactic[2][4][5]. |
+| Battle of Zama         | 19 Oct 202 BCE| Final defeat by Scipio Africanus; end of Second Punic War[2][5][6]. |---
+
+### 🧠 **BRAIN MODE:**
+Hannibal’s legacy as one of history’s greatest military tacticians is cemented by his innovative use of terrain, psychological warfare, and the integration of diverse forces. His crossing of the Alps remains one of antiquity’s most daring military feats, and his victories at Trebia, Trasimene, and Cannae are still studied for their tactical brilliance. Despite his eventual defeat, Hannibal’s campaigns profoundly shaped Roman military doctrine and the future of the Mediterranean world.
+
+* Napolean Bonaparte

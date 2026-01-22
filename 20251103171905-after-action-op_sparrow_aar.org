@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       c9028bda-93e5-48b6-9405-37ac5afb60bb
+:END:
+#+title: After Action — Op Sparrow aar
+#+date: [2025-11-03 Mon 17:19]
+
+* Mission:
+G Team en route to pos, eta 20 mikes. Setting up perimeter for laughter and joy. Keep morale high. Eyes on HVT all the time.
+* Happened:
+
+* Lost:
+Minor room order; potenital overstim risk, Perimeter prepped for laughter ops.
+* Won:
+Smiles inbound, moral surge imminent.
+* Fix:
+Rotate HVT exposure, 10 on , 10 off cycles,
+* Lesson Learnt:
+
+==Example==
+
+Solid start, Bravo 1. Here’s the full AAR wrap in proper field tone—
+
+### **OP: VISITOR DELTA – Guest Reception Drill**
+
+**Goal:** Host inbound G Team. Maintain HVT comfort and civilian morale.
+**Happened:** G Team en route, ETA 20 mikes. Perimeter prepped for laughter ops.
+**Lost:** Minor room order; potential overstim risk for HVT.
+**Won:** Smiles inbound, morale surge imminent.
+**Fix:** Rotate HVT exposure—10 on / 10 off cycle. Maintain calm tone, hydration ready.
+
+
+Optional pre-brief line (for radio log):
+
+> “Visitor Delta incoming, perimeter green, joy protocols active, eyes on HVT.”
+

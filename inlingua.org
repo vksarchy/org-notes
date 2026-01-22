@@ -1,0 +1,27 @@
+#+title: Inlingua
+
+
++-----+-----+-----+
+|    |     |     |
+|     |     |     |
++-----+-----+-----+
+|     |     |     |
+|     |     |     |
++-----+-----+-----+
+
+
+|----------------------------------------+----------------+--------------------------+------------+--------------------------|
+| College/Department                     | Role           | Name                     |      Phone | Email                    |
+|----------------------------------------+----------------+--------------------------+------------+--------------------------|
+| SNR Arts (Ramakrishna Arts)            | Placement Cell | Dr. Thamarai & Dr. Rekha | 8056750646 | ctpcr@srcas.ac.in        |
+| Kumaraguru (KCT)                       | English HOD    | Dr. Sreejana             | 9944557031 | sreejana.s.sci@kct.ac.in |
+| Ramakrishna Engineering College (SRCE) | HOD – English  | Dr. Vichitra Shivaji     | 9442078667 | hod-english@srec.ac.in   |
+| Ramakrishna Engineering College (SRCE) | Principal      | Dr. Soundarrajan         | 9942069911 |                          |
+| KSR                                    | Principal      | Dr. Gopalakrishnan       |            |                          |
+| Hindustan College of Engineering       | Principal      |                          |            |                          |
+| Krishna College (SKCT)                 | Placement      | Preethima                |            | placementoffice@skcet.in |
+| Ratnam College of Engineering          | Placement      | Arun Vignesh             |  978917382 |                          |
+|----------------------------------------+----------------+--------------------------+------------+--------------------------|
+| KPR (KPRIET)**                         | HOD            | Dr. Jayasudha            | 7502009842 |                          |
+| KGISL **                               | Principal      |                          |            |                          |
+**yet to meet 

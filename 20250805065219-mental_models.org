@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       45d46ed4-2ada-4da6-8d77-24bbd256c776
+:END:
+#+title: Mental Models
+#+date: [2025-08-05 Tue 06:52]
+
+Here’s a summary of the **9 powerful mental models** discussed in the video, each with a clear explanation and a simple daily life example:
+
+### 1. **The Map Is Not The Territory**
+- **Explanation:** Representations (like models, maps, or plans) are simplified and never fully reflect reality.
+- **Daily Life Example:** Your calendar says you have a free day, but unexpected events (traffic, sick child, surprise call) can disrupt your plan. Be flexible and ready to adjust when reality differs from your “map.”
+
+### 2. **Circle of Competence**
+- **Explanation:** Know what you truly understand (your circle), and be honest about what you don’t.
+- **Daily Life Example:** You love movies but don’t know filmmaking. Don’t try making a film for your business unless you’ve really learned the craft. Instead, hire an expert or learn first.
+
+### 3. **First Principles Thinking**
+- **Explanation:** Break down problems to basics and question every assumption.
+- **Daily Life Example:** Instead of blindly following popular diet trends, research your body’s needs and build your own meal plan based on nutrients and lifestyle, not just what influencers say.
+
+### 4. **Thought Experiment**
+- **Explanation:** Use mental simulations to explore possibilities and test ideas without real risk.
+- **Daily Life Example:** Thinking about changing careers? Imagine what your daily routine, finances, and satisfaction would look like a year from now before taking the plunge.
+
+### 5. **Second Order Thinking**
+- **Explanation:** Consider not just the immediate impact of your decisions, but the longer-term ripple effects.
+- **Daily Life Example:** Eating fast food every day saves time today (first order), but could impact your health, energy, and medical bills over years (second order).
+
+### 6. **Probabilistic Thinking**
+- **Explanation:** Choose actions based on the likelihood of different outcomes, not just “will/won’t happen.”
+- **Daily Life Example:** There’s a 70% chance of rain, so you bring an umbrella even though it might not rain, balancing preparation with odds.
+
+### 7. **Inversion**
+- **Explanation:** Instead of only thinking about what to do, ask what should be avoided or what could go wrong.
+- **Daily Life Example:** Planning a vacation? Think, “How could this trip be ruined?” (e.g., losing passport, food poisoning) and make plans to prevent those problems.
+
+### 8. **Occam’s Razor**
+- **Explanation:** When faced with multiple explanations, the simplest one is often the correct one.
+- **Daily Life Example:** Your phone isn’t working. Before assuming it’s broken, check if it’s simply not charged or switched off.
+
+### 9. **Hanlon’s Razor**
+- **Explanation:** Never attribute to malice that which can be explained by stupidity or error.
+- **Daily Life Example:** If a friend doesn’t reply to your text, don’t assume they’re angry—maybe they just got busy or forgot.
+
+**Bonus Model:**
+**The Eisenhower Matrix (from video’s ending):**
+- **Explanation:** Separate tasks by urgency and importance to focus on what really matters.
+- **Daily Life Example:** Instead of just reacting to urgent phone calls or emails, block time for important but not urgent tasks—like exercise or planning your goals.
+
+These models help you see life’s patterns more clearly, improve decisions, and avoid common mental traps.

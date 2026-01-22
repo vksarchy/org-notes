@@ -1,0 +1,384 @@
+#+TITLE: Offistable Updates
+#+Architect: Creative Alliance
+#+PROPERTY:
+* TOC :toc:
+- [[#minutes-with-amg][Minutes with AMG]]
+- [[#phase-1][Phase 1]]
+  - [[#proj-offistable-interior][PROJ Offistable Interior]]
+  - [[#proj-offistable-exterior][PROJ Offistable Exterior]]
+- [[#phase-2][Phase 2]]
+  - [[#soft-launch][Soft Launch]]
+- [[#phase-3][Phase 3]]
+
+* Minutes with AMG
+<2025-05-26 Tue 15:00>
+- Daya doing one conference table, getting one table from BOSS CABIN, chairs - 350 , table top done by him
+- Murali doing the reception table , sent him the drawing, add it to drive
+- Bathroom urinals count - also get one seated from Parryware
+- To confirm the partition and to place the order
+- Electrical drawing and work to begin by M
+- Sofas need to be made
+- Glass work to begin tomorrow
+- Welding sheet / roof for cafe to be done by M
+- Digital marketing & branding to be set by Pixelate. finalize the meeting
+- Speak to Raaja for the camera &
+- Discuss mktg with amg , incase inhouse we need to do campaign , else not required.
+- Mezzanine floor walk area need to be cut
+- Park area drawind seated space from Jenin, ask him
+- Networking work to begin , call Karthy
+- 3 entry & exit doors , get the quote and send payment
+- Ceiling connect archi and comet baffles
+
+| Area             | Topic     | Description                                 | Done by |
+| Conference Rooms | Ceiling   | Ceiling for cf rooms to be confirmed by AMG |         |
+|                  |           |                                             |         |
+|                  |           | One more table to get from Boss Cabin.      |         |
+|                  | Table     | Table getting ready by Daya.                |         |
+|                  | Lighting  | To be selected by AMG                       |         |
+|                  | Projector | Projector & TV to be given order.           |         |
+|------------------+-----------+---------------------------------------------+---------|
+|                  |           |                                             |         |
+
+|          |   | [2025-05-27 Tue 13:32] |
+| 29th May |   | [2025-05-27 Tue 13:32] |
+|          |   | [2025-05-27 Tue 13:32] |
+#+TBLFM:  $3 = now()
+
+| Name | Age | Occupation |
+|------+-----+------------|
+|      |     |            |
+
+
+
+                                                                =2025=
+* Phase 1
+SCHEDULED: <2025-05-21 Wed>
+DEADLINE: <2025-07-11 Fri>
+
+** PROJ Offistable Interior
+*** Dining Area (Terrace)
+**** Description:
+The area is located at top of the buliding with a sq feet of 2000 sq.ft
+**** DONE
+**** Working Team:
+
+| Date             | Glass        | Mason        | MS/ Welding       | Partitioning | Roofing      | False Ceiling | Lighting     |
+|------------------+--------------+--------------+-------------------+--------------+--------------+---------------+--------------|
+| <2025-06-03 Tue> | Yet to start | Yet to start | Work completed.   | Yet to start | Yet to start | Yet to start  | Yet to start |
+|                  |              |              | Shed constructed. |              |              |               |              |
+|------------------+--------------+--------------+-------------------+--------------+--------------+---------------+--------------|
+|                  |              |              |                   |              |              |               |              |
+
+**** Material Costing
+| Description          | Qty | Est Cost | Actual Cost | Date Paid | Pending | Status |
+|----------------------+-----+----------+-------------+-----------+---------+--------|
+| Mild Steel for Shed  |     |          |             |           |         |        |
+| Glass                |     |          |             |           |         |        |
+| Mason for cement bed |     |          |             |           |         |        |
+| Partitioning         |     |          |             |           |         |        |
+| Roofing              |     |          |             |           |         |        |
+
+**** Vendors
+1. Glass - TPRMS , Pondicherry / Factory
+2. Mason - Murugan
+3. MS - Ambika, Chennai
+4. Partitioning -
+5. Roofing -
+6. False Ceiling -
+7. Lighting -
+
+
+*** Automation & Biometric
+**** Description:
+The area is
+**** Vendors
+1. Tec
+
+**** QnA
+- If attendance software is required
+- What is the plan for the side entrance ?
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+**** DONE confirm the final quote and send advance. Tue Jun 10 12:06:48 2025
+
+*** Furniture
+**** Description:
+The requirement for our chairs and table is :
+| Area | Req | Qty | Est Price |
+|------+-----+-----+-----------|
+|      |     |     |           |
+**** In-house Team : Murali - for reception table , Office doors , Tabletop , reception table, Stepped Seating.
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+
+*** Electrical
+**** Description
+The total area for electrical
+**** Material Costing
+| Description      | Qty | Cost | Date Paid | Pending | Status |
+|------------------+-----+------+-----------+---------+--------|
+| Electrical Track |     |      |           |         |        |
+|                  |     |      |           |         |        |
+
+**** Updates
+
+*** Partitioning
+**** Description:
+The total area for partitioning is roughly about
+**** Vendors
+- Popular Steels
+**** Costing
+| Description       | Qty | Cost | Date | Pending | Status       |
+|-------------------+-----+------+------+---------+--------------|
+| Partitioning for  |     |      |      |         | Work Ongoing |
+| interior space GF |     |      |      |         | Tue Jun 10 12:12:26 2025          |
+
+
+**** DONE confirm the work ongoing. Tue Jun 10 12:08:32 2025
+
+*** Ceiling
+**** Description:
+The area given for ceiling is about 3000sq ft combined.
+| Area              | Sq.ft |
+|-------------------+-------|
+| Reception         |       |
+| Common Area       |       |
+| Park Area         |       |
+| Conference Room 1 |       |
+| Conference Room 2 |       |
+| Dining Area       |       |
+| Ext Cafeteria     |       |
+
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+ - Quote from the chennai guy for 100x75 , centre to center 100mm
+ - Tue Jun 10 12:23:02 2025
+   - Have asked for a quote without the installation.
+**** Vendors
+        1. Comet -
+        2. Unicel have asked for a revised quote
+        3. Highline - already sent us
+        4. Linearsil - ' This mostly will be done - baffle GS for 137 /- sq.ft
+**** Updates:
+- Given by the vendor today Thu Jun  5 16:12:07 2025 - 'Higline Elements' "Including Fixing cost
+
+ | Area         | Sq.ft       | Pricing  | Price per sq.ft |
+ |--------------+-------------+----------+-----------------|
+ | Reception    | 796 sq.ft   | 3,81,000 |             478 |
+ | Park Area    | 280 sq.ft   | 67,600   |             241 |
+ | Passage Area | 581 sq.ft   | 2,67,000 |             460 |
+ |              | Total       | 7,16,000 |                 |
+ |              | GST         | 1,28,000 |                 |
+ |              | Grand Total | 8,44,880 |                 |
+
+
+*** Flooring
+**** Description:
+The area layed for flooring combined :
+| Area              | Sq.ft | Cost |
+|-------------------+-------+------|
+| Reception         |       |      |
+| Entry Step        |       |      |
+| Common Area       |       |      |
+| Conference Rooms  |       |      |
+| Interior Office   |       |      |
+| Bathroom          |       |      |
+| Parking Area      |       |      |
+| Bike Parking Area |       |      |
+|                   |       |      |
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+**** DONE
+
+*** Lighting
+**** Description:
+The area layed for flooring combined :
+| Area             | Sq.ft | Cost |
+|------------------+-------+------|
+| Reception        |       |      |
+| Entry Step       |       |      |
+| Common Area      |       |      |
+| Conference Rooms |       |      |
+| Interior Office  |       |      |
+| Bathroom         |       |      |
+| Ext. Lights      |       |      |
+|                  |       |      |
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+**** DONE To get the drawing from Architect and send it, They visited the place yday.Wed Jun  4 12:06:02 2025
+**** DONE What is the update? What needs to be followed up ?
+
+
+*** Digital Marketing & Branding
+**** Description:
+Digital marketing for our brand with SEOs, Ad campaigns,
+**** Updates:
+***** Recently gave a quote from Pixelate they have worked with WorkEZ.
+*****  Tue Jun 10 12:15:21 2025
+- Mostly going with Gokul Netizo, have asked for a quote with Pixelate too.
+-
+
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+
+**** DONE Digital Marketing meeting
+SCHEDULED: <2025-05-28 Wed 15:00>
+#+BEGIN_EXAMPLE
+1. Have asked for a quote from Pixelate - visiting tomorrow
+#+end_example
+Digital Mktg meeting minutes
+-
+
+*** Networking
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+**** Description
+The backbone of any Business Centre.
+**** Updates
+***** DONE WorkEZ
+- [ ] Wi-fi scenes out there.
+- [ ] Amenities.
+***** DONE Check for security and networking teams
+SCHEDULED: <2025-06-09 Mon>
+***** DONE Follow up whats happening in Helix and WorkEZ?
+
+
+*** Bathroom fittings
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+**** Description:
+The area is
+
+
+*** Plumbing
+**** Description:
+The area is
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+
+*** Air Conditioning
+**** Description:
+The area is
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+**** DONE Needs the route to be marked and guidance from Architect.
+<2025-06-10 Tue>
+- Jenin coming today by 3pm
+
+
+*** Painting
+**** Description
+The total area
+**** Updates
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+
+*** Glass
+**** Vendor: TPRMS Pondicherry
+**** DONE Glass delivery
+SCHEDULED: <2025-05-30 Fri 12:00>
+1) Glass delivery to Guindy / Reception/ entrance / reception
+
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+**** Description:
+The area is
+**** DONE Need to take the measurement after fixing the door fixtures in entrance and the dining area, interior space.
+
+
+*** Miscellaneous
+**** Description:
+The area is
+**** Vendor:
+**** Updates:
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+
+*** Ext Cafeteria Area
+**** Description:
+The area is located at top of the buliding with a sq feet of 2000 sq.ft
+**** Working Team:
+
+| Date             | Glass        | Mason        | MS/ Welding       | Partitioning | Roofing      | False Ceiling | Lighting     |
+|------------------+--------------+--------------+-------------------+--------------+--------------+---------------+--------------|
+| <2025-06-03 Tue> | Yet to start | Yet to start | Work completed.   | Yet to start | Yet to start | Yet to start  | Yet to start |
+|                  |              |              | Shed constructed. |              |              |               |              |
+|------------------+--------------+--------------+-------------------+--------------+--------------+---------------+--------------|
+|                  |              |              |                   |              |              |               |              |
+
+**** Material Costing
+| Description          | Qty | Est Cost | Actual Cost | Date Paid | Pending | Status |
+|----------------------+-----+----------+-------------+-----------+---------+--------|
+| Mild Steel for Shed  |     |          |             |           |         |        |
+| Glass                |     |          |             |           |         |        |
+| Mason for cement bed |     |          |             |           |         |        |
+| Partitioning         |     |          |             |           |         |        |
+| Roofing              |     |          |             |           |         |        |
+
+**** Vendors
+1. Glass - TPRMS , Pondicherry / Factory
+2. Mason - Murugan
+3. MS - Ambika, Chennai
+4. Partitioning -
+5. Roofing -
+6. False Ceiling -
+7. Lighting -
+
+
+**** DONE Going with the New Updated plan for McD
+<2025-06-10 Tue>
+- Drawing given to the customer , awaiting confirmation.
+
+
+** PROJ Offistable Exterior
+*** Ext Parking Tiles
+**** DONE Tile Laying
+SCHEDULED: <2025-05-28 Wed>
+**** Vendor : Perumal Pavers
+- Tile work to begin laying tomorrow
+**** Costing
+| Description | Cost | Date Paid | Pending | Status |
+|-------------+------+-----------+---------+--------|
+|             |      |           |         |        |
+
+* Phase 2
+** Soft Launch
+SCHEDULED: <2025-07-15 Tue>
+* Phase 3
+***** Whatever the mind can conceive and believe , the mind can achieve

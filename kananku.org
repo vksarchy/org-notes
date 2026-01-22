@@ -1,0 +1,23 @@
+#+title: Kanaku
+
+|      Date | Desc                              | Amount | Notes |
+|-----------+-----------------------------------+--------+-------|
+|   20-4-25 | From K                            | 75,000 |       |
+|    1-5-25 | To Swiggy Snacks                  |   1000 |       |
+|   20-4-35 | To Dinner Swiggy                  |    500 |       |
+|   25-4-25 | To Dinner Swiggy                  |    300 |       |
+|           | To Petrol                         |    200 |       |
+|           | To Drinks                         |    500 |       |
+|           | To Haircut                        |    700 |       |
+|           | To Movie                          |    520 |       |
+|           | To Swiggy food                    |   3700 |       |
+|           | From K                            |  -4000 |       |
+|           | To adv                            |   5000 |       |
+|           | To Ticket both up & down          |   1800 |       |
+|   5th May | To Mas exp                        |   1700 |       |
+|   7th May | To EB in cbe                      |   1000 |       |
+|           | To Backdrop adv                   |   8000 |       |
+|           | To petrol for RX                  |    200 |       |
+|           | To Annapoorna baby shower advance |        |       |
+| 18th June | To Swiggy to redeem               |    550 |       |
+|           | To Bushtu shopping                |   6500 |       |

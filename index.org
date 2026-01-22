@@ -1,0 +1,9 @@
+#+title: Index
+
+* Things to learn next
+** Property Mgmt
+** Emacs Lisp
+** Storytelling
+*** Rimworld
+** Autodidact
+** Tamil speaking and english

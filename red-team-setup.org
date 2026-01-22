@@ -1,0 +1,380 @@
+
+#+TITLE: Red Team Workstation Setup (Arch / CachyOS)
+#+AUTHOR: VKS
+#+DESCRIPTION: Complete reusable red-team environment without Kali Linux
+#+STARTUP: overview
+#+PROPERTY: header-args:shell :results output :exports both
+* Table of Contents :toc:
+- [[#-purpose][🎯 Purpose]]
+- [[#-directory-structure][📁 Directory Structure]]
+- [[#-base-system-packages][🧱 Base System Packages]]
+- [[#-recon--enumeration][🔍 Recon & Enumeration]]
+- [[#-web-application-testing][🌍 Web Application Testing]]
+- [[#-password--credential-attacks][🔐 Password & Credential Attacks]]
+- [[#-wordlists][📚 Wordlists]]
+- [[#-exploitation-frameworks][💥 Exploitation Frameworks]]
+- [[#-active-directory-attacks][🧠 Active Directory Attacks]]
+- [[#-pivoting--tunneling][📡 Pivoting & Tunneling]]
+- [[#-binary-exploitation--reverse-engineering][🧪 Binary Exploitation & Reverse Engineering]]
+- [[#️-osint][🕵️ OSINT]]
+- [[#-vulnerability-scanning][📦 Vulnerability Scanning]]
+- [[#-command--control-frameworks][🧠 Command & Control Frameworks]]
+- [[#-python-offensive-libraries][🧰 Python Offensive Libraries]]
+- [[#️-useful-aliases][⚙️ Useful Aliases]]
+- [[#-standard-red-team-workflow][🧠 Standard Red-Team Workflow]]
+- [[#️-legal-notice][⚠️ Legal Notice]]
+- [[#-result][✅ Result]]
+- [[#-future-extensions][🚀 Future Extensions]]
+
+* 🎯 Purpose
+
+This document defines a complete professional red-team workstation
+built on Arch Linux / CachyOS.
+
+Goals:
+
+- Replace Kali Linux completely
+- Maintain clean rolling-release system
+- Install only real-world tools
+- Support CTF, labs, bug bounty, and internal assessments
+- Be reproducible on any machine
+
+------------------------------------------------------------
+
+* 📁 Directory Structure
+
+#+begin_src shell
+mkdir -p ~/redteam/{recon,scans,web,ad,exploits,loot,wordlists,tools,reversing,c2,notes}
+#+end_src
+
+------------------------------------------------------------
+
+* 🧱 Base System Packages
+
+#+begin_src shell
+sudo pacman -S --needed \
+base-devel \
+git \
+curl \
+wget \
+unzip \
+zip \
+tar \
+neovim \
+tmux \
+htop \
+btop \
+ripgrep \
+fd \
+fzf \
+bat \
+eza \
+tree \
+jq \
+yq \
+python \
+python-pip \
+go \
+rust \
+nodejs \
+npm \
+ruby \
+openjdk17 \
+gcc \
+make \
+cmake \
+clang \
+lld \
+gdb \
+strace \
+ltrace \
+nasm \
+openssl \
+net-tools \
+iproute2 \
+inetutils \
+bind \
+whois \
+tcpdump \
+wireshark-qt \
+nmap \
+masscan \
+proxychains-ng \
+openssh \
+openvpn \
+networkmanager-openvpn
+#+end_src
+
+------------------------------------------------------------
+
+* 🔍 Recon & Enumeration
+
+#+begin_src shell
+sudo pacman -S \
+amass \
+subfinder \
+httpx \
+ffuf \
+gobuster \
+whatweb \
+dnsrecon \
+theharvester \
+recon-ng \
+enum4linux \
+enum4linux-ng \
+nbtscan \
+smtp-user-enum \
+snmp \
+onesixtyone
+#+end_src
+
+------------------------------------------------------------
+
+* 🌍 Web Application Testing
+
+#+begin_src shell
+sudo pacman -S \
+sqlmap \
+nikto \
+wpscan \
+dirsearch \
+burpsuite \
+zap \
+mitmproxy \
+feroxbuster
+#+end_src
+
+**Additional (AUR):**
+
+#+begin_src shell
+yay -S \
+katana \
+dalfox \
+xnlinkfinder \
+arjun \
+gf \
+gf-patterns
+#+end_src
+
+------------------------------------------------------------
+
+* 🔐 Password & Credential Attacks
+
+#+begin_src shell
+sudo pacman -S \
+hashcat \
+john \
+hydra \
+crunch \
+cewl \
+hashid
+#+end_src
+
+------------------------------------------------------------
+
+* 📚 Wordlists
+
+#+begin_src shell
+cd ~/redteam/wordlists
+git clone https://github.com/danielmiessler/SecLists.git
+#+end_src
+
+------------------------------------------------------------
+
+* 💥 Exploitation Frameworks
+
+#+begin_src shell
+sudo pacman -S metasploit
+#+end_src
+
+#+begin_src shell
+yay -S exploitdb searchsploit
+#+end_src
+
+------------------------------------------------------------
+
+* 🧠 Active Directory Attacks
+
+#+begin_src shell
+sudo pacman -S \
+impacket \
+bloodhound \
+neo4j \
+ldap-utils \
+smbclient \
+rpcclient \
+responder \
+crackmapexec \
+evil-winrm \
+kerbrute \
+powershell
+#+end_src
+
+Enable Neo4j:
+
+#+begin_src shell
+sudo systemctl enable --now neo4j
+#+end_src
+
+------------------------------------------------------------
+
+* 📡 Pivoting & Tunneling
+
+#+begin_src shell
+sudo pacman -S \
+chisel \
+socat \
+netcat \
+sshuttle \
+plink
+#+end_src
+
+------------------------------------------------------------
+
+* 🧪 Binary Exploitation & Reverse Engineering
+
+#+begin_src shell
+sudo pacman -S \
+radare2 \
+ghidra \
+pwndbg \
+gef \
+pwntools \
+binwalk \
+checksec \
+upx \
+patchelf
+#+end_src
+
+------------------------------------------------------------
+
+* 🕵️ OSINT
+
+#+begin_src shell
+sudo pacman -S \
+maltego \
+metagoofil \
+exiftool \
+sherlock
+#+end_src
+
+AUR:
+
+#+begin_src shell
+yay -S photon
+#+end_src
+
+------------------------------------------------------------
+
+* 📦 Vulnerability Scanning
+
+#+begin_src shell
+yay -S nuclei nuclei-templates
+#+end_src
+
+------------------------------------------------------------
+
+* 🧠 Command & Control Frameworks
+
+#+begin_src shell
+yay -S \
+sliver \
+havoc-c2 \
+empire \
+powershell-empire
+#+end_src
+
+------------------------------------------------------------
+
+* 🧰 Python Offensive Libraries
+
+#+begin_src shell
+pip install --user \
+pwntools \
+requests \
+impacket \
+rich \
+shodan \
+scapy \
+ldap3 \
+pycryptodome \
+flask \
+fastapi
+#+end_src
+
+------------------------------------------------------------
+
+* ⚙️ Useful Aliases
+
+#+begin_src shell
+cat <<EOF >> ~/.bashrc
+
+alias ll='ls -lah'
+alias scan='nmap -sC -sV -Pn'
+alias recon='cd ~/redteam/recon'
+alias ad='cd ~/redteam/ad'
+alias web='cd ~/redteam/web'
+alias loot='cd ~/redteam/loot'
+
+EOF
+#+end_src
+
+------------------------------------------------------------
+
+* 🧠 Standard Red-Team Workflow
+
+1. Recon
+   - amass / subfinder
+2. Validation
+   - httpx
+3. Discovery
+   - ffuf / nuclei
+4. Exploitation
+   - metasploit / custom exploits
+5. Credential Access
+   - hashcat / john
+6. Active Directory
+   - impacket / bloodhound
+7. Pivoting
+   - chisel / sshuttle
+8. Post Exploitation
+   - loot collection
+9. Reporting
+   - notes + screenshots
+
+------------------------------------------------------------
+
+* ⚠️ Legal Notice
+
+Only test:
+
+- systems you own
+- labs (HTB, THM, VulnHub)
+- environments with explicit written authorization
+
+Unauthorized testing is illegal.
+
+------------------------------------------------------------
+
+* ✅ Result
+
+This setup provides:
+
+- Kali-level tooling
+- Arch-level performance
+- Full customization
+- Clean rolling updates
+- Long-term maintainability
+
+------------------------------------------------------------
+
+* 🚀 Future Extensions
+
+- Custom recon automation scripts
+- Doom Emacs red-team workspace
+- Org-based reporting templates
+- Auto installer (tangle → shell script)
+- Personal knowledge base (Zettelkasten)
+
+End.
+

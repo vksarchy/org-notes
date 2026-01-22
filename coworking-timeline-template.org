@@ -1,0 +1,115 @@
+#+TITLE: Coworking Space Project Timeline
+#+AUTHOR: Bravo 1
+#+STARTUP: overview
+#+PROPERTY: Effort_ALL 0:15 0:30 1:00 2:00 4:00 8:00
+
+* Phase 1: Planning & Research
+** TODO Competitor benchmarking
+   :PROPERTIES:
+   :Owner: You
+   :Priority: A
+   :Effort: 4:00
+   :Status: DONE
+   :END:
+   DEADLINE: <2025-01-05>
+   CLOSED: [2025-01-05]
+   - Notes: Focused on top 5 players
+
+** TODO Financial modelling
+   :PROPERTIES:
+   :Owner: You/CA
+   :Priority: A
+   :Effort: 4:00
+   :Status: DONE
+   :END:
+   DEADLINE: <2025-01-10>
+   CLOSED: [2025-01-10]
+
+** TODO Location scouting
+   :PROPERTIES:
+   :Owner: Agent
+   :Priority: B
+   :Effort: 8:00
+   :Status: DONE
+   :END:
+   DEADLINE: <2025-01-20>
+   CLOSED: [2025-01-20]
+
+** TODO Final site selection
+   :PROPERTIES:
+   :Owner: You
+   :Priority: A
+   :Effort: 2:00
+   :Status: DONE
+   :END:
+   DEADLINE: <2025-01-23>
+   CLOSED: [2025-01-23]
+
+* Phase 2: Legal Setup
+** TODO Legal due diligence
+   :Owner: Lawyer
+   DEADLINE: <2025-01-31>
+   :Status: DONE
+
+** TODO Permits & approvals
+   :Owner: Govt Agent
+   DEADLINE: <2025-02-28>
+   :Status: IN-PROGRESS
+   - Note: Fire NOC pending
+
+* Phase 3: Design & Procurement
+** TODO Layout planning
+   :Owner: Architect
+   DEADLINE: <2025-03-10>
+   :Status: IN-PROGRESS
+
+** TODO Electrical/AC planning
+   :Owner: Engineer
+   DEADLINE: <2025-03-17>
+   :Status: IN-PROGRESS
+
+** TODO Furniture ordering
+   :Owner: Ops Lead
+   DEADLINE: <2025-03-25>
+   :Status: PENDING
+
+** TODO Networking gear & ISP
+   :Owner: Tech Lead
+   DEADLINE: <2025-03-31>
+   :Status: PENDING
+
+* Phase 4: Buildout
+** TODO Civil works & partitioning
+   :Owner: Contractor
+   DEADLINE: <2025-05-15>
+
+** TODO AC & Electrical install
+   :Owner: Engineer
+   DEADLINE: <2025-05-25>
+
+** TODO Furniture delivery & setup
+   :Owner: Vendor
+   DEADLINE: <2025-06-05>
+
+* Phase 5: Marketing
+** TODO Website + Social Media
+   :Owner: Marketing
+   DEADLINE: <2025-06-20>
+
+** TODO Early bird tenant offers
+   :Owner: You
+   DEADLINE: <2025-07-05>
+
+* Phase 6: Launch
+** TODO Soft Launch
+   :Owner: All hands
+   DEADLINE: <2025-07-10>
+
+** TODO Grand Opening Event
+   :Owner: You/Team
+   DEADLINE: <2025-07-15>
+
+* Notes
+- Use `C-c C-x C-d` to view deadlines in agenda.
+- Enable `org-gantt` or export with `ox-twbs` for visual timeline.
+

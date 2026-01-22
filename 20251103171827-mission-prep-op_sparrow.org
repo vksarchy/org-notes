@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       42ac0283-621f-495c-a483-dca215c8526f
+:END:
+#+title: Mission Prep — Op Sparrow
+#+date: [2025-11-03 Mon 17:18]
+
+* Mission Objective:
+
+
+* Intel:
+- Enemy:
+- Terrain:
+- Weather:
+
+* Loadout:
+- Primary:
+- Secondary:
+- Comms:
+
+* Timeline:
+- Step 1:
+- Step 2:
+
+* Contingencies:
+- Risk:
+- Mitigation:
+
+* Success Criteria:
+- [ ] Objective secured
+- [ ] Team accounted

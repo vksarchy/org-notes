@@ -1,0 +1,20 @@
+
+* 2025
+** 2025-11 November
+*** 2025-11-01 Saturday
+**** [2025-11-01 Sat 12:40]
+
+[[file:~/Documents/org/Moi.org::*Tchgd][
+
+how to setup the icons for the heading in emacs doom
+* 2026
+** 2026-01 January
+*** 2026-01-14 Wednesday
+**** [2026-01-14 Wed 18:17] 
+
+[[file:~/.config/doom/config.el::"* %?"]]
+
+Hello z!
+* 2nd week of 26'
+ We grindin
+ - 

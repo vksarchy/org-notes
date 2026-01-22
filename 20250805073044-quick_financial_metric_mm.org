@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       fa98a0d6-2dfb-4d38-b5e2-a2ac7c71f5c0
+:END:
+#+title: Quick Financial Metric MM
+#+date: [2025-08-05 Tue 07:30]
+
+To quickly recall and ask about the most important items in an income statement and balance sheet, use the following **mental model** based on core financial metrics. This model allows you to focus on high-impact questions and get a reliable overview of any company's financials.
+
+## 1. **Mental Model for the Income Statement ("Profit Story")**
+
+Think in terms of **Profit Pathway** — track how money flows from gross revenues to the bottom line:
+
+1. **Top Line:**
+   - **Revenue (Sales):** How much did the company make in total sales?
+
+2. **Core Costs:**
+   - **Cost of Goods Sold (COGS):** What did it cost to make those sales?
+
+3. **Gross Profit:**
+   - **Gross Margin:** What’s left after direct costs?
+
+4. **Operating Costs:**
+   - **Operating Expenses (SG&A, R&D):** What does it cost to run the business, excluding direct production?
+
+5. **Operating Profit:**
+   - **Operating Income (EBIT):** Profit from core operations.
+
+6. **Non-Operating Items:**
+   - **Interest & Taxes:** What are they paying in interest and taxes?
+
+7. **Bottom Line:**
+   - **Net Income (Net Profit):** How much does the company actually keep?
+
+**Ask:**
+- What are the revenue and net income for the period?
+- Has the gross or operating margin changed significantly?
+- Are there any unusual items (e.g., one-time charges)?
+- What’s the earnings per share (EPS)?
+
+## 2. **Mental Model for the Balance Sheet ("Snapshot of Strength")**
+
+Think about the **Financial Foundation** — what the company owns and owes, and how it is financed:
+
+1. **Assets – "What do they own?"**
+   - **Current Assets:** Cash, receivables, inventory.
+   - **Non-Current Assets:** Property, plant, equipment, investments, intangible assets.
+
+2. **Liabilities – "What do they owe?"**
+   - **Current Liabilities:** Accounts payable, short-term debt.
+   - **Long-Term Liabilities:** Long-term debt, leases, retirement obligations.
+
+3. **Equity – "What's left for shareholders?"**
+   - **Shareholder Equity/Book Value:** Assets minus liabilities.
+
+**Ask:**
+- What is the total asset and total liability figure and how have they changed?
+- How much cash and debt does the company have (liquidity/solvency)?
+- What is the company’s net debt (debt minus cash)?
+- What is the debt-to-equity ratio?
+- Has shareholder equity increased or decreased?
+
+## 3. **Quick "Checklist" (at a glance):**
+
+**Income Statement:**
+- Revenue (Sales)
+- COGS
+- Gross Profit
+- Operating Expenses
+- Operating Income (EBIT)
+- Net Income
+- Earnings per Share (EPS)
+
+**Balance Sheet:**
+- Total Assets
+- Cash and Equivalents
+- Total Liabilities
+- Short/Long-Term Debt
+- Shareholder Equity
+- Net Debt
+- Debt/Equity Ratio
+
+**Approach:**
+Whenever you review financials or want to ask "the right questions," start with the above key headings and drill down. This ensures you get the main story—profitability, asset strength, liabilities, and how much is left for owners—without being overwhelmed by unnecessary details.

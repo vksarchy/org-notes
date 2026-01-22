@@ -1,0 +1,16 @@
+#+title: EU5
+
+* Learing the new mechanics is so good and osm
+Currently learnig the eu4
+
+* Warfare
+:PROPERTIES:
+:ID:       3e131eb2-5e98-4c67-aff8-89d1e731e7d5
+:END:
++ Combat ability to watch out for
++ Cavalry to be less than 50% of the actual army - the infantry
++ Military tactics
++ Agressive expansion
+
+#+DOWNLOADED: screenshot @ 2025-07-27 14:09:15
+[[file:Warfare/2025-07-27_14-09-15_screenshot.png]]

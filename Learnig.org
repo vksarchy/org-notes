@@ -1,0 +1,15 @@
+#+title: Learning
+
+
+* Victoria 3
+** Barracks & Conscription
+*** Battalions are the peramnent
+- Regular
+- Conscripts
+*** Consription
+- Temporary center for raising additional mil units
+- No need to be advanced buildings
+- Depends on the following
+**** Army Model Law
+**** Pops
+**** Technology

@@ -1,0 +1,92 @@
+:PROPERTIES:
+:ID:       1a525036-8db0-4684-98d7-d583363843ec
+:END:
+#+title: HRE
+#+date: [2025-08-06 Wed 13:20]
+
+Alright, Commander. Strap on your EU4 monocle and let's dissect the **Holy Roman Empire (HRE)** — like you’re about to either unite it... or dismantle it for fun.
+
+
+### 🎯 TL;DR for EU4 Players:
+
+* **Empire Name**: Holy Roman Empire (HRE)
+* **Start Date**: 962 AD (Otto I crowned Emperor)
+* **Death Date**: 1806 AD (Napoleon kicked its teeth in)
+* **Formed by**: East Francia (the OG country, later became the HRE)
+* **Capital**: None fixed, but emperors often German.
+* **How many countries?** Over 300 at its peak, many OPMs (One Province Minors) — EU4’s favourite micromanagement playground.
+
+---
+
+### 🛡️ Who Started the HRE?
+
+* After **Charlemagne** built the **Carolingian Empire** in 800 AD and got crowned by the Pope, his empire split. His grandson's part, **East Francia**, eventually became the **HRE**.
+* The actual **"start" of the HRE** in EU4 terms is **Otto I** being crowned by the Pope in **962 AD**.
+* **Otto I = East Francia = proto-HRE.** Think of it as a formable nation that became the Empire via event.
+
+> EU4 Analogy: East Francia is like a tag that gets a mission tree or decision to form the HRE via crown + Papal Relations > 100.
+
+---
+
+### 🗺️ How Big Was the HRE?
+
+* **Peak: 300+ “states”**, but most were tiny.
+* Included **modern Germany, Austria, Switzerland, Czechia, Slovenia, Belgium, Netherlands, Luxembourg**, and bits of **Italy, France, Poland**.
+* **EU4’s HRE map mode** gives you a visual hint, but the real HRE was even messier.
+
+---
+
+### 🏛️ How Did It Function?
+
+In EU4 terms:
+
+* The **Emperor** is elected by **7 Electors** (unless you stack IA and revoke the Privilegia).
+* The Emperor protects the Empire and gets bonuses (extra manpower, diplomatic reputation, + force limit in HRE).
+* HRE reforms can lead to:
+
+  * **Centralised autocracy** (One-tag the HRE like forming **Renovatio Imperii**)
+  * Or a **vassal swarm** (if you revoke the privilegia).
+* **Religious turmoil** (like the Reformation) can cause the **League War**, which defines the Empire’s religion — a major HRE event in EU4.
+
+---
+
+### 🏴 The Fall of the HRE
+
+* **Date**: 1806 AD
+* **Culprit**: **Napoleon Bonaparte**
+* The French wrecking ball smashes through German lands.
+* **Francis II of Austria** abdicates the imperial throne, ending the HRE to prevent Napoleon from hijacking it.
+* **Post-HRE**: German states form the **Confederation of the Rhine**, and later, Austria and Prussia start fighting for dominance.
+
+> EU4 Event Analogy: “French Aggression Cripples the Empire – Emperor Abdicates” → HRE tag is deleted, IA dropped to zero, member states independent.
+
+---
+
+### 💡 Fun EU4 Notes:
+
+| Mechanic                 | Real-Life Analogy                                                                |
+| ------------------------ | -------------------------------------------------------------------------------- |
+| **Imperial Authority**   | The Emperor’s grip on the mess                                                   |
+| **Imperial Reforms**     | Attempts to centralise the Empire (often failed)                                 |
+| **League War**           | Thirty Years’ War, Protestant vs Catholic                                        |
+| **Revoking Privilegia**  | Centralising the HRE into one mega-vassal blob                                   |
+| **Forming HRE (Nation)** | Post-Reichsreform dream, never happened IRL                                      |
+| **Dismantling HRE**      | What Napoleon did in 1806, you can do in EU4 with 3 wars and a knife in the back |
+
+---
+
+### 🏰 Timeline Summary:
+
+| Date          | Event                                         |
+| ------------- | --------------------------------------------- |
+| **800**       | Charlemagne crowned Emperor (not HRE yet)     |
+| **843**       | Treaty of Verdun: Split of Carolingian Empire |
+| **962**       | Otto I crowned: Official HRE formed           |
+| **1356**      | Golden Bull establishes electoral system      |
+| **1517–1648** | Protestant Reformation + League Wars          |
+| **1648**      | Peace of Westphalia weakens Emperor           |
+| **1806**      | Francis II abdicates, HRE dissolved           |
+
+---
+
+Would you like a **map comparison** between the real HRE and the EU4 version, or a **strategy guide for playing Emperor in EU4**?

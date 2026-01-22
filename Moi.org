@@ -1,0 +1,62 @@
+#+title: Moi
+* Tchgd
+
+| Name                   | Amount |
+|------------------------+--------|
+| Chinna Maama           |   1000 |
+| Periya Maama           |   1000 |
+| Peryiasaami and Shanti |    500 |
+| Mohaasi Aaya           |    500 |
+| Kaaliperipa            |   1500 |
+| Deepa Appa             |    500 |
+| Nathiya Perima         |    500 |
+| Kala ka                |    500 |
+| Solakaadu Athai        |    500 |
+| Chinnusaamy Mama Kovai |   2000 |
+| Periya Thambi Mama     |    200 |
+| Suresh Mama            |    500 |
+| Suresh Amma            |    200 |
+| Kullambalathu Aaya     |    200 |
+| Nirmala                |    200 |
+| Sudha Sivaraj          |    500 |
+| Jayamani Chiti         |    500 |
+| Santhosa Chithi        |    500 |
+| Kovai Perima           |   2000 |
+| Kandhampalayam Perima  |    500 |
+| Kadankaran             |    200 |
+| Manoj                  |    500 |
+| Prakash Mama           |    500 |
+| Devi Kottamadu         |    200 |
+| Panangaadu Maari Aayi  |    100 |
+| Panakadu Shanti        |    100 |
+| Panakadu Palanivel     |    100 |
+| Deepa Perima           |    200 |
+| Sivaraj Pudupalayam    |    500 |
+| Chinnathambi Mama      |    500 |
+| Deepa Athai            |   1000 |
+| Deepa Athai Ponu       |    500 |
+| Swathi                 |    500 |
+| Ranjith                |    500 |
+| Ponama                 |    100 |
+| Manoj Mamanar          |    500 |
+|                        |        |
+|------------------------+--------|
+| **Total**                |  19800 |
+#+TBLFM: @>$2=vsum(@2..@-1)
+
+
+* CBE
+| Name                  | Gift/Amount              |
+|-----------------------+--------------------------|
+| Durai                 | 25000                    |
+| Preeti                | 10000                    |
+| Malaramma & Archu     | Silver Bowl tumbler & spoon |
+| Goki Athai            | Silver small bowl        |
+| Sasi Athai            | Silver tumbler           |
+| Babu Machan           | Baby dress               |
+| Ashwin Pradeesh       | 1000                     |
+| Praveen MKP           | 1 gram gold coin         |
+| Kavi ka               | Bangle set               |
+|-----------------------+--------------------------|
+| **Total (₹)**         |                          |
+#+TBLFM: @10$2=vsum(@2..@9::$2::@2$2..@9$2)

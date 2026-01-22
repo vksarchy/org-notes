@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4bf16261-376d-4f19-9cee-a959015f1082
+:END:
+#+title: Vernacular
+#+date: [2025-11-01 Sat 01:24]
+
+* Mil
+- guidon
+
+Cultural excellence and constant innovation are core values at Rockstar; every game must do something new narratively and technically.
+- Gonna steal this line
