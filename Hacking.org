@@ -286,3 +286,23 @@ TLS - Transport layer securities
 * FTP
 File Transfer Protocol
 -  
+
+* TCP & UDP
+TCP vs. UDP: The Postal Service vs. The Megaphone
+
+Every port uses one of these two "transport" methods. In your ss output, you see both.
+1. TCP (Transmission Control Protocol)
+
+    The Concept: A reliable, back-and-forth conversation that ensures every piece of data arrives perfectly.
+
+    Simple Analogy: Think of a Certified Letter. You send it, the recipient signs for it, and they send back a receipt. If a page is missing, you realize it immediately and send it again.
+
+    On your list: You see sshd on Port 22 using TCP. This makes sense—if you are typing commands into a server, you need every single letter to arrive in the right order.
+
+2. UDP (User Datagram Protocol)
+
+    The Concept: Fast, one-way broadcasting with no guarantee of arrival.
+
+    Simple Analogy: Think of a Megaphone or a Live TV Broadcast. The speaker shouts information out. If you blink and miss a word, they don't stop and repeat it; they just keep going. It’s "fire and forget."
+
+    On your list: You see firefox and avahi-daemon using UDP. UDP is great for things like video calls or "finding" devices on a network where speed matters more than perfection
