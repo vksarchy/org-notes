@@ -1,27 +1,134 @@
-#+title: Inlingua
+#+TITLE: InLingua College Outreach
+#+DATE: Fri Jan 23 2026
+#+STARTUP: showall shrink
 
+* Contacts
 
+|  # | College  | Role          | Contact              |      Phone | Email                    |
+|----+----------+---------------+----------------------+------------+--------------------------|
+|  1 | SNR Arts | Placement     | Dr. Thamarai & Rekha | 8056750646 | ctpcr@srcas.ac.in        |
+|  2 | KCT      | English HOD   | Dr. Sreejana         | 9944557031 | sreejana.s.sci@kct.ac.in |
+|  3 | SREC     | HOD – English | Dr. Vichitra Shivaji | 9442078667 | hod-english@srec.ac.in   |
+|  4 | SREC     | Principal     | Dr. Soundarrajan     | 9942069911 |                          |
+|  5 | KSR      | Principal     | Dr. Gopalakrishnan   |            |                          |
+|  6 | HiCET    | Principal     |                      |            |                          |
+|  7 | SKCET    | Placement     | Preethima            |            | placementoffice@skcet.in |
+|  8 | Rathinam | Placement     | Arun Vignesh         | 9789173822 |                          |
+|  9 | KPRIET   | HOD           | Dr. Jayasudha        | 7502009842 |                          |
+| 10 | KGISL    | Principal     |                      |            |                          |
 
-* Today's plan 
-Fri Jan 23 11:44:34 2026
-| College / Department                   | Role           | Name                     |      Phone | Email                                                       | Status                                    | Time | Follow-up |   |
-| -------------------------------------- | -------------- | ------------------------ | ---------- | ----------------------------------------------------------- | ----------------------------------------- | ---- | --------- | - |
-| SNR Arts (Ramakrishna Arts)            | Placement Cell | Dr. Thamarai & Dr. Rekha | 8056750646 | [ctpcr@srcas.ac.in](mailto:ctpcr@srcas.ac.in)               | Sent a mail to Principal on 23rd Jan      |      |           |   |
-| Kumaraguru (KCT)                       | English HOD    | Dr. Sreejana             | 9944557031 | [sreejana.s.sci@kct.ac.in](mailto:sreejana.s.sci@kct.ac.in) | Sent a mail but waiting for spam removal  |      |           |   |
-| Ramakrishna Engineering College (SRCE) | HOD – English  | Dr. Vichitra Shivaji     | 9442078667 | [hod-english@srec.ac.in](mailto:hod-english@srec.ac.in)     | Sent a mail already, need to follow up    |      |           |   |
-| Ramakrishna Engineering College (SRCE) | Principal      | Dr. Soundarrajan         | 9942069911 |                                                             | Sent a mail asking for appointment        |      |           |   |
-| KSR                                    | Principal      | Dr. Gopalakrishnan       |            |                                                             | Send a mail to KSR principal and get appt |      |           |   |
-| Hindustan College of Engineering       | Principal      |                          |            |                                                             |                                           |      |           |   |
-| Krishna College (SKCT)                 | Placement      | Preethima                |            | [placementoffice@skcet.in](mailto:placementoffice@skcet.in) |                                           |      |           |   |
-| Ratnam College of Engineering          | Placement      | Arun Vignesh             |  978917382 |                                                             | Called him, yet to get update             |      |           |   |
-| RR                                     |                |                          |            |                                                             |                                           |      |           |   |
-| r                                      |                |                          |            |                                                             |                                           |      |           |   |
-| KPR (KPRIET)**                         | HOD            | Dr. Jayasudha            | 7502009842 |                                                             |                                           |      |           |   |
-| KGISL **                               | Principal      |                          |            |                                                             |                                           |      |           |   |
+* Status
 
-|--------------------+--------+------+-------+-------+--------+------+-----------+---|
-| College/Department | Role   | Name | Phone | Email | Status | Time | Follow-up |   |
-| -- + --            |        |      |       |       |        |      |           |   |
-| Krishna college    | rastat |      |       |       |        |      |           |   |
+|  # | College  | Status                          | Follow-up |
+|----+----------+---------------------------------+-----------|
+|  1 | SNR Arts | ✉ Mailed Principal 23 Jan      |           |
+|  2 | KCT      | ✉ Mailed, spam removal pending |           |
+|  3 | SREC     | ✉ Mailed, need follow up       |           |
+|  4 | SREC     | ✉ Mailed asking for appt       |           |
+|  5 | KSR      | 📋 Send mail & get appt         |           |
+|  6 | HiCET    | 📋 Get contact & reach out      |           |
+|  7 | SKCET    | 📋 Pending outreach             |           |
+|  8 | Rathinam | 📞 Called, awaiting update      |           |
+|  9 | KPRIET   | 📋 Pending outreach             |           |
+| 10 | KGISL    | 📋 Get contact & reach out      |           |
 
-* Tomorrow's plan
+#+TITLE: Autonomous Engineering Colleges - Western TN & Trichy
+#+AUTHOR: Kappini Realty Research
+#+DATE: 2026-02-10
+#+STARTUP: overview
+
+* Coimbatore
+** Tier 1
+| Rank | College Name                                      | Type      | Autonomous Status | Notes                          |
+|------+---------------------------------------------------+-----------+-------------------+--------------------------------|
+|    1 | PSG College of Technology                         | Govt Aided | ✅ Confirmed       | Autonomous since long; NAAC A++ |
+|    2 | Government College of Technology                  | Government | ✅ Confirmed       | Autonomous; est. 1945; NAAC A  |
+|    3 | Coimbatore Institute of Technology                | Govt Aided | ✅ Confirmed       | Autonomous; NAAC accredited    |
+
+** Tier 1.5
+| Rank | College Name                                      | Type    | Autonomous Status | Notes               |
+|------+---------------------------------------------------+---------+-------------------+----------------------|
+|    4 | Kumaraguru College of Technology                  | Private | ✅ Confirmed       | Autonomous; NAAC A++ |
+|    5 | Sri Krishna College of Engineering and Technology | Private | ✅ Confirmed       | Autonomous; NAAC A+  |
+
+** Tier 2
+| Rank | College Name                          | Type    | Autonomous Status | Notes                              |
+|------+---------------------------------------+---------+-------------------+------------------------------------|
+|    6 | Sri Ramakrishna Engineering College    | Private | ✅ Confirmed       | Autonomous since 2007-08; NAAC A+  |
+|    7 | Sri Krishna College of Technology     | Private | ✅ Confirmed       | Autonomous                         |
+|    8 | Dr NGP Institute of Technology        | Private | ✅ Confirmed       | Autonomous; AICTE approved         |
+
+** Tier 2.5
+| Rank | College Name                                 | Type    | Autonomous Status | Notes                           |
+|------+----------------------------------------------+---------+-------------------+---------------------------------|
+|    9 | KPR Institute of Engineering and Technology  | Private | ✅ Confirmed       | Autonomous; NAAC A; est. 2009   |
+|   10 | Sri Eshwar College of Engineering            | Private | ✅ Confirmed       | Autonomous; est. 2008           |
+|   11 | Karpagam College of Engineering              | Private | ✅ Confirmed       | Autonomous; NAAC A+             |
+|  NEW | Sri Ramakrishna Institute of Technology (SRIT) | Private | ✅ Confirmed     | *NEW ADDITION*; Autonomous        |
+
+** Tier 3
+| Rank | College Name                                        | Type    | Autonomous Status | Notes                                |
+|------+-----------------------------------------------------+---------+-------------------+--------------------------------------|
+|   12 | SNS College of Technology                           | Private | ✅ Confirmed       | Autonomous                           |
+|   14 | Hindusthan College of Engineering and Technology    | Private | ✅ Confirmed       | Autonomous; NAAC A++; 200 acre campus |
+|   15 | Rathinam Technical Campus                           | Private | ✅ Confirmed       | Autonomous since Nov 2022; NAAC A++  |
+|   16 | Coimbatore Institute of Engineering and Technology  | Private | ❓ Not confirmed   | Could not verify autonomous status   |
+
+* Pollachi
+| Rank | College Name                                          | Type    | Tier     | Autonomous Status | Notes                              |
+|------+-------------------------------------------------------+---------+----------+-------------------+------------------------------------|
+|    1 | Dr Mahalingam College of Engineering and Technology   | Private | Tier 1.5 | ✅ Confirmed       | Autonomous                         |
+|    2 | PA College of Engineering and Technology              | Private | Tier 3   | ❓ Not confirmed   | Could not verify autonomous status |
+
+* Erode
+| Rank | College Name                                 | Type    | Tier     | Autonomous Status | Notes                     |
+|------+----------------------------------------------+---------+----------+-------------------+---------------------------|
+|    1 | Kongu Engineering College                    | Private | Tier 1   | ✅ Confirmed       | Autonomous; top-ranked    |
+|    2 | Bannari Amman Institute of Technology        | Private | Tier 1.5 | ✅ Confirmed       | Autonomous; NAAC          |
+|    3 | Velalar College of Engineering and Technology | Private | Tier 2   | ✅ Confirmed       | Autonomous                |
+|    4 | Nandha Engineering College                   | Private | Tier 3   | ✅ Confirmed       | Autonomous since 2013     |
+|    5 | Erode Sengunthar Engineering College         | Private | Tier 3   | ✅ Confirmed       | Autonomous; NAAC A; 1996  |
+
+* Namakkal
+| Rank | College Name                                     | Type    | Tier     | Autonomous Status | Notes                              |
+|------+--------------------------------------------------+---------+----------+-------------------+------------------------------------|
+|    1 | KS Rangasamy College of Technology                | Private | Tier 1.5 | ✅ Confirmed       | Autonomous                         |
+|    2 | Muthayammal Engineering College                  | Private | Tier 2.5 | ✅ Confirmed       | Autonomous                         |
+|    3 | Mahendra Engineering College                     | Private | Tier 3   | ❓ Not confirmed   | Could not verify autonomous status |
+|    4 | Paavai Engineering College                       | Private | Tier 3   | ✅ Confirmed       | Autonomous                         |
+|    5 | Vivekanandha College of Engineering for Women    | Private | Tier 3   | ✅ Confirmed       | Autonomous                         |
+|    6 | Sengunthar Engineering College                   | Private | Tier 3   | ✅ Confirmed       | Autonomous                         |
+|  NEW | Mahendra Institute of Technology                 | Private | Tier 3   | ✅ Confirmed       | *NEW ADDITION*; Autonomous         |
+|  NEW | Excel Engineering College                        | Private | Tier 3   | ✅ Confirmed       | *NEW ADDITION*; Autonomous         |
+|  NEW | Selvam College of Technology                     | Private | Tier 3   | ✅ Confirmed       | *NEW ADDITION*; Autonomous         |
+
+* Salem
+| Rank | College Name                           | Type       | Tier     | Autonomous Status | Notes                              |
+|------+----------------------------------------+------------+----------+-------------------+------------------------------------|
+|    1 | Government College of Engineering Salem | Government | Tier 1.5 | ✅ Confirmed       | Autonomous                         |
+|    2 | Sona College of Technology             | Private    | Tier 1.5 | ✅ Confirmed       | Autonomous                         |
+|    3 | Annapoorana Engineering College        | Private    | Tier 3   | ❓ Not confirmed   | Could not verify autonomous status |
+
+* Trichy
+| Rank | College Name                                     | Type       | Tier     | Autonomous Status | Notes                                     |
+|------+--------------------------------------------------+------------+----------+-------------------+-------------------------------------------|
+|    1 | University College of Engineering BIT Campus      | Government | Tier 1.5 | ✅ Confirmed       | Anna University constituent; Autonomous   |
+|    2 | Saranathan College of Engineering                | Private    | Tier 2   | ❓ Not confirmed   | Autonomous status unconfirmed             |
+|    3 | Kongunadu College of Engineering and Technology  | Private    | Tier 2.5 | ❓ Not confirmed   | Could not verify autonomous status        |
+|    4 | K Ramakrishnan College of Engineering            | Private    | Tier 3   | ❓ Not confirmed   | Could not verify autonomous status        |
+
+* Summary
+** New Autonomous Colleges Added
+- Sri Ramakrishna Institute of Technology (SRIT) — Coimbatore
+- Mahendra Institute of Technology — Namakkal
+- Excel Engineering College — Namakkal
+- Selvam College of Technology — Namakkal
+
+** Unconfirmed Autonomous Status
+- Coimbatore Institute of Engineering and Technology — Coimbatore
+- PA College of Engineering and Technology — Pollachi
+- Mahendra Engineering College — Namakkal
+- Annapoorana Engineering College — Salem
+- Saranathan College of Engineering — Trichy
+- Kongunadu College of Engineering and Technology — Trichy
+- K Ramakrishnan College of Engineering — Trichy
