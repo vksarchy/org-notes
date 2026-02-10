@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       04667264-9278-46df-bb6b-0047d946c084
-:END:
-#+title: Obsidian
-#+date: [2025-06-19 Thu 01:02]
-Testing the linking style in org mode
-[[Fleeting notes]]

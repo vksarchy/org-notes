@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "templaterFiles": [
+    "(TEMPLATE) Fleeting.md",
+    "(TEMPLATE) Unique.md"
+  ],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}

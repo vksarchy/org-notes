@@ -1,0 +1,5 @@
+#+TITLE: General Meetings
+#+FILETAGS: :meetings:
+
+* Meeting Notes
+

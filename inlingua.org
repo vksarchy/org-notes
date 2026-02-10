@@ -4,23 +4,24 @@
 
 * Today's plan 
 Fri Jan 23 11:44:34 2026
+| College / Department                   | Role           | Name                     |      Phone | Email                                                       | Status                                    | Time | Follow-up |   |
+| -------------------------------------- | -------------- | ------------------------ | ---------- | ----------------------------------------------------------- | ----------------------------------------- | ---- | --------- | - |
+| SNR Arts (Ramakrishna Arts)            | Placement Cell | Dr. Thamarai & Dr. Rekha | 8056750646 | [ctpcr@srcas.ac.in](mailto:ctpcr@srcas.ac.in)               | Sent a mail to Principal on 23rd Jan      |      |           |   |
+| Kumaraguru (KCT)                       | English HOD    | Dr. Sreejana             | 9944557031 | [sreejana.s.sci@kct.ac.in](mailto:sreejana.s.sci@kct.ac.in) | Sent a mail but waiting for spam removal  |      |           |   |
+| Ramakrishna Engineering College (SRCE) | HOD – English  | Dr. Vichitra Shivaji     | 9442078667 | [hod-english@srec.ac.in](mailto:hod-english@srec.ac.in)     | Sent a mail already, need to follow up    |      |           |   |
+| Ramakrishna Engineering College (SRCE) | Principal      | Dr. Soundarrajan         | 9942069911 |                                                             | Sent a mail asking for appointment        |      |           |   |
+| KSR                                    | Principal      | Dr. Gopalakrishnan       |            |                                                             | Send a mail to KSR principal and get appt |      |           |   |
+| Hindustan College of Engineering       | Principal      |                          |            |                                                             |                                           |      |           |   |
+| Krishna College (SKCT)                 | Placement      | Preethima                |            | [placementoffice@skcet.in](mailto:placementoffice@skcet.in) |                                           |      |           |   |
+| Ratnam College of Engineering          | Placement      | Arun Vignesh             |  978917382 |                                                             | Called him, yet to get update             |      |           |   |
+| RR                                     |                |                          |            |                                                             |                                           |      |           |   |
+| r                                      |                |                          |            |                                                             |                                           |      |           |   |
+| KPR (KPRIET)**                         | HOD            | Dr. Jayasudha            | 7502009842 |                                                             |                                           |      |           |   |
+| KGISL **                               | Principal      |                          |            |                                                             |                                           |      |           |   |
 
-|----------------------------------------+----------------+--------------------------+------------+--------------------------+-------------------------------------------+------+-----------+---|
-| College/Department                     | Role           | Name                     |      Phone | Email                    | Status                                    | Time | Follow-up |   |
-|                                        |                |                          |            |                          |                                           |      |           |   |
-|----------------------------------------+----------------+--------------------------+------------+--------------------------+-------------------------------------------+------+-----------+---|
-| SNR Arts (Ramakrishna Arts)            | Placement Cell | Dr. Thamarai & Dr. Rekha | 8056750646 | ctpcr@srcas.ac.in        | Sent a mail to Principal on 23rd Jan      |      |           |   |
-| Kumaraguru (KCT)                       | English HOD    | Dr. Sreejana             | 9944557031 | sreejana.s.sci@kct.ac.in | Sent a mail but waiting for spam removal  |      |           |   |
-| Ramakrishna Engineering College (SRCE) | HOD – English  | Dr. Vichitra Shivaji     | 9442078667 | hod-english@srec.ac.in   | Sent a mail already , need to follow up   |      |           |   |
-| Ramakrishna Engineering College (SRCE) | Principal      | Dr. Soundarrajan         | 9942069911 |                          | Sent a mail asking for appt               |      |           |   |
-| KSR                                    | Principal      | Dr. Gopalakrishnan       |            |                          | Send a mail to KSR principal and get appt |      |           |   |
-| Hindustan College of Engineering       | Principal      |                          |            |                          |                                           |      |           |   |
-| Krishna College (SKCT)                 | Placement      | Preethima                |            | placementoffice@skcet.in |                                           |      |           |   |
-| Ratnam College of Engineering          | Placement      | Arun Vignesh             |  978917382 |                          | Called him, yet to get update             |      |           |   |
-| RR                                     |                |                          |            |                          |                                           |      |           |   |
-| r                                      |                |                          |            |                          |                                           |      |           |   |
-|----------------------------------------+----------------+--------------------------+------------+--------------------------+-------------------------------------------+------+-----------+---|
-| KPR (KPRIET)**                         | HOD            | Dr. Jayasudha            | 7502009842 |                          |                                           |      |           |   |
-| KGISL **                               | Principal      |                          |            |                          |                                           |      |           |   |
+|--------------------+--------+------+-------+-------+--------+------+-----------+---|
+| College/Department | Role   | Name | Phone | Email | Status | Time | Follow-up |   |
+| -- + --            |        |      |       |       |        |      |           |   |
+| Krishna college    | rastat |      |       |       |        |      |           |   |
 
 * Tomorrow's plan

@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       0f1cdfd1-8ddd-4326-bbe3-f8b3d0ce986a
+:END:
+#+title: pentesting
+#+date: [2026-02-06 Fri 14:50]
+#+filetags: :literature:
+#+source:
+* Summary
+
+** vulnerability analysis
+** enumeration
+
+** exploitatin p
+** Post exploitation
+** reporting phase
+*** Executive summary
+  Background A description of the purpose of the test and definitions
+of any terms that may be unfamiliar to executives, such as vulnerability
+and countermeasure.
+Overall posture An overview of the effectiveness of the test, the
+issues found (such as exploiting the MS08-067 Microsoft vulnerability),
+and general issues that cause vulnerabilities, such as a lack of patch
+management.
+Risk profile An overall rank of the organization’s security posture
+compared to similar organizations with measures such as high, moder-
+ate, or low. You should also include an explanation of the ranking.
+General findings A general synopsis of the issues identified along
+with statistics and metrics on the effectiveness of any countermeasures
+deployed.
+
+Recommendation summary A high-level overview of the tasks required
+to remediate the issues discovered in the pentest.
+Strategic road map Give the client short- and long-term goals to
+improve their security posture. For example, you might tell them to
+apply certain patches now to address short-term concerns, but without
+a long-term plan for patch management, the client will be in the same
+position after new patches have been released.
+
+*** Techniccal report
+  Technical Report This section of the report offers technical details of the test. It should  include the following: Introduction An inventory of details such as scope, contacts, and so on.  Information gathering Details of the findings in the information- gathering phase. Of particular interest is the client’s Internet footprint.  Vulnerability assessment Details of the findings of the vulnerability- analysis phase of the test.  Exploitation/vulnerability verification Details of the findings from  the exploitation phase of the test. Post exploitation Details of the findings of the post-exploitation  phase of the test.  Risk/exposure A quantitative description of the risk discovered. This  section estimates the loss if the identified vulnerabilities were exploited  by an attacker.  Conclusion A final overview of the test
+
+** OSINT
+** Threat Modelling
+** Vulnerability Analysis
+
+* Chapter 1
+The Basics
+ VMware offers three options for virtual network
+connections: bridged, NAT, and host only. You should choose the bridged
+option, but here’s a bit of information about each:
+•
+The bridged network connects the virtual machine directly to the local
+network using the same connection as the host system. As far as the
+local network is concerned, our virtual machine is just another node
+on the network with its own IP address.
+•
+NAT, short for network address translation, sets up a private network on the
+host machine. The private network translates outgoing traffic from the
+virtual machine to the local network. On the local network, traffic from
+the virtual machine will appear to come from the host machine’s IP
+address.
+•
+The host-only network limits the virtual machine to a local private net-
+work on the host. The virtual machine will be able to communicate
+with other virtual machines in the host-only network as well as the host
+machine itself, but it will not be able to send or receive any traffic with
+the local network or the Internet.
+Ports are
+simply software-based network sockets that listen on the network to allow
+remote systems to interact with programs on a system.
+
+grep
+sed
+awk
+ifconfig
+route
+netcat
+netpat
+cron
+
+**
+
+* Key Ideas
+
+* References

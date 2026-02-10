@@ -1,0 +1,1 @@
+it mostly means principles for guiding decisions and actions, here in [[Ubermensch]] can choose and originate their own values and use them as north star, thus preventing [[Passive Nihilism]] and [[disorganised wills]]

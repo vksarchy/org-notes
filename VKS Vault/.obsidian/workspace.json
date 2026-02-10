@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "7f76564fc80399c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7adad37af1efe4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921dcf98644564d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202511172222 John D Rockefeller insane workout ethics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202511172222 John D Rockefeller insane workout ethics"
+            }
+          },
+          {
+            "id": "89f94b5ee5b119a8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Military/Daily Mil.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Mil"
+            }
+          },
+          {
+            "id": "c6e77362141fc0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Military/mil for hes in.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mil for hes in"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37e6d9115f07d144",
+    "type": "split",
+    "children": [
+      {
+        "id": "763445475c81543e",
+        "type": "tabs",
+        "dimension": 64.25287356321839,
+        "children": [
+          {
+            "id": "db6219c32efce241",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb18b332b2f7b2ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4b2656eb0fbf6a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "71e73eeca5355d4a",
+        "type": "tabs",
+        "dimension": 35.747126436781606,
+        "children": [
+          {
+            "id": "0ef4aed66791573a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "76e7e0e4b960ef9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9052ce2ef7b64b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "509753322637e78d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "2286239ec7eb6018",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202508232025 Night Owl Routine.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202508232025 Night Owl Routine"
+            }
+          },
+          {
+            "id": "69058b5a306dc686",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5307cd0559c0318",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202508232025 Night Owl Routine.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202508232025 Night Owl Routine"
+            }
+          },
+          {
+            "id": "59c205d34bbc5561",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "c6e77362141fc0c8",
+  "lastOpenFiles": [
+    "03 - Resources/Military/Daily Mil.md",
+    "Terminal List Dark Wolf.md",
+    "00 - Maps of Content/Military MoC.md",
+    "202512032241 DJ and Huberman.md",
+    "element vs station.md",
+    "New Drills 0.md",
+    "202512221949.md",
+    "202512072335 rough note.md",
+    "202512192132 Testing the new thinkpad layout.md",
+    "202511172222 John D Rockefeller insane workout ethics.md",
+    "202512032137 Balance and Discipline.md",
+    "ST- season 7.md",
+    "202511282232 GBRS Mindset roadmap by Perp.md",
+    "03 - Resources/Military/Comms Drill.md",
+    "202511252113 SAS how it works.md",
+    "Be a Pro DJ Shirpey.md",
+    "Generation Kill.md",
+    "03 - Resources/Military/element.md",
+    "202511252121 Be a fucking savage.md",
+    "Shu Ha Rai.md",
+    "202509082027 Japanese Wisdom by Statues of Wisdom YT.md",
+    "202511251842 Counter Surveillance Basics.md",
+    "202511250857 Science of building extreme discipline.md",
+    "Make hard work feel easy.md",
+    "How to kill any addiction.md",
+    "Kaizen Shin.md",
+    "Test Canvas.canvas",
+    "02 - Actions/Improve",
+    "07 - Archives/Random",
+    "RERA Power.pdf",
+    "Recording 20250823104959.webm",
+    "07 - Archives/Pics/Pasted image 20251012193215.png",
+    "Untitled 1.base",
+    "03 - Resources/Random",
+    "Untitled.base",
+    "This Could Be The Best Tall Game Experience in EU5   EU5 Poland Guide 1.mp4",
+    "This Could Be The Best Tall Game Experience in EU5   EU5 Poland Guide.mp4",
+    "New Text Document.txt",
+    "07 - Archives/Pics/Pasted image 20251012193105.png",
+    "07 - Archives/Pics/Pasted image 20250920094341.png",
+    "99 - Meta/attachments/Pasted image 20250705101139.png"
+  ]
+}

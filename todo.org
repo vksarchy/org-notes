@@ -1,28 +1,6 @@
-#+TITLE: list of todo
-#+SEQ_TODO: todo | done
-
-* TODO Buy lamp
-:PROPERTIES:
-:CATEGORY: house
-:END:
-* done TODO Learn Emacs stack
-:PROPERTIES:
-:CATEGORY: computer
-:END:
-* Call SID
-SCHEDULED: <2025-12-06 Sat>
-
-
-* Babel
-
-#+begin_src elisp
-(- 4 3)
-#+end_src
-
-#+RESULTS:
-: 1
 * Inbox
-** [ ] Capture notes
-- [ ]   
+** [ ] Call Manoj and Ramya
 
-[[file:~/.config/doom/config.el::"* %?"]]
+[[file:~/org/inlingua.org::*Tomorrow's plan][Tomorrow's plan]]
+** [ ] Call Ravi na nd confirm the EMI
+** [ ] vera yaaravadhu

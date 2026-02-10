@@ -1,0 +1,18 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "cosmos-general-tweaks",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Minecraft",
+    "Notebook Backgrounds",
+    "Runescape",
+    "styles"
+  ],
+  "interfaceFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "showRibbon": true
+}

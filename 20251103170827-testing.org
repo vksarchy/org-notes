@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       f4bbde79-ab31-46cb-bf70-d09e9dc9ad60
-:END:
-#+title: testing
-#+date: [2025-11-03 Mon 17:08]
- Where is it savin?

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e3d7067a-9363-42de-a3ac-b055de40620e
+:END:
+#+title: MKP Land
+#+date: [2026-02-07 Sat 13:59]
+#+filetags: :project:
+#+status: active
+#+business: Kappini
+* Overview
+
+Gotta get that 33 follow up done
+
+* Goals
+- [ ]
+
+* Progress
+
+* Tasks
+
+* Related Notes

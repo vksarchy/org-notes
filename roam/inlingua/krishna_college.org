@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       6e4dfe96-9cc7-4160-b589-d60b570dad8d
+:END:
+#+title: Krishna College
+#+date: [2026-02-07 Sat 21:52]
+#+filetags: :inlingua:meeting:
+#+business: inlingua
+* College Information
+:PROPERTIES:
+:COLLEGE: Krishna College
+:DEPARTMENT: Placement Officer
+:CONTACT_PERSON: Dr Jayasudhna
+:PHONE:
+:EMAIL:
+:END:
+
+
+
+* Meeting Purpose
+Initial Contact
+
+* Student Details
+** Expected Enrollment: 1000
+** Course Interest: German :Japanese
+** Level: Beginner
+** Batch Start Date: 2026-02-07
+
+* Requirements from College
+- [ ]
+
+* Our Offer
+** Pricing
+| Tier | Students | Price/Student | Total |
+|------+----------+---------------+-------|
+|      |          |               |       |
+
+** Tentative Schedule
+| Day | Time | Duration | Room |
+|-----+------+----------+------|
+|     |      |          |      |
+
+* Discussion Points
+
+* Action Items
+- [ ] Send course brochure
+- [ ] Prepare quotation
+- [ ] Schedule next meeting
+
+* Next Steps
+- [ ]

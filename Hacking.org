@@ -18,7 +18,7 @@ Techie
     Unauthorised Access: Physical Penetration Testing For IT Security Teams by Wil Allsopp.
     Social Engineering: The Art of Human Hacking by Christopher Hadnagy
     Practical Lock Picking: A Physical Penetration Tester's Training Guide by Deviant Ollam
-    The Art of Deception: Controlling the Human Element of Security by Kevin Mitnick
+    The Art of Deception: Controlling the Human Element of Security by Kevin Mitnic 
     Hacking: The Art of Exploitation by Jon Erickson and Hacking Exposed by Stuart McClure and others.
     Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning by Fyodor
     The Shellcoder's Handbook: Discovering and Exploiting Security Holes by several authors

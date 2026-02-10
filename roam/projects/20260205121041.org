@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b3f52d4c-4037-48ec-8c17-4684965c8e0b
+:END:
+#+title: Kappini Realty
+#+date: [2026-02-05 Thu 12:10]
+#+filetags: :project:
+* Goals
+** Start campaign for marketing and product launch
+** Get to speak wiht fellow realtors for networking
+** Setup a website , design it using claude
+
+[[id:68192d32-38ad-4b99-8a1d-0e3b3b4815ef][inlingua]]
+
+* Notes
++ Ask about Chennai details and when can we get it.
++
+* Tasks
+
+[ ] - TODO Create a website . Blog

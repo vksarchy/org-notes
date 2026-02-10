@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       dc0a68b6-00b0-4773-b88f-0405e6d97fb9
+:END:
+#+title: SREC
+#+date: [2026-02-09 Mon 13:22]
+#+filetags: :inlingua:meeting:
+#+business: inlingua
+* College Information
+:PROPERTIES:
+:COLLEGE: Ramakrishna College
+:DEPARTMENT: CSC:Principal
+:CONTACT_PERSON: Mathiyalagan
+:PHONE:
+:EMAIL:
+:END:
+
+* Meeting Purpose
+Initial Contact
+
+* Student Details
+** Expected Enrollment: 1000+
+** Course Interest: Japanese
+** Level: Beginner
+** Batch Start Date: next month
+
+* Requirements from College
+- [ ]
+
+* Our Offer
+** Pricing
+| Tier | Students | Price/Student | Total |
+|------+----------+---------------+-------|
+|      |          |               |       |
+
+** Tentative Schedule
+| Day | Time | Duration | Room |
+|-----+------+----------+------|
+|     |      |          |      |
+
+* Discussion Points
+
+* Action Items
+- [ ] Send course brochure
+- [ ] Prepare quotation
+- [ ] Schedule next meeting
+
+* Next Steps
+- [ ]

@@ -1,0 +1,2 @@
+fail to act - [[Nihilism]]
+

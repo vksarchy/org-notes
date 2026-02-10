@@ -84,3 +84,7 @@ The difference between confidence and competence.
 
 What does a “good life” actually mean to me — not society?
 
+
+| Name | Age | Occupation |
+|------+-----+------------|
+|      |     |            |

@@ -1,0 +1,8 @@
+| Topic                   | Main Point                                         | Supporting Details                                                                                      | Note                                                                                  |
+|-------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Unix Philosophy Mindset | Intentional, modular, and purpose-driven choices   | - Focus on “do one thing well” <br>- Combine simple tools for complex results                          | Resists “one size fits all”; enables tailored, maintainable systems                   |
+| Kaizen                  | Continuous, incremental improvement                | - Emphasizes small, ongoing optimizations <br>- Seeks efficiency and quality enhancement               | Popular in Japanese management, but applicable personally and organizationally        |
+| First Principles Thinking| Breaks down problems to foundational truths        | - Removes assumptions; starts from basics <br>- Builds up systems from core truths, not convention     | Promotes innovative and often unconventional solutions                                |
+| Commonality             | All advocate for deliberate, non-passive approach  | - Question defaults & challenge status quo <br>- Favor reasoning, custom solutions over blind adoption | Encourage autonomy, clarity, and improvement in tech, work, and life                  |
+
+[1](https://www.youtube.com/watch?v=h0s2sUu5zW0&t=19s)

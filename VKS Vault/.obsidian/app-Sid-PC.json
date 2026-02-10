@@ -1,0 +1,23 @@
+{
+  "showInlineTitle": false,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99 - Meta/attachments",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "99 - Meta/"
+  ],
+  "showFrontmatter": true,
+  "propertiesInDocument": "visible",
+  "autoPairBrackets": false,
+  "readableLineLength": true,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": true
+}

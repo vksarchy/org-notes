@@ -1,0 +1,33 @@
+* ⚔️ DAILY AAR // PERSONAL OPERATIONS LOG
+
+AO (Area of Operation)
+_Enter location / context (e.g., In-law AO, Home Base, Market Patrol)_
+
+STATUS
+- [ ] ACTIVE
+- [ ] STANDBY
+- [ ] RECOVERY
+
+1. GOAL
+Mission intent. _What needed to be achieved today?_
+
+2. HAPPENED
+Facts. No fluff.
+
+3. LOST
+What slipped through the cracks — time, energy, focus.
+
+4. WON
+Victories secured.
+
+5. FIX
+Course correction or next-action refinement.
+
+6. MORALE / CONDITION
+- [ ] HIGH
+- [ ] HOLDING
+- [ ] LOW
+Mindset brief: _Short phrase._
+
+7. FINAL NOTE
+Short reflection, battle wisdom, or reminder to self.

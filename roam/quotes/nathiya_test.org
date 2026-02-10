@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       e4d7aff1-3ea2-4749-8712-6b6b7c3faffc
+:END:
+#+title: Nathiya test
+#+date: [2026-02-07 Sat 18:32]
+#+filetags: :quote:design:
+#+client: nathiya
+#+property: cbe project
+#+status: draft
+#+business: Kappini
+* Client Requirements
+
+
+
+* Scope of Work
+- [ ]
+
+* Changes/Modifications
+
+** Items & Estimates
+
+| Item/Service | Description | Qty | Unit Cost | Total Cost | Notes |
+|--------------|-------------|-----|-----------|------------|-------|
+|              |             |     |           |            |       |
+#+TBLFM: $5=$3*$4
+
+** Summary
+| Category | Amount |
+|----------|--------|
+| Subtotal |        |
+| GST 18%  |        |
+| Total    |        |
+
+* Budget Discussion
+
+* Timeline
+
+* Next Steps
+- [ ]

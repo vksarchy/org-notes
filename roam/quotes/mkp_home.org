@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       64fae522-0766-4b5f-ae57-16c3b346c5ce
+:END:
+#+title: MKP_Home
+#+date: [2026-02-07 Sat 17:40]
+#+filetags: :quote:design:
+#+client: Mrs. Nathiya
+#+property: Manikarampalayam Home
+#+status: draft
+#+business: Kappini
+* Client Requirements
+Restore the vintage house
+
+
+* Scope of Work
+- [ ] Room overhaul
+- [ ] Hall overhaul
+- [ ] Entrance
+- [ ] Dining
+- [ ] Mosquito
+- [ ] Air Condition
+- [ ] Bathroom Fittings
+
+
+
+* Changes/Modifications
+
+* Budget Discussion
+
+* Timeline
+
+* Next Steps
+- [ ]

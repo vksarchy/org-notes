@@ -52,8 +52,7 @@
 
                                                                 =2025=
 * Phase 1
-SCHEDULED: <2025-05-21 Wed>
-DEADLINE: <2025-07-11 Fri>
+SCHEDULED:
 
 ** PROJ Offistable Interior
 *** Dining Area (Terrace)
@@ -379,6 +378,6 @@ SCHEDULED: <2025-05-28 Wed>
 
 * Phase 2
 ** Soft Launch
-SCHEDULED: <2025-07-15 Tue>
+
 * Phase 3
 ***** Whatever the mind can conceive and believe , the mind can achieve

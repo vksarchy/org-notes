@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       1d4f19bf-1af5-4521-ae57-8b520813b169
+:END:
+#+title: testyy
+#+date: [2026-02-07 Sat 19:36]
+#+filetags: :quote:design:
+#+business: Kappini
+* Project Overview
+:PROPERTIES:
+:CLIENT: Testy
+:LOCATION: mkp
+:PROPERTY_TYPE: Residential
+:PROJECT_START: 1st march
+:PROJECT_END: 1st April
+:BUDGET_RANGE: 3 L
+:STATUS: Draft
+:END:
+
+
+
+* Client Requirements
+** Primary Goals
+-
+
+** Must-Haves
+-
+
+* Scope of Work
+- [ ]
+
+* Items & Cost Breakdown
+** Labor Estimates
+| Category | Worker Type | Days | Rate/Day | Subtotal | Notes |
+|----------+-------------+------+----------+----------+-------|
+|          |             |      |          |          |       |
+|----------+-------------+------+----------+----------+-------|
+| LABOR TOTAL |         |      |          |          |       |
+#+TBLFM: $5=$3*$4::@>$5=vsum(@2..@-1)
+
+** Materials Estimate
+| Item | Specification | Qty | Unit | Rate | Subtotal | Vendor |
+|------+---------------+-----+------+------+----------+--------|
+|      |               |     |      |      |          |        |
+|------+---------------+-----+------+------+----------+--------|
+| MATERIALS TOTAL |     |     |      |      |          |        |
+#+TBLFM: $6=$3*$5::@>$6=vsum(@2..@-1)
+
+** Project Summary
+| Category | Amount | % of Total |
+|----------+--------+------------|
+| Labor    |        |            |
+| Materials |       |            |
+|----------+--------+------------|
+| Subtotal |        |            |
+| GST 18%  |        |            |
+|----------+--------+------------|
+| *TOTAL*  |        |            |
+#+TBLFM: @>$2=vsum(@2..@-2)::$3=100*$2/@>$2;%.1f
+
+* Budget Analysis
+** Client Budget: ₹
+** Our Quote: ₹
+** Variance:
+
+* Timeline & Milestones
+| Phase | Task | Start Date | End Date | Status |
+|-------+------+------------+----------+--------|
+|       |      |            |          |        |
+
+* Vendor Contacts
+| Role | Name | Phone | Notes |
+|------+------+-------+-------|
+|      |      |       |       |
+
+* Payment Schedule
+| Milestone | % | Amount | Date | Status |
+|-----------+---+--------+------+--------|
+| Advance   |   |        |      |        |
+
+* Meeting Notes
+** Initial Consultation
+
+* Next Steps
+- [ ]

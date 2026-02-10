@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1756785919130,
+      "items": [],
+      "title": "Psychology"
+    },
+    {
+      "type": "group",
+      "ctime": 1756785950840,
+      "items": [],
+      "title": "Business"
+    },
+    {
+      "type": "group",
+      "ctime": 1756785959554,
+      "items": [],
+      "title": "Finance"
+    },
+    {
+      "type": "group",
+      "ctime": 1756785963097,
+      "items": [],
+      "title": "Gaming"
+    },
+    {
+      "type": "group",
+      "ctime": 1756785966194,
+      "items": [],
+      "title": "Mindset"
+    },
+    {
+      "type": "group",
+      "ctime": 1756785973065,
+      "items": [],
+      "title": "Speaking"
+    },
+    {
+      "type": "group",
+      "ctime": 1756785986178,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1756786002594,
+          "path": "Test Canvas.canvas"
+        }
+      ],
+      "title": "Rough Note"
+    },
+    {
+      "type": "group",
+      "ctime": 1756897032272,
+      "items": [],
+      "title": "Chemicals"
+    }
+  ]
+}

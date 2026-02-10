@@ -1,0 +1,15 @@
+Treachery 
+Devotion 
+Dishonor 
+Suspicion 
+Deception 
+Greed 
+Power  
+Deceit 
+Fear 
+Desire
+Loyalty 
+Victory 
+Secrecy 
+Passion 
+Destiny 
