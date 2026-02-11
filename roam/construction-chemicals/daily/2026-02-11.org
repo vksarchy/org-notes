@@ -1,0 +1,178 @@
+:PROPERTIES:
+:ID:       e5b2a4cb-b6a4-4da0-a1fd-42693dfec43e
+:END:
+#+title: Construction Learning - 2026-02-11
+#+filetags: :daily:learning:construction:
+#+created: [2026-02-11 Wed 08:50]
+
+* Concrete Roofing
+
+** Ensure all the electrical points are in place
+** Check all the pipelines
+** If manual mixing, then chck the mixing ratio
+
+M20 Grade is 1 part of cement , 1.5 part of msand and 3 part of aggregates
+
+* RMC Concrete Report
+- Check using slump flow test
+- Roof concrete height should be checked periodically
+- use broomstick to avoid marks
+- Finally Curing
+
+
+
+======
+
+
+# Concrete Roof Construction - Complete Process Guide
+
+## Pre-Concreting Preparation
+
+### 1. Formwork & Structural Verification
+- **Formwork inspection**: Ensure shuttering is level, properly supported, and can withstand concrete load (minimum 3 days curing load)
+- **Reinforcement check**: Verify rebar placement, spacing, cover blocks (25mm minimum for roofs), and proper tying
+- **Surface preparation**: Clean formwork of debris, oil shuttering boards to prevent adhesion
+
+### 2. Embedded Services Installation
+**Electrical conduits & boxes:**
+- Verify all conduit routes are installed as per electrical drawing
+- Check junction boxes, switch points, fan boxes are securely tied to reinforcement
+- Ensure conduit ends are capped to prevent concrete ingress
+- Confirm adequate slack for future wiring
+
+**Plumbing & drainage:**
+- Install all required pipe sleeves and penetrations
+- Check rainwater downpipe outlets positioning
+- Verify terrace drainage slope provisions (minimum 1:100 gradient)
+- Ensure all pipes are adequately supported and won't shift during concreting
+
+### 3. Final Pre-Pour Inspection
+- Measure and mark concrete level lines on columns (typically 125-150mm slab thickness)
+- Check moisture in formwork (sprinkle water on dry surfaces)
+- Arrange adequate labor, tools, and safety equipment
+- Plan concreting sequence to avoid cold joints
+
+## Concrete Mixing & Quality Control
+
+### For Site-Mixed Concrete (Manual/Machine)
+
+**M20 Grade Mix Ratio:**
+- **Cement**: 1 part (typically 50kg bag)
+- **M-Sand**: 1.5 parts (fine aggregate)
+- **20mm Aggregates**: 3 parts (coarse aggregate)
+- **Water**: 0.45-0.5 water-cement ratio (approximately 22-25 liters per 50kg cement)
+
+**Mixing procedure:**
+1. Measure materials by weight or volume using gauge boxes
+2. Mix dry materials first (cement + sand + aggregates) for 1-2 minutes
+3. Add water gradually while mixing
+4. Mix for minimum 2 minutes until uniform color and consistency
+5. Use within 30 minutes of mixing
+
+**Quality checks:**
+- Test concrete workability using slump test (target: 75-100mm for roof slabs)
+- Check consistency batch-to-batch
+- Avoid over-watering which reduces strength
+
+### For Ready-Mix Concrete (RMC)
+
+**Upon delivery verification:**
+- Check delivery challan: grade (M20/M25), quantity, transit time (max 90 minutes)
+- Note truck arrival time and mixing plant time
+- Verify slump before starting pour
+
+**Slump flow test:**
+- Standard slump cone test: 75-100mm for M20 roof slabs
+- Higher slump (100-125mm) acceptable if plasticizers used
+- Reject if slump exceeds specifications or shows segregation
+
+**Transit mixer discharge:**
+- Maintain continuous pour, avoid delays
+- Agitate drum between pours to prevent setting
+- Never add water on-site without engineer approval
+
+## Concrete Placement & Compaction
+
+### Pouring Technique
+1. **Start from corners/edges**: Work systematically towards exits
+2. **Uniform layer thickness**: Pour 150-200mm depth layers, avoid dumping in heaps
+3. **Avoid segregation**: Drop height maximum 1.5 meters
+4. **Continuous pour**: Complete sections without breaks to prevent cold joints
+
+### Compaction
+- **Needle vibrator**: Insert vertically at 450mm spacing, 5-15 seconds per point
+- Don't over-vibrate (causes segregation) or under-vibrate (creates voids)
+- Vibrate into previous layer by 100mm to ensure bonding
+- Avoid touching reinforcement directly with vibrator
+
+### Level & Finish
+
+**Screeding:**
+- Use straight edge or screed board along level marks
+- Fill low spots immediately
+- Strike off excess concrete in smooth, sawing motion
+
+**Surface finishing:**
+- **Initial float**: Use wooden/magnesium float after bleeding water evaporates
+- **Avoid broomstick/pipe rolling**: Use proper floats or trowels instead (broomstick creates uneven surface and weak spots)
+- **Final finish**:
+  - **For waterproofing base**: Use wooden float for slightly rough texture (better tile/waterproofing adhesion)
+  - **For exposed finish**: Steel trowel for smooth finish
+- **Terrace slope**: Maintain minimum 1:100 slope toward drainage outlets
+
+**Thickness verification:**
+- Check slab thickness periodically using measuring tape from formwork
+- Standard roof slab: 125-150mm depending on span
+- Mark and correct any deviations immediately
+
+## Curing Process
+
+### Immediate Protection (0-24 hours)
+- Cover with wet gunny bags/plastic sheets within 2-3 hours of finishing
+- Prevent direct sunlight and wind exposure
+- No foot traffic for minimum 24 hours
+
+### Active Curing (7-28 days)
+
+**Water curing method (most effective):**
+- **Days 1-3**: Spray water every 2-3 hours during daytime
+- **Days 4-7**: Minimum 3-4 times daily
+- **Days 8-14**: Twice daily (critical for strength development)
+- **Days 15-28**: Once daily (for maximum strength)
+
+**Alternative methods:**
+- **Ponding**: Create 50mm water layer using sand bunds around perimeter (best for terraces)
+- **Wet covering**: Keep gunny bags/hessian continuously saturated
+- **Curing compounds**: Spray membrane-forming compounds (less effective than water)
+
+**Important notes:**
+- Never allow concrete to dry out during first 7 days
+- 70% of design strength achieved in 7 days with proper curing
+- Full 100% strength achieved in 28 days
+- Inadequate curing = reduced strength, increased cracking, poor durability
+
+### Formwork Removal
+- **Slab soffit**: Minimum 14-21 days (varies by span and load)
+- **Props/supports**: Leave at least 28 days for structural slabs
+- Remove progressively, watching for deflection or cracking
+
+## Quality Assurance
+
+**Critical checkpoints:**
+1. ✓ All embedments installed before pour
+2. ✓ Correct concrete grade and mix ratio
+3. ✓ Proper compaction without segregation
+4. ✓ Uniform thickness throughout
+5. ✓ Appropriate surface finish for intended use
+6. ✓ Continuous moisture curing minimum 7 days
+
+**Common mistakes to avoid:**
+- Adding excess water for workability (reduces strength by 25-40%)
+- Inadequate vibration (creates honeycombing)
+- Starting cure too late (surface cracks)
+- Removing formwork too early (structural failure risk)
+- Interrupting curing cycle (weak concrete)
+
+---
+
+**Pro tip**: Take cube samples (minimum 3 nos.) during concreting for 7-day and 28-day compression testing to verify design strength achievement.

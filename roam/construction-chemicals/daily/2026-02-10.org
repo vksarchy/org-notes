@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       bac4380f-6fb8-41fc-aff6-58786023e155
+:END:
+#+title: Construction Learning - 2026-02-10
+#+filetags: :daily:learning:construction:
+#+created: [2026-02-10 Tue 22:49]
+
+Today was a heavy learning process about a lot of things, linking hte google sheets link here:
+
+Sheets Link - https://docs.google.com/spreadsheets/d/1zT5DRW4oywEyuPukOIkdZTTzRMXYHpvO5FlX8w87XO4/edit?gid=0#gid=0
+Coimbatore pricing list - https://docs.google.com/spreadsheets/d/1xMKjC8UnMVIRQKNNiJUjqp0Y0Z7zLh9DFs6RuFngap4/edit?gid=2141538347#gid=2141538347
+
+Local folder - by Anthropic

@@ -11,7 +11,7 @@
 |  3 | SREC     | HOD – English | Dr. Vichitra Shivaji | 9442078667 | hod-english@srec.ac.in   |
 |  4 | SREC     | Principal     | Dr. Soundarrajan     | 9942069911 |                          |
 |  5 | KSR      | Principal     | Dr. Gopalakrishnan   |            |                          |
-|  6 | HiCET    | Principal     |                      |            |                          |
+|  6 | HRCET    | Principal     |                      |            |                          |
 |  7 | SKCET    | Placement     | Preethima            |            | placementoffice@skcet.in |
 |  8 | Rathinam | Placement     | Arun Vignesh         | 9789173822 |                          |
 |  9 | KPRIET   | HOD           | Dr. Jayasudha        | 7502009842 |                          |
