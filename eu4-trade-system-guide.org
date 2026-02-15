@@ -1,0 +1,547 @@
+#+title: Eu4 Trade System Guide
+
+* Trade System Overview
+
+** What Is Trade in EU4?
+Trade is the primary source of income for most nations. Ducats flow through a network of trade nodes, pushed by merchants and trade power. Your goal: collect as much trade value as possible in your home node.
+
+** Core Concepts
+*** Trade Node
+- Geographic point where trade value accumulates
+- All trade happens at nodes — control nodes = control income
+- Affected by province trade power and merchants
+
+*** Trade Value
+- Total ducats available in a node (local production + incoming steered value)
+- More value = more money to collect or steer
+- Driven by goods produced and production development
+
+*** Trade Power
+- Your nation's influence at a node (your share of the pie)
+- *Trade Power Share* = your TP ÷ total TP at a node (%)
+- Higher share = more ducats collected or steered
+- Sources: provinces, light ships, merchants, buildings, trade companies
+
+*** Collecting vs. Steering
+- *Collecting* :: Taking ducats out of a node into your treasury
+- *Steering (Transferring)* :: Pushing trade value from one node downstream toward another
+- Golden rule: *STEER everywhere, COLLECT only at home*
+
+*** Home Node
+- Your capital's trade node — you auto-collect here for free
+- Best collection efficiency — always maximize your home node
+- Can be changed by moving your trade port (costs 200 diplo points)
+
+*** Merchants
+- Agents assigned to nodes to collect or steer trade
+- Without merchants, you have no active control of trade flow
+- Sources: national ideas, trade ideas, colonies, trade companies
+
+*** Trade Range
+- How far your merchants can reach from owned provinces
+- Increases with diplo tech, trade ideas, and colonial range
+
+*** Trade Goods
+- Each province produces a specific trade good with a market price
+- High-value goods (cloth, spices, gold) generate more trade value
+- Boosted by manufactories, trade companies, and production development
+
+** Trade Node Mechanics
+
+*** Node Types
+- *Upstream Nodes* :: Nodes that feed value INTO a node (e.g., Ivory Coast feeds Sevilla)
+- *Downstream Nodes* :: Nodes that receive value FROM a node (you steer downstream toward home)
+- *End Nodes* :: Nodes with no outgoing connections — value can ONLY be collected here, never leaves
+  - English Channel (richest)
+  - Genoa (second richest)
+  - Venice (third)
+- *Inland Nodes* :: Continental nodes with no naval access — can't use light ships here
+
+*** Node Value Formula
+- Local value + incoming steered value − collected/steered out
+- Optimize by maximizing inflow and minimizing others' collection
+
+*** Multiple Outflows
+- Most nodes can steer to 2–3 different downstream nodes
+- Your merchants choose WHERE to push the value
+
+*** Caravan Power
+- Inland trade power based on total national development
+- Large empires get automatic trade power bonus at inland nodes
+- Benefits nations like Ming, Ottomans, Mughals
+
+*** Critical Rule
+- Trade flows *ONE DIRECTION ONLY* — you cannot push trade upstream
+- Plan your expansion along trade flow direction
+
+** Trade Power Sources
+
+*** Provincial Trade Power
+- Own provinces in a trade node — base source of TP
+- Conquest is the most reliable way to gain trade power
+
+*** Light Ships
+- Each provides ~2–3 trade power (scales with naval tech)
+- Most flexible and cost-effective TP source
+- Assign fleets to "Protect Trade" in key nodes
+- 20–50 ships is the sweet spot for most nations
+
+*** Merchants
+- +2 base trade power at assigned node
+- Small but enables collection/steering actions
+
+*** Trade Buildings
+- *Marketplace* :: +50% provincial trade power (100 ducats)
+- *Trade Depot* :: +100% provincial TP, replaces Marketplace (200 ducats, Tech 17)
+- *Stock Exchange* :: +125% provincial TP, replaces Trade Depot (400 ducats, Tech 22)
+- Build in highest-base-TP provinces first
+
+*** Centers of Trade
+- Provinces with CoT levels: Lv1 (+5 TP), Lv2 (+25 TP), Lv3 (+50 TP)
+- Upgrading CoTs is one of the best TP investments per ducat
+- Prioritize home node CoTs first
+
+*** Trade Companies
+- Assign provinces outside your home subcontinent to a TC
+- +100% provincial trade power
+- Free merchant at 51%+ TP in the trade company's node
+- Crucial for colonial and trade empires
+
+*** Estuaries & Straits
+- Natural geographic modifiers on certain provinces (+10–25 TP)
+- Cannot be created — must conquer provinces that have them
+
+*** Transferring Merchant Bonus
+- Each merchant in a steering chain adds +5% value to steered trade
+- Chain of 3 merchants = +15% value bonus — compounds significantly
+
+*** Ideas & Policies
+- Trade Ideas, Plutocratic, Diplomatic give global TP bonuses
+- Stack with buildings for enormous effect
+
+*** Privateer Fleets
+- Send fleets to privateer in rivals' trade nodes
+- Steals their TP and gives you Power Projection
+- 10–20 ships enough to be effective
+
+*** Embargo Rivals
+- Diplomatic action against rivals
+- Steals trade power at shared nodes — completely free, always do it
+
+** Collecting vs. Steering — Detailed Rules
+
+*** Collect at Home Node
+- Auto-collect with NO merchant needed
+- Full trade efficiency, no penalty
+- +10% bonus with merchant assigned (optional but good)
+
+*** Collect at Non-Home Node
+- Assign merchant to collect at a foreign node
+- *-50% trade power penalty* for collecting outside home
+- Only do this if you dominate a distant node and can't steer to home
+
+*** Steer (Transfer)
+- Assign merchant to push trade value downstream
+- No penalty — adds steering bonus to value
+- *This is your default action for all merchants outside home*
+
+*** Steering Bonus
+- Each merchant in a chain adds +5% value to steered trade
+- Compounds: 3 merchants in chain = +15% value bonus
+- Build the longest chain you can toward your home node
+
+*** Multiple Collection Penalty
+- If you collect in 2+ nodes (including home), penalty applies to non-home
+- -50% TP in all non-home collection nodes
+- Avoid unless you have massive isolated trade power
+
+** Major Trade Routes & End Nodes
+
+*** English Channel (END NODE)
+- *Key Nations:* England, Netherlands, France
+- Richest end node — all of Europe feeds here
+- Strategy: dominate with provinces + light ships; collect here
+
+*** Genoa (END NODE)
+- *Key Nations:* Genoa, Spain, France, Aragon
+- Second richest — Mediterranean + African trade
+- Strategy: control Sevilla upstream, collect at Genoa
+
+*** Venice (END NODE)
+- *Key Nations:* Venice, Austria, Hungary
+- Third end node — Eastern Mediterranean trade
+- Strategy: good for Central European / Italian nations
+
+*** Sevilla → Genoa/English Channel
+- *Key Nations:* Castile, Portugal
+- Gateway for New World colonial trade
+- Strategy: steer colonial wealth to Genoa or English Channel
+
+*** Malacca → India → Gulf of Aden
+- *Key Nations:* SE Asian & Indian nations
+- Spice trade route — enormous value
+- Strategy: control straits, build trade companies
+
+*** Beijing → Nippon/Malacca
+- *Key Nations:* Ming, Japan, Manchu
+- East Asian trade — huge production value
+- Strategy: collect at Beijing/Nippon or steer south
+
+*** Ivory Coast → Sevilla
+- *Key Nations:* Portugal, Castile, Mali
+- West African trade gateway
+- Strategy: colonial nations auto-steer here toward Europe
+
+*** Caribbean → Sevilla
+- *Key Nations:* Colonial powers
+- New World wealth pipeline
+- Strategy: colonial nations steer toward Sevilla automatically
+
+*** Lübeck
+- *Key Nations:* Denmark, Hanseatic nations
+- Baltic trade hub — excellent for Scandinavia/N. Germany
+- Strategy: collect here as Denmark or Brandenburg
+
+** Merchant Placement Strategy
+
+*** Rule 1: Maximize Steering Chains
+- Place merchants in a continuous chain toward home node
+- Example: Bengal → Gujarat → Gulf of Aden → Alexandria → Genoa
+- *Highest priority* — this is the core strategy
+
+*** Rule 2: Steer High-Value Nodes
+- Put merchants at the richest upstream nodes you can reach
+- Malacca has huge spice value — always steer if you can reach it
+
+*** Rule 3: Compete at Contested Nodes
+- Place merchants where rivals have high TP to fight for share
+- Only if you have meaningful TP there
+
+*** Rule 4: Don't Waste on Tiny Nodes
+- Skip nodes where your TP is <10% — minimal return
+- Better to focus merchants where you can make a difference
+
+*** Rule 5: Collect at Isolated Rich Nodes (Last Resort)
+- Only collect outside home if you dominate and can't steer to home
+- Example: Ming collecting at Beijing when value can't reach a better node
+
+*** Rule 6: Colonial Auto-Steer
+- Colonial nations automatically steer trade toward overlord
+- Colonize for passive trade income — no merchant needed
+
+** Trade Efficiency & Income Modifiers
+
+*** Trade Efficiency
+- Source: ideas, advisors, tech, traditions
+- Multiplier on collected trade income
+- +30% TE = 30% more ducats collected
+- Stacks additively
+
+*** Trade Steering
+- Source: ideas, advisors, policies
+- Increases value added when steering trade
+- More steering = more value arrives at home node
+
+*** Goods Produced Modifier
+- Source: buildings (workshop, manufactory), ideas
+- Increases trade value generated by each province
+- *Multiplicative with base goods — extremely powerful*
+- Single most impactful trade modifier in the game
+
+*** Production Efficiency
+- Source: ideas, tech, buildings
+- Increases production income (NOT trade value)
+- Common confusion: this boosts production income, not trade
+
+*** Trade Good Price
+- Source: global events, supply/demand
+- Higher price = more value per unit produced
+- Can't directly control — low supply goods are worth more
+
+*** Mercantilism
+- Source: events, decisions, DLC mechanics
+- Increases provincial trade power, hurts foreign traders
+- Higher mercantilism = less TP for foreign merchants in your nodes
+
+* Trade Buildings & Infrastructure
+
+** Building Priority Order
+1. *Manufactory* (500 ducats) — +1 goods produced — BEST BUILDING IN THE GAME
+2. *Workshop* (100 ducats) — +50% production income — fast ~10 year payback
+3. *Marketplace* (100 ducats) — +50% provincial trade power — cheap and effective
+4. *Center of Trade Upgrade* (200–1000 ducats) — +25/+50 TP per level — massive per ducat
+5. *Trade Depot* (200 ducats, Tech 17) — +100% provincial TP — upgrade of Marketplace
+6. *Counting House* (400 ducats) — +100% production income — late game upgrade
+7. *Stock Exchange* (400 ducats, Tech 22) — +125% provincial TP — end-game
+
+** Trade Companies (Dharma DLC)
+
+*** What Are They?
+- Assign provinces outside your home subcontinent to a trade company
+- +100% provincial trade power
+- No manpower from these provinces (trade-off)
+
+*** Extra Merchant
+- At 51%+ TP in a TC's trade node, you get a free merchant
+- Merchants are scarce — this is huge
+- Prioritize getting 51% in key TC nodes
+
+*** Trade Company Investments
+- Special buildings only for TC provinces
+- Governors' Estate (+1 goods produced — build first)
+- Brokers' Office, Officers' Mess, etc.
+- Cost 400–1000 ducats each
+
+*** Best TC Regions
+- India, SE Asia, China coast, East Africa
+- Enormous trade value in these nodes
+- Colonize or conquer coastal provinces
+
+*** TC vs. Full Core
+- TC: better for trade (TP bonus) but no manpower
+- Full core: gives both TP and manpower
+- TC for trade nodes, full core in your heartland
+
+** Light Ship Fleet Management
+
+*** How Many to Build
+- 20–50 light ships is the sweet spot for most nations
+- Start with 20 early game, scale up as economy grows
+- Each gives ~2–3 TP (scales with naval tech)
+
+*** Where to Assign
+- Home node FIRST — always your top priority
+- Then upstream nodes where you have merchants and provinces
+- Never assign ships to a node without a merchant or provinces
+
+*** Trade Fleet Admiral
+- Assign admiral to trade fleet for small TP bonus
+- Maneuver pips increase trade power
+- Low priority — nice to have, use old admirals
+
+*** Privateer Fleets
+- Send to rival's trade nodes to steal TP
+- 10–20 ships enough to annoy rivals
+- Gives Power Projection if privateering rival's nodes
+
+* Trade Ideas — Full Breakdown
+
+| # | Name                       | Effect                  | Rating |
+|---+----------------------------+-------------------------+--------|
+| 1 | Shrewed Commerce Practice  | +25% Global Trade Power | ★★★★★  |
+| 2 | Free Trade                 | +1 Merchant             | ★★★★★  |
+| 3 | Merchant Adventures        | +25% Trade Range        | ★★★☆☆  |
+| 4 | National Trade Policy      | +10% Trade Efficiency   | ★★★★☆  |
+| 5 | Overseas Merchants         | +1 Merchant             | ★★★★★  |
+| 6 | Trade Manipulation         | +25% Trade Steering     | ★★★★☆  |
+| 7 | Fast Negotiations          | +10% Trade Efficiency   | ★★★★☆  |
+| F | Finisher Bonus             | +25% Global Trade Power | ★★★★★  |
+| A | Ambition                   | +20% Trade Efficiency   | ★★★★★  |
+
+- Total: +50% Global TP, +40% Trade Efficiency, +2 Merchants, +25% Trade Range, +25% Steering
+- *Best trade-focused idea group in the game — take as 2nd or 3rd idea group*
+
+* Nation-Specific Trade Strategies
+
+** Portugal 🇵🇹
+- *Home Node:* Sevilla
+- *Strategy:* Colonize → dominate Ivory Coast → steer to Sevilla → Genoa
+- Build trade companies in India/SE Asia for extra merchants
+- Explore W. Africa & Cape early; build light ships in Sevilla; chain merchants
+
+** Castile 🇪🇸
+- *Home Node:* Sevilla
+- *Strategy:* Colonial trade from Caribbean/Mexico flows to Sevilla
+- Steer from Ivory Coast, compete with Portugal
+- Colonize Caribbean aggressively; build Sevilla TP with light ships
+
+** France 🇫🇷
+- *Home Node:* Champagne (move to English Channel)
+- *Strategy:* Conquer provinces in English Channel → move trade port there
+- Steer from Genoa upstream; build massive light ship fleet; dominate EC
+
+** England 🇬🇧
+- *Home Node:* English Channel
+- *Strategy:* Already at the best end node — protect trade with navy
+- Build 30–50 light ships ASAP; colonize N. America; steer from Chesapeake
+
+** Venice 🇮🇹
+- *Home Node:* Venice (end node)
+- *Strategy:* Collect at Venice. Control Alexandria and Ragusa upstream
+- Take Mamluk lands for Alexandria TP; build trade companies in India
+
+** Austria 🇦🇹
+- *Home Node:* Wien
+- *Strategy:* Inland node — rely on caravan power and province control
+- Focus on province TP; build marketplaces; Wien is decent but not amazing
+
+** Muscovy 🇷🇺
+- *Home Node:* Novgorod
+- *Strategy:* Conquer Novgorod, collect there. Push east into Kazan for furs
+- Fur provinces are very valuable; steer from Central Asia
+
+** Denmark 🇩🇰
+- *Home Node:* Lübeck
+- *Strategy:* Dominate Baltic trade. Steer from North Sea and White Sea
+- Control sound toll provinces; conquer Hanseatic cities
+
+** Brandenburg 🇩🇪
+- *Home Node:* Lübeck (move trade port here)
+- *Strategy:* Conquer Lübeck province; build TP in Saxony and Lübeck
+- Military focus first, trade comes naturally with conquest
+
+** Poland 🇵🇱
+- *Home Node:* Krakow
+- *Strategy:* Inland node — weak for trade. Can steer from Kiev and Black Sea
+- Don't prioritize trade — military and PU with Lithuania more important
+
+* Mastery Roadmap
+
+** Phase 1: Foundation (First 50 Years, Tech 1–7)
+
+*** Focus Areas
+- Identify your home node on the trade map (press 'E')
+- Build 10–20 light ships, assign to protect trade in home node
+- Assign merchants: one steers upstream, one optionally collects at home
+- Build marketplaces in highest-TP provinces (Centers of Trade first)
+- Read trade good prices — fur, cloth, spices are high-value
+- Don't collect outside home — keep merchants on steer
+
+*** Goal
+Understand where your money comes from. Have a functioning trade fleet and at least 2 merchants assigned.
+
+** Phase 2: Intermediate (Years 50–150, Tech 7–16)
+
+*** Focus Areas
+- Build merchant chains: continuous chain from upstream nodes to home
+- Upgrade Centers of Trade (Lv2 → Lv3) — massive TP per ducat
+- Start building manufactories in EVERY province (+1 goods produced each)
+- Expand along trade routes — conquer provinces upstream of home node
+- Set up trade companies for +100% TP and extra merchants
+- Always embargo rivals — free trade power
+- Take Trade Ideas as 2nd or 3rd idea group
+
+*** Goal
+Have 3–4 merchants in a chain. Trade income should be your #1 income source. Start building manufactories.
+
+** Phase 3: Mastery (Years 150+, Tech 16+)
+
+*** Focus Areas
+- Dominate an end node (English Channel, Genoa, or Venice)
+- Manufactory in every single province
+- Optimize steering — ensure every merchant maximizes value flow
+- Build trade company empire in India, SE Asia, China coast
+- Stack modifiers: Trade Ideas + policies + advisors + buildings
+- Control 3–4 major trade routes feeding your end node
+- Move trade port if your home node is weak
+
+*** Goal
+Trade income > 50% of total income. Manufactory in every province. Dominate at least one end node completely.
+
+* Self-Assessment Quiz
+
+** Trade Fundamentals
+1. What is a trade node, and what determines its total value?
+2. What is trade power, and what is your "share" of a node?
+3. What is the difference between collecting and steering trade?
+4. Why should you almost always steer rather than collect outside home?
+5. What is an end node? Name the three main ones.
+6. What is the steering bonus, and how does it compound?
+7. What is your home node and why does it matter?
+
+** Trade Power & Ships
+8. Name 5 sources of trade power at a node.
+9. How do light ships contribute to trade, and how many should you build?
+10. What is a Center of Trade and why should you upgrade them?
+11. What is the benefit of trade companies and when do you get a free merchant?
+12. What does embargoing a rival do?
+
+** Strategy & Optimization
+13. What is the single most impactful trade building and why?
+14. In what order should you build trade buildings?
+15. When would you ever move your trade port?
+16. How do you set up a proper merchant steering chain?
+17. What is the Goods Produced modifier and why is it so powerful?
+18. How does trade flow direction affect your expansion strategy?
+19. What makes English Channel the best trade node in the game?
+20. What are the key ideas and policies that boost trade income?
+
+** Answer Key
+
+*** Fundamentals
+1. A geographic point where trade accumulates. Value = local goods produced + incoming steered value.
+2. Your influence at a node. Share = your TP ÷ total TP at node. Higher share = more ducats.
+3. Collecting takes ducats out of a node. Steering pushes value downstream toward your home node.
+4. Collecting outside home incurs -50% TP penalty. Steering adds a bonus to value and builds chains.
+5. A node with no outgoing connections. English Channel, Genoa, Venice.
+6. Each merchant in a steering chain adds +5% to steered value. 3 merchants = +15% bonus.
+7. Your capital's trade node. You auto-collect here with no penalty and full efficiency.
+
+*** Trade Power & Ships
+8. Provinces, light ships, merchants, buildings (marketplace etc.), Centers of Trade, trade companies.
+9. Each gives ~2–3 TP. Build 20–50 and assign to Protect Trade in your home/key nodes.
+10. Special provinces with +5/+25/+50 TP at levels 1/2/3. Upgrading is one of the best TP investments.
+11. +100% provincial TP. Free merchant at 51%+ TP in the trade company's node.
+12. Steals trade power from them at shared nodes. Free to do, always worth it.
+
+*** Strategy & Optimization
+13. Manufactory. +1 goods produced per province. Massively increases trade value across entire empire.
+14. Manufactory > Workshop > Marketplace > CoT upgrade. Manufactories have highest long-term ROI.
+15. When you can dominate a richer node (especially an end node) than your current home node.
+16. Place merchants in connected nodes, each steering downstream toward your home node in sequence.
+17. Multiplier on base goods output. Directly increases trade value generated by every province.
+18. Expand UPSTREAM of your home node. Conquer provinces in nodes that feed into your collection point.
+19. End node (trade can't leave), receives trade from all of Europe, Americas, and Africa. Highest total value.
+20. Trade Ideas (+50% global TP, +40% TE, +2 merchants), Plutocratic, Economic-Trade policy, advisor bonuses.
+
+* Progress Tracking
+
+** Campaign Trade Log Template
+
+*** [Nation Name] Campaign: [Start Date] - [End Date]
+
+**** Trade Goals
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
+
+**** Trade Skills Practiced
+- [ ] Merchant chain setup
+- [ ] Light ship fleet management
+- [ ] Building priority execution
+- [ ] Trade company usage
+- [ ] End node domination
+
+**** Trade Income Achieved
+- Starting trade income:
+- Ending trade income:
+- % of total income from trade:
+
+**** Key Learnings
+-
+
+**** Mistakes Made
+-
+
+**** What to Practice Next
+-
+
+** Core Skills Checklist
+- [ ] Identify home node and understand trade map layout
+- [ ] Assign merchants effectively (steer vs collect)
+- [ ] Build and assign light ship trade fleet
+- [ ] Build marketplaces in high-TP provinces
+- [ ] Upgrade Centers of Trade (Lv2 and Lv3)
+- [ ] Set up a 3+ merchant steering chain
+- [ ] Build manufactories in every province
+- [ ] Use trade companies for extra merchants
+- [ ] Embargo rivals for free trade power
+- [ ] Understand end nodes and plan around them
+- [ ] Take Trade Ideas and stack modifiers
+- [ ] Move trade port to a better node when needed
+- [ ] Dominate an end node with >50% trade power
+- [ ] Optimize trade income to be #1 income source
+- [ ] Plan expansion strategy along trade routes
+- [ ] Use privateers for Power Projection
+- [ ] Understand caravan power for inland nations
+- [ ] Master late-game trade modifier stacking

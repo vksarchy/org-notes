@@ -1,2 +1,0 @@
-
-[[Blue Eye Samurai]]

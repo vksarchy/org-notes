@@ -1,252 +1,204 @@
-:PROPERTIES:
-:ID:       47d8adcd-1209-468e-b54f-d81639ed4343
-:END:
-#+title: EU4
-#+date: [2025-07-27 Sun 13:04]
-
-* Warfare
-Here’s a **compressed summary** of the combat guide and a **clear roadmap** for mastering EU4 warfare:
-
----
-
-## 📌 **Summary: How Warfare Works in EU4**
-
-1. **Army Basics**
-
-   * **Infantry** = cheap, essential frontline.
-   * **Cavalry** = expensive, useful for flanking in early game, less important later (except hordes, Poland, Ottomans).
-   * **Artillery** = expensive but crucial for sieges & late-game backline firepower.
-
-2. **Manpower & Force Limit**
-
-   * Manpower is your lifeblood; avoid attrition & unnecessary fights.
-   * Force limit is a **soft cap**—exceeding it costs extra maintenance.
-
-3. **Generals & Pips**
-
-   * Pips = combat effectiveness (fire, shock, maneuver, siege).
-   * **Shock** is stronger early game, **fire** dominates late game.
-   * Higher maneuver helps negate terrain penalties.
-
-4. **Battles**
-
-   * Morale = health bar; reaching 0 loses battle.
-   * Two phases: **fire phase** → **shock phase** (every 3 days).
-   * Terrain & crossing penalties matter a lot.
-   * Stackwipe = enemy has 0 morale + less than half your troops.
-
-5. **Combat Width & Composition**
-
-   * Combat width = how many units fight at once.
-   * Early game: mostly infantry + 2–4 cavalry.
-   * Mid-game: add artillery for sieges.
-   * Late game: full combat width infantry + artillery, minimal cavalry.
-
-6. **Sieges**
-
-   * Fort level × 3 = minimum siege troops.
-   * Artillery speeds sieges; naval blockade + artillery barrage = faster walls breached.
-
-7. **Attrition & Reinforcement**
-
-   * Don’t doomstack unnecessarily—attrition bleeds manpower.
-   * Reinforce battles in waves to avoid artillery moving to the frontline.
-
-8. **Army Modifiers**
-
-   * Early game = morale important.
-   * Late game = discipline & combat ability more impactful.
-   * Keep up with military tech to maintain tactics advantage.
-
-9. **General Tips**
-
-   * Pick defensive terrain.
-   * Bait AI into bad fights.
-   * Consolidate damaged regiments after battles.
-   * Use scorched earth & movement tricks to delay enemies.
-
----
-
-## 🗺️ **Roadmap to Mastering EU4 Warfare**
-
-### **Phase 1: Foundation (Early Game, Tech < 7)**
-
-✅ Focus on:
-
-* Cheap infantry + 2–4 cavalry.
-* Morale boosters (advisor, ideas).
-* Avoid bad terrain fights, play defensive.
-* Learn **combat width** & don’t exceed it.
-* Practice shift-consolidation after battles.
-
-🎯 **Goal:** Win small, efficient battles, avoid attrition.
-
----
-
-### **Phase 2: Transition (Mid Game, Tech 7–15)**
-
-✅ Add:
-
-* Artillery for sieges (not full combat width yet).
-* Learn siege mechanics (fort level, artillery bonus, naval blockades).
-* Split stacks to avoid attrition; reinforce only when needed.
-* Maintain **discipline & tactics** via tech and ideas.
-
-🎯 **Goal:** Capture forts fast, minimize manpower drain.
-
----
-
-### **Phase 3: Mastery (Late Game, Tech 16+)**
-
-✅ Optimize:
-
-* Full combat width artillery + infantry.
-* Reinforcement waves to protect artillery from frontline.
-* Stack discipline, combat ability, & late-game firepower.
-* Use baiting, scorched earth, & terrain traps vs AI.
-
-🎯 **Goal:** Destroy enemies in decisive battles, stackwipe, and siege fast.
-
----
-
-### **Advanced Tricks**
-
-* **Bait stacks** into mountains, rivers, or forts.
-* Use **control + right-click** to cancel locked movement.
-* Micro reinforcement timing so artillery stays safe.
-* Always stay **ahead in military tech**—tech advantage > numbers.
-
----
-
-Want me to **turn this into a 3-stage training plan** (with daily drills, like “today learn sieges, tomorrow cavalry use, etc.”) so you can systematically master each phase? Or should I **make a printable 1-page cheat sheet** for quick reference during campaigns?
-
-== Military Questions ==
-
-Here’s a comprehensive quiz to challenge your understanding of Europa Universalis IV land warfare basics and key metrics. Try to answer without looking back at the notes!
-
-## EU4 Land Warfare & Army Management Quiz
-
-### Unit Types & Composition
-
-1. What are the three primary types of land units in EU4, and what is the main role of each?
-2. Why is it important not to exceed your force limit, and what penalties do you incur if you do?
-3. In the early game, what is the most efficient cavalry number to have on each flank if you can afford it?
-4. What happens if you compose an army of only artillery regiments?
-
-### Generals & Army Leaders
-
-5. Name the three ways you can obtain a general in EU4.
-6. What are “pips” in the context of EU4, and which are most valuable for a general in the early vs. late game?
-7. How does a general’s maneuver pip help in combat and movement?
-
-### Battle System & Mechanics
-
-8. Describe the two primary combat phases in EU4 battles and what unit attributes are used in each.
-9. What is a stackwipe, and under what conditions can it occur?
-10. How does flanking work in battle, and which unit has the greatest flanking range?
-
-### Sieges & Attrition
-
-11. What’s the minimum number of troops required to lay siege to a fort?
-12. How can artillery help during a siege besides increasing your army’s firepower?
-13. What is attrition, how does it affect your armies, and how can it be minimized?
-
-### Army Metrics & Modifiers
-
-14. Why is morale important in the early game, and what becomes more important in late game battles?
-15. How do discipline and military tactics affect battle outcomes?
-16. What is army professionalism, and how is it increased or lost?
-17. What does “combat width” represent, and how should it influence your army composition?
-
-### Strategy & General Tips
-
-18. Why is it a bad idea to move your entire army as one huge “doomstack”?
-19. How can terrain and fortifications be used to your advantage in battles?
-20. What should you do with damaged units after a battle to maximize your next fight’s effectiveness?
-
-== Answers ==
-
-## Complete Answers to the EU4 Army & Warfare Quiz
-(with Relevant Metrics Explained)
-
-### Unit Types & Composition
-
-1. **Three primary types of land units:**
-   - **Infantry:** Core frontline unit; cheapest; absorbs most casualties.
-   - **Cavalry:** Fights on flanks; greater flanking range (metric: flanking range), higher shock damage (shock pips), but more expensive.
-   - **Artillery:** Fights from the back row (metric: back row fire); provides siege bonuses; expensive and vulnerable if in the frontline.
-
-2. **Importance of not exceeding force limit:**
-   - **Force Limit** is a metric representing the cap of “free” regiments. Exceeding it increases maintenance costs drastically, which can bankrupt a nation. Going above is only justified with substantial economic advantages or temporary, critical wars.
-
-3. **Efficient cavalry number per flank:**
-   - 2 cavalry per flank (total of 4 for a full combat width) is most cost-effective. Metric: Cavalry’s flanking range—they efficiently attack adjacent enemy units without overextending.
-
-4. **Army composed of only artillery regiments:**
-   - Artillery alone cannot fill the frontline and, if forced to the front, takes double damage and is wiped easily (metrics: front row/back row, artillery vulnerability).
-
-### Generals & Army Leaders
-
-5. **Three ways to obtain a general:**
-   - Recruit with military monarch points (metric: army tradition influences quality).
-   - Make your ruler or heir a general (metric: ruler’s monarch points affect pips).
-   - Hire mercenary company with a general (metric: mercenary tradition).
-
-6. **What are “pips,” and their value by era:**
-   - “Pips” are metrics indicating a general’s/combat unit’s capability in Fire, Shock, Maneuver, and Siege. Early game: shock pips are most valuable due to low firepower. Late game: fire and siege pips become more important due to increased artillery and firearm tech.
-
-7. **Maneuver pip benefits:**
-   - Higher maneuver means faster movement, better reinforcement speed, and negates some terrain/river crossing penalties (metrics: movement speed, terrain penalty reduction).
-
-### Battle System & Mechanics
-
-8. **Primary combat phases and relevant metrics:**
-   - Each battle alternates between **fire** (uses fire pips) and **shock** (uses shock pips) phases, with both frontline and back row units contributing differently.
-
-9. **Stackwipe definition and criteria:**
-   - Occurs if a side’s army hits zero morale and has less than half the troops of the winner within the first 4 combat rounds (metrics: morale, troop count ratio).
-
-10. **How flanking works, and its metrics:**
-    - Every unit has a base “flanking range” determining how many adjacent regiments it can hit. Cavalry (typically flanking range of 2) exceeds infantry, striking more enemy units effectively.
-
-### Sieges & Attrition
-
-11. **Minimum troops for siege:**
-    - 3×fort garrison size (a fixed metric shown in-game) + 1,000 troops are needed even to begin a siege.
-
-12. **Artillery’s siege role (metric):**
-    - Artillery provides siege bonus: 5 artillery per fort level maximizes siege progress. Also, artillery increases siege ability when calculating monthly siege rolls.
-
-13. **Attrition effects and minimization:**
-    - Attrition represents a percentage of troops lost monthly based on province supply limits, terrain, and seasons. Keep stacks under supply limits and avoid harsh climates for minimal losses. Metric: supply limit, attrition rate.
-
-### Army Metrics & Modifiers
-
-14. **Morale early, discipline late—why:**
-    - Early game: morale (metric) keeps armies from breaking. Late game: discipline (increases all damage dealt) and military tactics (mitigates losses) outscale basic morale.
-
-15. **Discipline/military tactics in battle:**
-    - Each point of discipline boosts your troops’ overall damage dealt and reduces damage taken. Military tactics is a multiplier reducing incoming losses—a higher value gives a distinct edge.
-
-16. **Army professionalism—what is it and how changed:**
-    - Metric showing standing army quality. Increases with drilling and hiring generals. Using mercenaries reduces professionalism. High professionalism gives bonuses (e.g., reliable reinforcements, faster siege ability).
-
-17. **Combat width role in composition:**
-    - “Combat width” sets the max number of units per row in a battle. Army composition should match current combat width metric—excess units rotate in as casualties occur. (E.g., if combat width is 20, aim for 20 infantry/artillery up front/back.)
-
-### Strategy & General Tips
-
-18. **Doomstacking risks:**
-    - Moving the full force together leads to excessive attrition (attrition metric), draining manpower and funds, even before battles.
-
-19. **Terrain/fortification advantage:**
-    - Defending on tough terrain (metric: terrain type—mountains, rivers, forests) gives dice roll bonuses/penalties and better defensive outcomes. Forts guarantee defender status and add fort defense modifiers for battles within their zone.
-
-20. **What to do with damaged units:**
-    - Use “shift-consolidate” to merge weak regiments (metrics: regiment strength, combat effectiveness). Keeps your frontline strong and prevents weak units from dying in upcoming battles.
-
-### Key Metrics Recap
-
+#+TITLE: EU4 Warfare Guide
+#+AUTHOR: Sid
+#+DATE: [2025-02-11 Tue]
+
+* Combat System Overview
+
+** Army Basics
+*** Unit Types
+- *Infantry* :: Cheap, essential frontline units
+- *Cavalry* :: Expensive, useful for flanking in early game, less important later (except hordes, Poland, Ottomans)
+- *Artillery* :: Expensive but crucial for sieges & late-game backline firepower
+
+*** Manpower & Force Limit
+- Manpower is your lifeblood; avoid attrition & unnecessary fights
+- Force limit is a *soft cap* — exceeding it costs extra maintenance
+- Force Limit represents the cap of "free" regiments
+- Exceeding it increases maintenance costs drastically, which can bankrupt a nation
+
+*** Generals & Pips
+- Pips = combat effectiveness (fire, shock, maneuver, siege)
+- *Shock* is stronger early game, *fire* dominates late game
+- Higher maneuver helps negate terrain penalties
+- Three ways to obtain generals:
+  1. Recruit with military monarch points (army tradition influences quality)
+  2. Make your ruler or heir a general
+  3. Hire mercenary company with a general
+
+** Battle Mechanics
+
+*** Combat Phases
+- Morale = health bar; reaching 0 loses battle
+- Two phases: *fire phase* → *shock phase* (every 3 days)
+- Each battle alternates between fire (uses fire pips) and shock (uses shock pips) phases
+- Both frontline and back row units contribute differently
+
+*** Terrain & Penalties
+- Terrain & crossing penalties matter significantly
+- Defending on tough terrain (mountains, rivers, forests) gives dice roll bonuses
+- Forts guarantee defender status and add fort defense modifiers
+
+*** Stackwipe
+- Stackwipe = enemy has 0 morale + less than half your troops
+- Occurs if a side's army hits zero morale and has less than half the troops of the winner within the first 4 combat rounds
+
+*** Flanking
+- Every unit has a base "flanking range" determining how many adjacent regiments it can hit
+- Cavalry (typically flanking range of 2) exceeds infantry, striking more enemy units effectively
+- Flanking works when combat width isn't completely filled
+
+** Combat Width & Army Composition
+
+*** Combat Width Explained
+- Combat width = how many units fight at once
+- Sets the max number of units per row in a battle
+- Army composition should match current combat width
+- Excess units rotate in as casualties occur
+
+*** Composition by Game Phase
+**** Early Game (Tech < 7)
+- Mostly infantry + 2–4 cavalry
+- 2 cavalry per flank (total of 4 for full combat width) is most cost-effective
+- Don't exceed combat width
+
+**** Mid-Game (Tech 7–15)
+- Add artillery for sieges (not full combat width yet)
+- Artillery provides siege bonus: 5 artillery per fort level maximizes siege progress
+
+**** Late Game (Tech 16+)
+- Full combat width infantry + artillery, minimal cavalry
+- Artillery fights from back row, provides siege bonuses
+- *Never compose army of only artillery* — they take double damage on frontline
+
+** Sieges
+
+*** Basic Mechanics
+- Fort level × 3 = minimum siege troops
+- Minimum: 3×fort garrison size + 1,000 troops needed to begin siege
+- Artillery speeds sieges; naval blockade + artillery barrage = faster walls breached
+
+*** Artillery Benefits
+- 5 artillery per fort level maximizes siege progress
+- Artillery increases siege ability when calculating monthly siege rolls
+
+** Attrition & Reinforcement
+
+*** Attrition Management
+- Don't doomstack unnecessarily — attrition bleeds manpower
+- Attrition represents percentage of troops lost monthly based on:
+  - Province supply limits
+  - Terrain
+  - Seasons
+- Keep stacks under supply limits and avoid harsh climates
+
+*** Reinforcement Strategy
+- Reinforce battles in waves to avoid artillery moving to frontline
+- Split stacks to avoid attrition; reinforce only when needed
+- Higher maneuver means faster movement, better reinforcement speed
+- After battles, use "shift-consolidate" to merge weak regiments
+
+** Army Modifiers
+
+*** Early Game Focus
+- Morale keeps armies from breaking
+- Morale boosters (advisor, ideas) are crucial
+
+*** Late Game Focus
+- Discipline increases all damage dealt and reduces damage taken
+- Military tactics is a multiplier reducing incoming losses
+- Discipline & combat ability more impactful than morale
+- Keep up with military tech to maintain tactics advantage
+
+*** Army Professionalism
+- Metric showing standing army quality
+- Increases with drilling and hiring generals
+- Using mercenaries reduces professionalism
+- High professionalism gives bonuses:
+  - Reliable reinforcements
+  - Faster siege ability
+
+* Advanced Combat Tactics
+
+** General Tips
+- Pick defensive terrain
+- Bait AI into bad fights
+- Consolidate damaged regiments after battles
+- Use scorched earth & movement tricks to delay enemies
+
+** Advanced Tricks
+- Bait stacks into mountains, rivers, or forts
+- Use Control + right-click to cancel locked movement
+- Micro reinforcement timing so artillery stays safe
+- *Always stay ahead in military tech* — tech advantage > numbers
+
+* Mastery Roadmap
+
+** Phase 1: Foundation (Early Game, Tech < 7)
+
+*** Focus Areas
+- Cheap infantry + 2–4 cavalry
+- Morale boosters (advisor, ideas)
+- Avoid bad terrain fights, play defensive
+- Learn combat width & don't exceed it
+- Practice shift-consolidation after battles
+
+*** Goal
+Win small, efficient battles, avoid attrition
+
+** Phase 2: Transition (Mid Game, Tech 7–15)
+
+*** Focus Areas
+- Artillery for sieges (not full combat width yet)
+- Learn siege mechanics (fort level, artillery bonus, naval blockades)
+- Split stacks to avoid attrition; reinforce only when needed
+- Maintain discipline & tactics via tech and ideas
+
+*** Goal
+Capture forts fast, minimize manpower drain
+
+** Phase 3: Mastery (Late Game, Tech 16+)
+
+*** Focus Areas
+- Full combat width artillery + infantry
+- Reinforcement waves to protect artillery from frontline
+- Stack discipline, combat ability, & late-game firepower
+- Use baiting, scorched earth, & terrain traps vs AI
+
+*** Goal
+Destroy enemies in decisive battles, stackwipe, and siege fast
+
+* Unit-Specific Knowledge
+
+** Cavalry Deep Dive
+
+*** When Cavalry is Terrible (Most Cases)
+- Twice as expensive as infantry in recruitment and maintenance
+- Generally inefficient for most countries
+- Management difficulty — infantry dies in center first, leaving cavalry overexposed
+- Usefulness drops dramatically after military tech 16
+
+*** When Cavalry is Essential
+- Playing as Poland
+- Playing as a horde nation
+- Have significant cavalry combat ability bonuses (+50% or more)
+- Hordes get cavalry bonuses and reduced cost
+
+*** Cavalry Management Tips
+- Small nations: disband starting cavalry to save money
+- Exception: need it immediately for early wars (like France vs. England)
+- After early wars, consolidate or remove cavalry regiments ASAP
+- Can use a couple of cavalry units for optimal flanking until artillery dominates
+- Some players use cavalry for manpower efficiency in decisive early wars
+
+*** Community Perspectives
+- With right bonuses (shock ability, general, etc.), cavalry stacks can be devastating
+- Requires good economy and army quality
+- Some use cavalry for fun, theme, or roleplay despite inefficiency
+- *Bottom line:* Cavalry is mostly terrible unless you're Poland, a horde, or have huge cavalry combat ability bonuses
+
+* Key Metrics Reference
+
+** Combat Metrics
 - Force Limit
 - Flanking Range
 - Combat Width
@@ -254,458 +206,280 @@ Here’s a comprehensive quiz to challenge your understanding of Europa Universa
 - Morale
 - Discipline
 - Military Tactics
+
+** Army Quality Metrics
 - Army Tradition
 - Army Professionalism
-- Supply Limit
-- Attrition
 - Siege Ability
 
-Mastery of these metrics will make you far more effective at managing armies and winning wars in EU4.
-
-== CHATGPT ==
-Here’s a **compressed summary** of the combat guide and a **clear roadmap** for mastering EU4 warfare:
-
----
-
-## 📌 **Summary: How Warfare Works in EU4**
-
-1. **Army Basics**
-
-   * **Infantry** = cheap, essential frontline.
-   * **Cavalry** = expensive, useful for flanking in early game, less important later (except hordes, Poland, Ottomans).
-   * **Artillery** = expensive but crucial for sieges & late-game backline firepower.
-
-2. **Manpower & Force Limit**
-
-   * Manpower is your lifeblood; avoid attrition & unnecessary fights.
-   * Force limit is a **soft cap**—exceeding it costs extra maintenance.
-
-3. **Generals & Pips**
-
-   * Pips = combat effectiveness (fire, shock, maneuver, siege).
-   * **Shock** is stronger early game, **fire** dominates late game.
-   * Higher maneuver helps negate terrain penalties.
-
-4. **Battles**
-
-   * Morale = health bar; reaching 0 loses battle.
-   * Two phases: **fire phase** → **shock phase** (every 3 days).
-   * Terrain & crossing penalties matter a lot.
-   * Stackwipe = enemy has 0 morale + less than half your troops.
-
-5. **Combat Width & Composition**
-
-   * Combat width = how many units fight at once.
-   * Early game: mostly infantry + 2–4 cavalry.
-   * Mid-game: add artillery for sieges.
-   * Late game: full combat width infantry + artillery, minimal cavalry.
-
-6. **Sieges**
-
-   * Fort level × 3 = minimum siege troops.
-   * Artillery speeds sieges; naval blockade + artillery barrage = faster walls breached.
-
-7. **Attrition & Reinforcement**
-
-   * Don’t doomstack unnecessarily—attrition bleeds manpower.
-   * Reinforce battles in waves to avoid artillery moving to the frontline.
-
-8. **Army Modifiers**
-
-   * Early game = morale important.
-   * Late game = discipline & combat ability more impactful.
-   * Keep up with military tech to maintain tactics advantage.
-
-9. **General Tips**
-
-   * Pick defensive terrain.
-   * Bait AI into bad fights.
-   * Consolidate damaged regiments after battles.
-   * Use scorched earth & movement tricks to delay enemies.
-
----
-
-## 🗺️ **Roadmap to Mastering EU4 Warfare**
-
-### **Phase 1: Foundation (Early Game, Tech < 7)**
-
-✅ Focus on:
-
-* Cheap infantry + 2–4 cavalry.
-* Morale boosters (advisor, ideas).
-* Avoid bad terrain fights, play defensive.
-* Learn **combat width** & don’t exceed it.
-* Practice shift-consolidation after battles.
-
-🎯 **Goal:** Win small, efficient battles, avoid attrition.
-
----
-
-### **Phase 2: Transition (Mid Game, Tech 7–15)**
-
-✅ Add:
-
-* Artillery for sieges (not full combat width yet).
-* Learn siege mechanics (fort level, artillery bonus, naval blockades).
-* Split stacks to avoid attrition; reinforce only when needed.
-* Maintain **discipline & tactics** via tech and ideas.
-
-🎯 **Goal:** Capture forts fast, minimize manpower drain.
-
----
-
-### **Phase 3: Mastery (Late Game, Tech 16+)**
-
-✅ Optimize:
-
-* Full combat width artillery + infantry.
-* Reinforcement waves to protect artillery from frontline.
-* Stack discipline, combat ability, & late-game firepower.
-* Use baiting, scorched earth, & terrain traps vs AI.
-
-🎯 **Goal:** Destroy enemies in decisive battles, stackwipe, and siege fast.
-
----
-
-### **Advanced Tricks**
-
-* **Bait stacks** into mountains, rivers, or forts.
-* Use **control + right-click** to cancel locked movement.
-* Micro reinforcement timing so artillery stays safe.
-* IDEA Always stay **ahead in military tech**—tech advantage > numbers.
-:PROPERTIES:
-:ID:       90aac52d-9361-44e9-8100-7c4dbfb43633
-:END:
-
----
-
-=== My Journey so far ===
-<2025-08-04 Mon>
-* Taking up beginner nations and start playing it
-
-## 🧭 PHASED LEARNING APPROACH
-
-**Years per campaign**: 1444–1494
-**Focus**: Learn one major system or playstyle per nation.
-
----
-
-### 1. **Castile 🇪🇸** — *Colonisation & Personal Unions*
-
-**Starting Difficulty**: Easy
-**Goal**:
-
-* Form Spain via Iberian Wedding or decision
-* Start colonising the New World (focus on Canaries, then Caribbean)
-* Secure a PU over Aragon and/or Naples
-
-**What You’ll Learn**:
-
-* Personal unions
-* Colonial mechanics
-* Mission tree use
-* Managing estates and inflation (gold mines)
-
----
-
-### 2. **France 🇫🇷** — *Warfare & Vassal Management*
-
-**Starting Difficulty**: Easy
-**Goal**:
-
-* Integrate your vassals (Armagnac, Bourbon, etc.)
-* Crush England and push them out of the continent
-* Start pushing into Burgundy or Provence
-
-**What You’ll Learn**:
-
-* Strong military management
-* PU handling
-* AE and coalition balancing
-* Diplomacy
-
----
-
-### 3. **Portugal 🇵🇹** — *Peaceful Coloniser & Trade Empire*
-
-**Starting Difficulty**: Very Easy
-**Goal**:
-
-* Discover West Africa and colonise Cape Verde
-* Build a fleet and dominate trade in Sevilla
-* Ally Castile and avoid early wars
-
-**What You’ll Learn**:
-
-* Naval dominance
-* Trade routes
-* Colonial range mechanics
-* Exploration
-
----
-
-### 4. **Austria 🇦🇹** — *HRE Diplomacy & Personal Unions*
-
-**Starting Difficulty**: Medium
-**Goal**:
-
-* Secure the HRE emperorship
-* PU over Bohemia (via events)
-* Expand into Hungary or get PU (with luck)
-
-**What You’ll Learn**:
-
-* Imperial Authority
-* Defensive diplomacy
-* Personal unions via events
-* Managing Aggressive Expansion inside HRE
-
----
-
-### 5. **England 🇬🇧** — *Naval Power, Parliament & Religious Shifts*
-
-**Starting Difficulty**: Easy
-**Goal**:
-
-* Lose French holdings gracefully
-* Begin colonising North America
-* Flip Anglican or remain Catholic
-
-**What You’ll Learn**:
-
-* Naval supremacy
-* Colonial competition
-* Religious mechanics (esp. Reformation)
-* Parliament usage
-
----
-
-### 6. **Denmark 🇩🇰** — *Unions & Scandinavia*
-
-**Starting Difficulty**: Medium
-**Goal**:
-
-* Maintain the Kalmar Union (Norway & Sweden)
-* Crush Swedish rebellion
-* Start expanding into the Baltics
-
-**What You’ll Learn**:
-
-* Liberty desire & subject management
-* Naval power and terrain
-* Expansion into weak neighbours (Novgorod, Teutons)
-
----
-
-### 7. **Muscovy 🇷🇺** — *Snowballing & Vassal Swarms*
-
-**Starting Difficulty**: Easy-Medium
-**Goal**:
-
-* Vassalise/annex Novgorod
-* Push east into hordes (Kazan, Nogai)
-* Start forming Russia
-
-**What You’ll Learn**:
-
-* Army quality vs quantity
-* Managing harsh winters
-* Orthodox mechanics
-* Horde wars & steppe expansion
-
----
-
-### 8. **Brandenburg 🇩🇪** — *Tall Play & Military Focus*
-
-**Starting Difficulty**: Medium
-**Goal**:
-
-* Form Prussia (or start the process)
-* Focus on military ideas
-* Get strong allies like Austria or Poland
-
-**What You’ll Learn**:
-
-* Military drill and professionalism
-* Tall development
-* HRE relations
-* Using army tradition for generals
-
----
-
-### 9. **Venice 🇮🇹** — *Trade & Navy in the Mediterranean*
-
-**Starting Difficulty**: Medium
-**Goal**:
-
-* Hold the Adriatic
-* Dominate Ragusa & Alexandria trade nodes
-* Survive the Ottomans or ally Austria
-
-**What You’ll Learn**:
-
-* Trade League & Trade Company usage
-* Naval blockades
-* Merchant Republic mechanics
-* Multi-front diplomacy
-
----
-
-### 10. **Poland 🇵🇱** — *Elective Monarchy & Cavalry Power*
-
-**Starting Difficulty**: Easy
-**Goal**:
-
-* PU Lithuania
-* Expand into Teutonic Order
-* Convert to Commonwealth (if possible in 50 years)
-
-**What You’ll Learn**:
-
-* Elective monarchy
-* Cavalry superiority
-* Vassal integration
-* Orthodox/Catholic border dynamics
-
----
-
-## 🎯 PLAY ORDER SUGGESTION (Smooth Skill Curve):
-
-1. Portugal (Easy intro)
-2. Castile
-3. France
-4. England
-5. Austria
-6. Muscovy
-7. Denmark
-8. Venice
-9. Brandenburg
-10. Poland
-
----
-
-## 🛠️ EXTRA TIPS FOR ALL CAMPAIGNS
-
-* **Use mission trees**: Many countries have excellent guided missions.
-* **Check diplomacy** every year: Alliances, truces, and PUs evolve.
-* **Always rival someone** to gain power projection.
-* **Use estates early** to boost mana and economy.
-* **Focus on one idea group per 50-year run**: Military, Economic, Exploration, etc.
-
----
-
-Would you like a printable table or tracker for these campaigns? I can also prepare a progress log template per nation if you want to track learnings.
-* Tips on mechanics:
-** Cavalry
-Summary of "EU4 Cavalry is TERRIBLE" by Florryworry:
-
-Cavalry in EU4, though expensive, has more shock damage and flanking range than infantry, but is rarely worth the cost.
-
-Flanking Range: Cavalry deals more damage from the sides if the combat width isn’t filled, but you’re likely to win that fight without cavalry anyway.
-
-Cost Effectiveness: Cavalry is twice as expensive as infantry in recruitment and maintenance, making it generally inefficient for most countries.
-
-When To Use Cavalry:
-
-Essential only if you are playing as Poland, a horde nation, or have significant cavalry combat ability bonuses (+50% or more).
-
-Hordes and similar nations: Cavalry becomes much better due to bonuses and reduced cost.
-
-Management Difficulty: Using lots of cavalry is micromanagement-heavy. Infantry dies in the center first, leaving cavalry overexposed in multi-battle scenarios.
-
-Patch Changes: Some updates have scaled cavalry stats, making them “slightly less bad,” but no major overhaul to their issues.
-
-Starting Cavalry: If playing as a small nation, you should disband starting cavalry to save money, unless you need it immediately for early wars (like France vs. England).
-
-Transition Point: After early wars, consolidate or remove cavalry regiments as soon as possible.
-
-Optimizing Battles: Full micro-optimization (like staggering infantry/cavalry arrivals) is too much hassle and detracts from big strategic decisions.
-
-Mercenary Cavalry: You can’t choose the composition of mercenary companies - they bring cavalry even if you don’t want or need it.
-
-Key Point:
-
-Unless you have strong cavalry bonuses or play a horde, cavalry generally isn’t worth using due to high costs and minimal advantages over infantry.
-
-Extra community takes (from comments):
-
-Some players argue cavalry is manpower efficient for small nations and advantageous for decisive early wars.
-
-With right bonuses (shock ability, general, etc.), cavalry stacks can be devastating—but require good eco and army quality.
-
-Some like to use a couple of cavalry units for optimal flanking until artillery becomes dominant.
-
-Cavalry usefulness drops dramatically after military tech 16 when artillery and firepower start to matter more than shock.
-
-Flex and tradition: Some use cavalry just for fun, theme, or roleplay, knowing it’s inefficient!
-
-Bottom line:
-Cavalry is mostly terrible in EU4 unless you’re Poland, a horde, or have huge cavalry combat ability bonuses. For most nations, disband and rely on infantry!
-
-
-* Clerical Education
-Good question, Bravo 1. Let’s strip it down.
-
-The **Clerical Education** modifier in **EU4** comes from estate privileges (usually from the Clergy estate, depending on religion). It typically gives:
-
-** **-5% Technology cost**
-** **+1 Tolerance of the True Faith**
-
-### Why it matters:
-
-1. **Cheaper Tech = Snowball Faster**
-
-   * Tech is one of the biggest monarch point sinks in the game.
-   * A 5% discount stacks with other modifiers (Innovative ideas, neighbour bonus, etc.).
-   * Over the course of the game, you save **hundreds of monarch points** → which can be reinvested in development, coring, or ideas.
-
-2. **Tolerance of the True Faith = Stability in Core Lands**
-
-   * More tolerance = less unrest in provinces of your state religion.
-   * Keeps stability costs down, fewer rebellions, and better economy because you’re not fighting rebels every other year.
-
-3. **Synergy with Religious or Innovative Play**
-
-   * If you lean into religious unity, the unrest reduction is noticeable.
-   * If you stack tech discounts (Innovative + Universities + Clerical Education), you can become a **tech leader**, outpacing rivals militarily.
-
-### Why you *need* it (or at least why it’s good):
-
-** In EU4, the game is basically a fight for **mana efficiency**. Anything that reduces the cost of monarch points is gold.
-** Clerical Education is one of the easiest early-game ways to get a tech discount without heavy investment.
-** If you’re running a tall or semi-tall game, this privilege pays for itself many times over.
-
-👉 In short:
-You take **Clerical Education** because **mana is life** in EU4. A 5% tech discount looks small, but over 400 years it turns you into a sharper, faster, and stronger nation.
-
-Do you want me to run you a **mana savings example** (how many monarch points you actually save with Clerical Education across the campaign)?
-
-*
-* Provice War Cost
-In **Europa Universalis IV**, the **province war score cost** is the amount of **warscore** you need to demand that province in a peace deal.
-
-** Each province has a **base warscore cost**, which is mostly determined by its **development** (tax + production + manpower).
-
-  * Roughly, **each point of development = 1 warscore cost** (modified by other factors).
-  * Example: A 20-dev province will usually cost around **20 warscore**.
-
-** **Modifiers that affect province warscore cost:**
-
-  * **Province modifiers:** Some provinces (capitals, high trade power centres, or important fort locations) are more expensive.
-  * **Ideas & Policies:** For example, the **Influence idea group** has a reduction to province war score cost, making conquest cheaper.
-  * **Casus Belli:** Some CBs change the cost. For instance:
-
-    * **Conquest CB** → normal warscore cost.
-    * **Reconquest CB** → provinces that are cores of your vassals cost only **75% warscore**.
-    * **Imperialism CB** → all provinces cost **25% less warscore**.
-  * **Being in the Holy Roman Empire:** Non-members trying to take HRE land may pay extra.
-
-** **Strategic meaning:**
-
-  * Warscore is capped at 100. If a single province costs 40 warscore, you won’t be able to grab much else in that war.
-  * High-development provinces (e.g., Paris, Constantinople) are very “expensive” to take in one go.
-
-👉 So in short:
-**Province warscore cost = how much peace deal leverage you must spend to demand a province. It scales with development and is modified by CB, ideas, and circumstances.**
-
-Do you want me to also break down **how to *see* province war score cost in-game** (like where it’s displayed when you hover)?
+** Logistical Metrics
+- Supply Limit
+- Attrition
+
+* Important Game Mechanics
+
+** Clerical Education Privilege
+
+*** Benefits
+- -5% Technology cost
+- +1 Tolerance of the True Faith
+
+*** Why It Matters
+1. *Cheaper Tech = Snowball Faster*
+   - Tech is one of the biggest monarch point sinks
+   - 5% discount stacks with other modifiers (Innovative ideas, neighbour bonus)
+   - Over the campaign, saves hundreds of monarch points
+   - Can be reinvested in development, coring, or ideas
+
+2. *Tolerance of True Faith = Stability*
+   - More tolerance = less unrest in provinces of state religion
+   - Keeps stability costs down
+   - Fewer rebellions
+   - Better economy (not fighting rebels constantly)
+
+3. *Synergy with Religious or Innovative Play*
+   - Stacks with Innovative + Universities for tech leadership
+   - Noticeable unrest reduction with religious unity focus
+
+*** Strategic Value
+- EU4 is fundamentally about mana efficiency
+- Easiest early-game way to get tech discount
+- Essential for tall or semi-tall gameplay
+- 5% looks small but compounds significantly over 400 years
+
+** Province War Score Cost
+
+*** Definition
+Amount of warscore needed to demand a province in peace deal
+
+*** Calculation
+- Base warscore cost determined by development (tax + production + manpower)
+- Roughly: each point of development = 1 warscore cost
+- Example: 20-dev province ≈ 20 warscore
+
+*** Modifiers
+**** Province-Based
+- Capitals cost more
+- High trade power centers cost more
+- Important fort locations cost more
+
+**** Ideas & Policies
+- Influence idea group reduces province war score cost
+
+**** Casus Belli Effects
+- Conquest CB → normal warscore cost
+- Reconquest CB → cores of vassals cost only 75% warscore
+- Imperialism CB → all provinces cost 25% less warscore
+
+**** Special Circumstances
+- Holy Roman Empire: non-members pay extra for HRE land
+
+*** Strategic Implications
+- Warscore capped at 100
+- High-development provinces (Paris, Constantinople) very expensive
+- Single 40-warscore province limits other conquest options
+- Plan peace deals around warscore costs
+
+* Learning Campaign Plan
+** Campaign Structure
+- *Duration:* 1444–1494 (50 years each)
+- *Focus:* Learn one major system or playstyle per nation
+
+** Recommended Play Order
+
+| Order | Nation      | Difficulty  | Primary Focus                  |
+|-------+-------------+-------------+--------------------------------|
+|     1 | Portugal    | Very Easy   | Colonization & Trade           |
+|     2 | Castile     | Easy        | Colonization & Personal Unions |
+|     3 | France      | Easy        | Warfare & Vassal Management    |
+|     4 | England     | Easy        | Naval Power & Parliament       |
+|     5 | Austria     | Medium      | HRE Diplomacy & PUs            |
+|     6 | Muscovy     | Easy-Medium | Snowballing & Vassal Swarms    |
+|     7 | Denmark     | Medium      | Unions & Scandinavia           |
+|     8 | Venice      | Medium      | Trade & Mediterranean Navy     |
+|     9 | Brandenburg | Medium      | Tall Play & Military Focus     |
+|    10 | Poland      | Easy        | Elective Monarchy & Cavalry    |
+
+** Nation-Specific Goals
+
+*** 1. Portugal 🇵🇹 — Peaceful Coloniser & Trade Empire
+**** Goals
+- Discover West Africa and colonise Cape Verde
+- Build fleet and dominate trade in Sevilla
+- Ally Castile and avoid early wars
+
+**** Learning Outcomes
+- Naval dominance
+- Trade routes
+- Colonial range mechanics
+- Exploration
+
+*** 2. Castile 🇪🇸 — Colonisation & Personal Unions
+**** Goals
+- Form Spain via Iberian Wedding or decision
+- Start colonising New World (focus on Canaries, then Caribbean)
+- Secure PU over Aragon and/or Naples
+
+**** Learning Outcomes
+- Personal unions
+- Colonial mechanics
+- Mission tree use
+- Managing estates and inflation (gold mines)
+
+*** 3. France 🇫🇷 — Warfare & Vassal Management
+**** Goals
+- Integrate vassals (Armagnac, Bourbon, etc.)
+- Crush England and push them out of continent
+- Start pushing into Burgundy or Provence
+
+**** Learning Outcomes
+- Strong military management
+- PU handling
+- AE and coalition balancing
+- Diplomacy
+
+*** 4. England 🇬🇧 — Naval Power, Parliament & Religious Shifts
+**** Goals
+- Lose French holdings gracefully
+- Begin colonising North America
+- Flip Anglican or remain Catholic
+
+**** Learning Outcomes
+- Naval supremacy
+- Colonial competition
+- Religious mechanics (esp. Reformation)
+- Parliament usage
+
+*** 5. Austria 🇦🇹 — HRE Diplomacy & Personal Unions
+**** Goals
+- Secure HRE emperorship
+- PU over Bohemia (via events)
+- Expand into Hungary or get PU (with luck)
+
+**** Learning Outcomes
+- Imperial Authority
+- Defensive diplomacy
+- Personal unions via events
+- Managing Aggressive Expansion inside HRE
+
+*** 6. Muscovy 🇷🇺 — Snowballing & Vassal Swarms
+**** Goals
+- Vassalise/annex Novgorod
+- Push east into hordes (Kazan, Nogai)
+- Start forming Russia
+
+**** Learning Outcomes
+- Army quality vs quantity
+- Managing harsh winters
+- Orthodox mechanics
+- Horde wars & steppe expansion
+
+*** 7. Denmark 🇩🇰 — Unions & Scandinavia
+**** Goals
+- Maintain Kalmar Union (Norway & Sweden)
+- Crush Swedish rebellion
+- Start expanding into Baltics
+
+**** Learning Outcomes
+- Liberty desire & subject management
+- Naval power and terrain
+- Expansion into weak neighbours (Novgorod, Teutons)
+
+*** 8. Venice 🇮🇹 — Trade & Navy in the Mediterranean
+**** Goals
+- Hold the Adriatic
+- Dominate Ragusa & Alexandria trade nodes
+- Survive the Ottomans or ally Austria
+
+**** Learning Outcomes
+- Trade League & Trade Company usage
+- Naval blockades
+- Merchant Republic mechanics
+- Multi-front diplomacy
+
+*** 9. Brandenburg 🇩🇪 — Tall Play & Military Focus
+**** Goals
+- Form Prussia (or start the process)
+- Focus on military ideas
+- Get strong allies like Austria or Poland
+
+**** Learning Outcomes
+- Military drill and professionalism
+- Tall development
+- HRE relations
+- Using army tradition for generals
+
+*** 10. Poland 🇵🇱 — Elective Monarchy & Cavalry Power
+**** Goals
+- PU Lithuania
+- Expand into Teutonic Order
+- Convert to Commonwealth (if possible in 50 years)
+
+**** Learning Outcomes
+- Elective monarchy
+- Cavalry superiority
+- Vassal integration
+- Orthodox/Catholic border dynamics
+
+** Universal Campaign Tips
+- *Use mission trees* — many countries have excellent guided missions
+- *Check diplomacy every year* — alliances, truces, and PUs evolve
+- *Always rival someone* to gain power projection
+- *Use estates early* to boost mana and economy
+- *Focus on one idea group per 50-year run* — Military, Economic, Exploration, etc.
+
+* Self-Assessment Quiz
+
+** Unit Types & Composition
+1. What are the three primary types of land units in EU4, and what is the main role of each?
+2. Why is it important not to exceed your force limit, and what penalties do you incur if you do?
+3. In the early game, what is the most efficient cavalry number to have on each flank if you can afford it?
+4. What happens if you compose an army of only artillery regiments?
+
+** Generals & Army Leaders
+5. Name the three ways you can obtain a general in EU4.
+6. What are "pips" in the context of EU4, and which are most valuable for a general in the early vs. late game?
+7. How does a general's maneuver pip help in combat and movement?
+
+** Battle System & Mechanics
+8. Describe the two primary combat phases in EU4 battles and what unit attributes are used in each.
+9. What is a stackwipe, and under what conditions can it occur?
+10. How does flanking work in battle, and which unit has the greatest flanking range?
+
+** Sieges & Attrition
+11. What's the minimum number of troops required to lay siege to a fort?
+12. How can artillery help during a siege besides increasing your army's firepower?
+13. What is attrition, how does it affect your armies, and how can it be minimized?
+
+** Army Metrics & Modifiers
+14. Why is morale important in the early game, and what becomes more important in late game battles?
+15. How do discipline and military tactics affect battle outcomes?
+16. What is army professionalism, and how is it increased or lost?
+17. What does "combat width" represent, and how should it influence your army composition?
+
+** Strategy & General Tips
+18. Why is it a bad idea to move your entire army as one huge "doomstack"?
+19. How can terrain and fortifications be used to your advantage in battles?
+20. What should you do with damaged units after a battle to maximize your next fight's effectiveness?
+
+* Progress Tracking
+** Campaign Log Template
+*** [Nation Name] Campaign: [Start Date] - [End Date]
+**** Primary Goals
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
+
+**** Systems Mastered
+- [ ] System 1
+- [ ] System 2
+- [ ] System 3
+
+**** Key Learnings
+-
+
+**** Mistakes Made
+-
+
+**** What to Practice Next
+-

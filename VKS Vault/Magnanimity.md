@@ -1,1 +1,0 @@
-Magnanimity is when someone feels so self assured and powerful that their cup overfloweth, and they are quite happy to help others .

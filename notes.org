@@ -1,3 +1,8 @@
-* Inbox
-** [2026-02-07 Sat]
-Giving the same thing back to the org agenda than
+* Notes
+** So in what ?
+Obsidian is getting a cli variant
+jmail.org  - visit to learn about the power implications,
+
+* What is the context?
+General capture of the notes / quick notes to capture:
+- in the other way around, did he come there for the meeting?

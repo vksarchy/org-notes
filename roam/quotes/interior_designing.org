@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       44b3c66a-4cac-4462-8576-768f4326b411
+:END:
+#+title: interior designing
+#+date: [2026-02-15 Sun 07:23]
+#+filetags: :quote:design:
+#+business: Kappini
+* Project Overview
+:PROPERTIES:
+:CLIENT: Nathiii
+:LOCATION: mkp
+:PROPERTY_TYPE: Residential
+:PROJECT_START: 2026-02-15
+:PROJECT_END: 2026-02-15
+:BUDGET_RANGE: 25L
+:STATUS: Draft
+:END:
+
+Nathiya with her vintage house renovation in process, requested to do a patch work kind of setup at the beginning.
+
+* Client Requirements
+** Primary Goals
+-
+
+** Must-Haves
+-
+
+* Scope of Work
+- [ ]
+
+* Items & Cost Breakdown
+** Labor Estimates
+| Category | Worker Type | Days | Rate/Day | Subtotal | Notes |
+|----------+-------------+------+----------+----------+-------|
+|          |             |      |          |          |       |
+|----------+-------------+------+----------+----------+-------|
+| LABOR TOTAL |         |      |          |          |       |
+#+TBLFM: $5=$3*$4::@>$5=vsum(@2..@-1)
+
+** Materials Estimate
+| Item | Specification | Qty | Unit | Rate | Subtotal | Vendor |
+|------+---------------+-----+------+------+----------+--------|
+|      |               |     |      |      |          |        |
+|------+---------------+-----+------+------+----------+--------|
+| MATERIALS TOTAL |     |     |      |      |          |        |
+#+TBLFM: $6=$3*$5::@>$6=vsum(@2..@-1)
+
+** Project Summary
+| Category | Amount | % of Total |
+|----------+--------+------------|
+| Labor    |        |            |
+| Materials |       |            |
+|----------+--------+------------|
+| Subtotal |        |            |
+| GST 18%  |        |            |
+|----------+--------+------------|
+| *TOTAL*  |        |            |
+#+TBLFM: @>$2=vsum(@2..@-2)::$3=100*$2/@>$2;%.1f
+
+* Budget Analysis
+** Client Budget: ₹
+** Our Quote: ₹
+** Variance:
+
+* Timeline & Milestones
+| Phase | Task | Start Date | End Date | Status |
+|-------+------+------------+----------+--------|
+|       |      |            |          |        |
+
+* Vendor Contacts
+| Role | Name | Phone | Notes |
+|------+------+-------+-------|
+|      |      |       |       |
+
+* Payment Schedule
+| Milestone | % | Amount | Date | Status |
+|-----------+---+--------+------+--------|
+| Advance   |   |        |      |        |
+
+* Meeting Notes
+** Initial Consultation
+
+* Next Steps
+- [ ]
